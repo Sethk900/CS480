@@ -1,0 +1,44 @@
+Seth King
+CS480
+Meeting Notes for initial meeting with Dr. Karl and the capstone team
+02 February 2021
+
+Questions for Dr. Karl:
+Is JournalMap for profit (i.e. can we use open-source products to support it)?
+	- OpenSource is on the table (start with evaluating the softwares listed on the product description)
+Are Zoom meetings acceptable, or do you prefer to meet in person?
+	- Zoom or in person is fine
+	- Weekly meetings would be best (Tuesday class time) 
+How many people have contributed to this project (the website, not the corpus of articles)?
+	- Bruce Godfry (GIS librarian), Luke Shinneman, Dr. Ma (on a consulting basis), Dr. Gao (mathematics)
+What is the acceptable margin of error for location labeling?
+	-95% accuracy with the well-structured info and regex matching: this will be a discovery exercise for us to see what level of accuracy is possible
+	- TreeSearch (USFS database) tried to do this as well, but just pulled out all place names and threw them on a map
+Is there any budget for this project (i.e. can we potentially incorporate cloud computing resources into our solution)?
+
+One current problem with the implemnetation of JournalMap: developed in Ruby on Rails
+	- Dr. Karl isn't comfortable in Ruby at all
+	- Will be redeveloped in a python-based environment
+	- He is most comfortable with Python
+
+JournalMap will become an API system
+	- This system could be implemented as an API endpoint
+	- There's an industry-standard XML format that's very useful for this purpose (JATS)
+	- Sample implementation: pass in a pdf or JAT, which it parses and returns a list of possible locations and a score of how accurate that guess is
+	- modularity is important for design (swap out algorithms if/when necessary)
+
+Need to find the locations where studies are DONE (Namibia vs new mexico example)
+	-Initially paying his kids to geotag articles
+	- Next, it was basic parsers (i.e. pulling out place coordinates with regexs)
+	- Some parsing involved in this to get it into standard lat/long articles
+	- next up will be ml/nlp to pull them out
+
+Either full-text searches or attribute searches: now we need geographic-based searching
+	- 
+The problem with this problem: scientific articles are full of irrelevant place names, which isn't where the study was done
+It will be ML, but also semantic cues:
+	- i.e. description of 
+
+Jeremy Kinyon: works on the project, a science librarian at the UI library
+
+JournalMap has a distro on Github. They'll get us hooked up to it soon (or rather, when we need to).

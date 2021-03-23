@@ -1,0 +1,18 @@
+Seth King
+Professor Bolden
+CS480 - Log Notes
+21 March 2021
+
+Today I continued testing out some different random things to try to get the SUSE instance, but to no avail. 
+
+Started drafting up a professional-ish message to open up an issue on the mordecai Github page. I'm going to be embarassed if it turns out to be something 
+simple on my end, like an update that I neglected to run, but it is worth the risk.
+
+I also finished up the PowerPoint presentation that I will use to update my teammates on my progress over break at our meeting tomorrow night, and Dr. Karl at our
+standup on Tuesday afternoon. 
+
+All said and done, I spent about two hours on the project today. Some of it (i.e. the work on the EC2 isntance) wasn't particularly helpful, but some of it (i.e.
+working on the presentation) produced some helpful plans and a useful update that can be used to ensure that our team and sponsors are on track. 
+
+As another note, I should try to reach out to Professor Bolden again tomorrow regarding the timeline for snapshot 1. We haven't heard from him in quite some time, 
+and even though I've reached out twice I have received no response. None of the other CS480 students on teh UI CS Discord server seem to have heard anything either. 

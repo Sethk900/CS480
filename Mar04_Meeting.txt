@@ -1,0 +1,33 @@
+Seth King
+Professor Bolden
+CS480 - Team and Sponsor Meeting Notes
+04 March 2021
+
+Today, the development team (Will, Seth, Toby) met with Jeremy and Dr. Karl to do a check-in meeting. 
+The main order of business was the pipeline. I had sent Dr. Karl a workflow diagram last week and asked if he would be alright with us storing some of the 
+articles on S3. 
+
+Progress report:
+Besides the pipeline, we have started to write parsing scripts with python that could either be run on a cloud platform via Databricks, or on a local machine.
+This will convert the data to what I refer to a s "gold" data in the workflow diagram. 
+From here, we're about to shift our focus away from pipelining. I (Seth) can hang back a little bit to keep establishing the pipeline as we move along, but we're really
+looking forward to moving into the actual NLP portion on the project. 
+This will consist of the installation and testing of open-source NLP models, like Mordecai, on the test data. 
+
+Other NLP modules;
+	- SpaCY 
+	- Stanza
+	- Mordecai
+	- NLTK
+
+Note from Jeremy:
+	- Keep track of where in the document a place name appears
+	
+Make sure to cut out all of the reference text when parsing 
+
+It would be great to cross-reference place names that are found with species names
+	- ITIS.gov: a potential source of a list of species name that we can use for crossreferencing
+	- Can bulk download the entire list as needed
+		- May also have an API that we can hit, but depending on the list size it should be manageable to cross-reference with the entire list
+			- Could be a nice chance to try out our algorithm-writing skills
+

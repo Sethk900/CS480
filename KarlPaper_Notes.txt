@@ -1,0 +1,33 @@
+Seth King
+CS480
+Notes on Dr. Karl's paper "Mining location information from life- and earth-sciences studies to facilitate knowledge discovery"
+07 February 2021
+
+Two geoparsers used for this portion of the project: regular expression and lexucal geoparser
+Overall success rate ranged from 85.1% to 100%
+Lexical geoparser performed marginally better
+
+The big problem: current search engines focus on theme rather than location, so location data constitutes an untapped source of knowledge in scientific literature. 
+
+There exist various georeferincing services already, such as CAB Abstracts and GeoRef, but these do not always assign location based on geographic coordinates. 
+
+*** Currently (2018, sic) only JournalMap and BioStor attempt to automatically determine the location of a study given the information reported in the paper's text ***
+
+Another big part of the probelm: Reported geocoordinates do not always match the place name in the description of a given study. 
+
+A catch-22 to using straight-forward mining solutions for this process: irrelevant place names may be yielded and thus the whole process could become pointless. 
+
+The solution adopted by Karl and his team is a middle ground between efficiency and effectiveness: it uses regexes and lexical parsers to extract location data from
+bodies of text, but misses the 16% or so of study locations that Shapiro indicates are separate from the reported location that the study took place.
+
+He gives a brief history of regular expressions and explains the basics of how they work. As one may expect, the construction of a regex that could match a set of lat-
+long coordinates was relatively simple, and he explained this process as well. From here, it isn't incredibly difficult to develop a parser that extracts lat-long
+coordinates from raw bodies of text (in fact, I imagine that this could be done fairly easily with any of the NLP services made available via Python).
+
+Karl notes that desired overall accuracy was 80% minimum for the regex parser. Our NLP solution should aim for something similar. 
+
+Interestingly, the lexical parser performed better than the regex. But they both got over 80% accuracy overall. 
+
+Note: PyParsing was the parser module (?) that they used for basic lexical analysis. 
+
+

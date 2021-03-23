@@ -1,0 +1,18 @@
+Seth King
+Professor Bolden
+CS480 - Team Standup Meeting Notes
+02 March 2020
+
+We had a standup today, but unfortunately Will and Toby both got called into separate meetings unexpectedly, so it looks like it's just me on a Zoom
+call by myself.
+
+I used our regularly-scheduled standup time to continue working on scripts and to start to think about how we will divvy up the workloads associated with the actual 
+ML/NLP portion of the project. 
+
+It seems like I have the most experience with data engineering, so I should probably be the one to spearhead pipelining. At our next standup I'll probably 
+suggest that the other two team members shift their focus towards ML/NLP instead of pipelining so that we can keep the project moving along. 
+
+With that said, I don't want my role on this project to be entirely defined as the group's data engineer. I want to shift my focus alongside my teammates
+and be able to focus strictly on NLP within the next couple of weeks. Of course, there will always be data wrangling and pipelining associated with that process, 
+but I'm just saying that I don't want to get bogged down working on the pipeline while my teammates complete the whole core of the project. Even so, I can 
+hang back to finish any initial pipelining work that we have left while they start to move forward with NLP-related taskwork. 

@@ -1,0 +1,20 @@
+Seth King
+Professor Bolden
+CS480 - Standup Meeting Notes
+25 February 2021
+
+Started out by catching Toby up on our activities this week (basically recapped the notes from Tuesday and went over everything again)
+
+Showed Toby and Will the email that I drafted to Dr. Karl
+Afterwards, Will shared his screen and we dug through the code currently on GitHub that Dr. Karl uses for parsing multiple formats and applying the regex that they currently use
+	- Our thinking here is that we may be able to use this script to designate entry/exit points to our pipeline from their current web architecutre. Of course, this is 
+	still way off in the future, but is worth thinking about now
+
+Next, we went over the email that I drafted to Dr. Karl and agreed that it's a decent check-in note for this week.
+	- Next week, however, we will want to ask some technical questions regarding his internal format for data pulled from XML files
+		- Will is going to examine the scripts further over the weekend and determine what specifically we want to ask about
+
+Action items:
+	- Seth and Toby: Draft bronze-to-gold parsing scripts for Geoderma (Toby) and RSE (Seth) datasets
+	- Will: Read up further on the current regex implementation in the JournalMap GitHub, draft email to Dr. Karl
+	- Will and Toby: Create accounts for the AWS and Databricks free tiers so that we can begin pipeline construction

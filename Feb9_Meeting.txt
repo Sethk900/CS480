@@ -1,0 +1,39 @@
+Seth King
+Dr. Karl
+CS480 - Standup Meeting Notes
+09 February 2021
+
+What we have been working on:
+	- Read through documentation and started poking around the GitHub to see what JournalMap consists of in a technical sense. 
+	- Proceeded with general project planning and established basic collaboration infrastructure: set up a logbook, a fileshare, and a Gantt chart to track progress 
+	- Had a standup meeting to sync up on our understanding of our timeline and methodology going forward
+
+Dr. Karl mentioned an XML data dump for our team that we can use to develpo preliminary train/test datasets
+I sent the filehsare 
+
+Next round proposal due later this year:
+	- 2-page pre-proposal would be submitted in the fall
+	- Full proposal wouldn't be submitted until around this time next year
+	- Only deliverable necessary: testing core libraries like SpaCy to see how they perform
+	- Tool evaluation is a big part of this 
+	- 4 tools that they mentioned for doing the NLP, which will need to be tested and hopefully integrated into the system
+
+Steps going forward;
+	1. Mark the training data (most is already labeled)
+	2. Determine where in the text the location data is
+	3. Predict where the location will be in the unlabeled data
+	4. Train model to extract place names from that location
+	5. Compare with labeled data to determine efficacy rate
+
+One big takeaway from this meeting is that the approx. 50% of all JournalMap articles that ARE already geocoded constitute a good labeled training data set that we can base our efforts off of
+going forward. The caveat to this is that if we overfit a model on this training data, we risk reducing the effectiveness of our NLP model at the end of the project. 
+
+Another takeaway is that the extraction of a new metric (i.e. the LOCATION in a given text for the location data, e.g. the first 25% of the text) will allow us to train a model more effectively
+and is an important metric to consider moving forward. This may result in an NLP limitation that strays somewhat from conventional machine learning and instead introduces a patchwork approach
+where text is pre-processed and subsequently treated with conventional parsing techniques that drastically reduce the number of false positives. In other words, if we can develop a model 
+to accurately predict the region within a given body of text where the location data is found, we can then apply conventional parsing techniques to extract accurate location data from 
+unlabeled articles. This approach would be less of a "black box" than simply feeding the entire body of an article into a trained NLP ML model of some sort.
+
+The next order of action for our team members is to wait for the data dump that Dr. Karl mentioned he will stick in our OneDrive sometime this afternoon. We will review this data individually
+and come to our Thursday standup meeting with any observations/questions, and subsequently will craft a plan for concrete action to start building up an initial model that can use this data
+dump as a body of labeled test data.  

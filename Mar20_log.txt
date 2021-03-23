@@ -1,0 +1,21 @@
+Seth King
+Professor Bolden
+CS480 - Log Notes
+20 March 2021
+
+I started out today by running a range of package updates in the EC2 instance, in the hopes that they would somehow resolve my error. No such luck.
+
+Another attempted solution consisted of trying a couple of different methods to elevate the permissions with which the Docker container runs.
+Specifically, I ran it with root permissions, and then created a user to whom I allocated a couple different forms of access. Then I designated this 
+user when running the docker container. 
+
+Even so, didn't have any luck. 
+
+Next, I'm thinking of opening an issue for this problem on the Mordecai Github page, as mentioned in yesterday's notes. 
+
+Under the assumption that the mordecai devs probably won't respond over the weekend anyways, I started drafting a presentation to give my teammates and the 
+sponsor a substantial update on my work over spring break (limited as the results have been) and what our plan could/should be going forward. 
+
+The project is starting to become a little bit less abstract, which is good-- but I am a little bit disappointed with the lack of tangible results from my results
+working over spring break. Hopefully my teammates will pitch in on some of these issues in the coming weeks, but in the meantime I suppose that this will serve
+as a decent foundation. 

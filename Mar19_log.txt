@@ -1,0 +1,33 @@
+Seth King
+Professor Bolden
+CS480 - Log Notes
+19 March 2021
+
+Today has been somewhat frustrating. 
+
+The good news is that I managed to install all of the necessary geonames on a new SUSE Linux EC2 instance, which I provisioned with 50 GiB of EBS memory. 
+The bad news is that once I did so, I ran into some difficult-to-decipher networking issues that make it impossible for me to initialize mordecai's
+geoparser. 
+
+I chipped away at this issue for several hours, poring over StackOverflow, updating packages and dependencies, messing around with the ports on the EC2 isntance, 
+and all for nothing. At the end of the day I wasn't able to figure out what exactly is causing the issue, much less what I should do to solve it. 
+
+With that said, there are a few things that I observed which may indicate where I should start looking for potential solutions
+
+First and foremost, the root of the error messages appears to be an inability to connect to port 9200 on the EC2 instance while initializing the geoparser.
+This port is used by Elasticsearch, which is running in the docker container used by mordecai's geoparser. So basically, it appears that any time mordecai 
+attempts to reference that port for elasticsearch query purposes, the connection is refused, thus resulting in a connection refused (Errno 111) error
+that terminates the initialization and prevents me from using the geoparser.
+
+If I were using Elasticsearch as an installed service on the host, then there may be some settings that I could toggle around in order to potentially fix this
+issue. However, since Elasticsearch is running in a Docker container, and the image for that container is administrated by the folks who work on Mordecai,
+there's really nothing I can do to toggle the Elasticsearch settings.
+
+So, at this point I've resorted to asking a question on StackOverflow. It is quite probable that this question won't yield anything particularly helpful;
+my plan right now is to leave it up for a day or two, then post an issue to the Mordecai github page so that the devs can weigh in on the problem. I know that
+that could be intrusive and unprofessional, but I'm willing to take the chance just in case the reason that it isn't working has to do with something on their end. 
+Anyways, it could be a good learning experience. 
+
+Between now and then, I also plan to look into alternative geoparsers so that we can start pulling out values to populate feature vectors for input to a binary
+classification ML model and flag journal study locations. I'll start with geoparsepy and then probably branch out into some non-python options, though that could
+make our whole parsing and feature selection process somewhat more tedious. 
