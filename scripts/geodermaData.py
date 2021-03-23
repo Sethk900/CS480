@@ -1,32 +1,38 @@
+#geodermaData.py
+#Takes raw files from a directory specified manually in this script and sends
+#output to a file called "./geoderma_processed" in the form of text that 
+#follows the regex defined in this script.
+
 import sys
 import os
+import re
+from pathlib import Path
 
-#Open test file
-file = open("10.1016.0016-7061(77)90034-9.xml")
+#Create directory for output
+p = Path('geoderma_processed')
+try:
+    p.mkdir()
+except FileExistsError as exc:
+    print(exc)
 
-#Check test file integrity
-if file != None:
-    print("No error. File found.")
+#Open test files
+#ATTENTION: This must be entered in manually for each test set.
+#The folder name MATTERS
+directory = r'./Geoderma'
+directory2 = r'./geoderma_processed'
+for filename in os.listdir(directory):
+    with open(directory + '/' + filename, 'r') as file:
+        #Check for match
+        line = file.read()
+        result = re.search(r"<xocs:rawtext>.*</xocs:rawtext>",line)
 
-#Test output file contents with a print
-flag = False
+        #Print success message for every file
+        print(filename + ' completed')
 
-with open('10.1016.0016-7061(77)90034-9.xml', 'r') as file:
-    for line in file:
-        for character in line:
-            #Set flags for strings of characters we don't want to print
-            if character == '<' and flag == False:
-                flag = True
-                continue
-            elif character == '>' and flag == True:
-                flag = False
-                continue
-
-            #Check flag and print to file
-            if flag == False:
-                #Print to test output
-                print(character, end='')
-                #Send output to test file
-                f = open("output.txt","a")
-                f.write(character)
-                f.close()
+        #Send output to test file
+        if result:
+            f = open(directory2 + '/' + filename,"w")
+            f.write(result.group(0)[14:-15])
+            f.close()
+        else:
+            print(filename + ' failed...')
