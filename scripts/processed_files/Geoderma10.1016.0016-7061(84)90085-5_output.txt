@@ -1,0 +1,32 @@
+{'word': 'College Park', 'spans': [{'start': 111, 'end': 123}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Md.', 'spans': [{'start': 125, 'end': 128}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Newcastle', 'spans': [{'start': 165, 'end': 174}], 'country_predicted': 'GBR', 'country_conf': 0.25185502}
+{'word': 'Tyne', 'spans': [{'start': 180, 'end': 184}], 'country_predicted': 'LIE', 'country_conf': 0.25185502}
+{'word': 'Lisbon', 'spans': [{'start': 354, 'end': 360}], 'country_predicted': 'PRT', 'country_conf': 0.25185502}
+{'word': 'Fort Collins', 'spans': [{'start': 374, 'end': 386}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Washington', 'spans': [{'start': 407, 'end': 417}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Ghent', 'spans': [{'start': 438, 'end': 443}], 'country_predicted': 'BEL', 'country_conf': 0.25185502}
+{'word': 'Rome', 'spans': [{'start': 489, 'end': 493}], 'country_predicted': 'ITA', 'country_conf': 0.25185502}
+{'word': 'East Lansing', 'spans': [{'start': 510, 'end': 522}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Wembley', 'spans': [{'start': 624, 'end': 631}], 'country_predicted': 'LIE', 'country_conf': 0.25185502}
+{'word': 'Madrid', 'spans': [{'start': 658, 'end': 664}], 'country_predicted': 'ESP', 'country_conf': 0.25185502}
+{'word': 'Madison', 'spans': [{'start': 732, 'end': 739}], 'country_predicted': 'USA', 'country_conf': 0.961249, 'geo': {'admin1': 'Wisconsin', 'lat': '43.07305', 'lon': '-89.40123', 'country_code3': 'USA', 'geonameid': '5261457', 'place_name': 'Madison', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'Logan', 'spans': [{'start': 779, 'end': 784}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Utah', 'spans': [{'start': 786, 'end': 790}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Moscow', 'spans': [{'start': 831, 'end': 837}], 'country_predicted': 'RUS', 'country_conf': 0.25185502}
+{'word': 'West Lafayette', 'spans': [{'start': 862, 'end': 876}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Bellevue', 'spans': [{'start': 912, 'end': 920}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Mancml', 'spans': [{'start': 930, 'end': 936}], 'country_predicted': 'USA', 'country_conf': 0.23980537}
+{'word': 'Ottawa', 'spans': [{'start': 962, 'end': 968}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Edmonton', 'spans': [{'start': 1034, 'end': 1042}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Alta', 'spans': [{'start': 1044, 'end': 1048}], 'country_predicted': 'CRI', 'country_conf': 0.25185502}
+{'word': 'Rennie', 'spans': [{'start': 1055, 'end': 1061}], 'country_predicted': 'MWI', 'country_conf': 0.25185502}
+{'word': 'Saskatoon', 'spans': [{'start': 1063, 'end': 1072}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Sask', 'spans': [{'start': 1074, 'end': 1078}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Kingston', 'spans': [{'start': 1143, 'end': 1151}], 'country_predicted': 'JAM', 'country_conf': 0.25185502}
+{'word': 'Ottawa', 'spans': [{'start': 1171, 'end': 1177}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Urbana', 'spans': [{'start': 1223, 'end': 1229}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'Budapest', 'spans': [{'start': 1306, 'end': 1314}], 'country_predicted': 'HUN', 'country_conf': 0.25185502}
+{'word': 'Ithaca', 'spans': [{'start': 1331, 'end': 1337}], 'country_predicted': 'USA', 'country_conf': 0.33312684}
+{'word': 'N Y.  D H. Yaalon', 'spans': [{'start': 1339, 'end': 1356}], 'country_predicted': 'SLV', 'country_conf': 0.25185502}
+{'word': 'TOKYO', 'spans': [{'start': 1413, 'end': 1418}], 'country_predicted': 'JPN', 'country_conf': 0.25185502}
