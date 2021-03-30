@@ -13,7 +13,9 @@ output_folder = 'processed_files'
 #Second column is a list of 2-tuples, they are the begining and end tags for raw text in the format for that folder
 input_dirs = [
     ('Geoderma',  [("<xocs:rawtext>","</xocs:rawtext>"),("<dc:description>","</dc:description>")]),
-    ('RSE',       [("<xocs:rawtext>","</xocs:rawtext>")]),
+    ('AOUxml',  [("<xocs:rawtext>","</xocs:rawtext>"),("<dc:description>","</dc:description>")]),
+#    ('RSE',       [("<xocs:rawtext>","</xocs:rawtext>")]),
+#RSE is to big for testing, uncomment later
     ]
 
 
@@ -28,19 +30,23 @@ except FileExistsError as exc:
 for folder in input_dirs:
     directory = r'./' + folder[0]
     directory2 = r'./' + output_folder
-    for filename in os.listdir(directory):
-        with open(directory + '/' + filename, 'r') as file:
-            #Check for match
-            line = file.read()
-            print(filename)
-            f = open(directory2 + '/' + folder[0] + filename,"w")
-            for tags in folder[1]:
-                result = re.search(tags[0] + '.*' + tags[1],line)
+    for root, dirs, filenames in os.walk(directory):
+        for filename in filenames:
+            #only do .xml files
+            if not filename.endswith(".xml"):
+                continue
+            with open(root + '/' + filename, 'r',errors='ignore') as file:
+                #Check for match
+                line = file.read()
+                print(filename)
+                f = open(directory2 + '/' + folder[0] + filename,"w")
+                for tags in folder[1]:
+                    result = re.search(tags[0] + '.*' + tags[1],line)
 
-                #Send output to test file
-                if result:
-                    f.write(result.group(0)[len(tags[0]):-len(tags[1])])
-                    print('\t' + tags[0] + " found")
-                else:
-                    print('\t' + tags[0] + " not found")
-            f.close()
+                    #Send output to test file
+                    if result:
+                        f.write(result.group(0)[len(tags[0]):-len(tags[1])])
+                        print('\t' + tags[0] + " found")
+                    else:
+                        print('\t' + tags[0] + " not found")
+                f.close()
