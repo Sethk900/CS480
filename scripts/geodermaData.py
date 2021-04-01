@@ -8,6 +8,8 @@ import os
 import re
 from pathlib import Path
 
+os.chdir('../')
+
 #Create directory for output
 p = Path('geoderma_processed')
 try:

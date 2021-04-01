@@ -8,6 +8,8 @@ import os
 import re
 from pathlib import Path
 
+os.chdir('../')
+
 output_folder = 'processed_files'
 #First column is the name of the folder where files of this format will be found
 #Second column is a list of 2-tuples, they are the begining and end tags for raw text in the format for that folder
