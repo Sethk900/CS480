@@ -5,6 +5,7 @@ import re
 import os
 
 xmlfile = re.compile('.*\.xml')
+capital = re.compile('.*[A-Z]*.*')
 #geo = Geoparser()
 
 for inputfile in os.listdir("../processed_files"):
@@ -24,8 +25,9 @@ for inputfile in os.listdir("../processed_files"):
 
 		with open(outfilename, "a") as outfile:
 			for word in output:
-				outfile.write(str(word))
-				outfile.write("\n")
+				if capital.match(word): # Filter out place names that don't contain any capital later (Comment out to remove filter)
+					outfile.write(str(word))
+					outfile.write("\n")
 
 		outfile.close()
 		break # Temporary modification: process only one file at a time
