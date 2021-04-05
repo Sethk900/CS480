@@ -1,0 +1,5 @@
+{'word': 'Western Catchment', 'spans': [{'start': 685, 'end': 702}], 'country_predicted': 'ESH', 'country_conf': 0.2353872}
+{'word': 'Chilika Lake', 'spans': [{'start': 710, 'end': 722}], 'country_predicted': 'USA', 'country_conf': 0.2353872}
+{'word': 'Orissa', 'spans': [{'start': 724, 'end': 730}], 'country_predicted': 'IND', 'country_conf': 0.9516948, 'geo': {'admin1': 'Odisha', 'lat': '20.5', 'lon': '84.41667', 'country_code3': 'IND', 'geonameid': '1261029', 'place_name': 'State of Odisha', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'India', 'spans': [{'start': 732, 'end': 737}], 'country_predicted': 'IND', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '79', 'country_code3': 'IND', 'geonameid': '1269750', 'place_name': 'Republic of India', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Ks', 'spans': [{'start': 753, 'end': 755}], 'country_predicted': 'USA', 'country_conf': 0.6458347, 'geo': {'admin1': 'Kansas', 'lat': '38.50029', 'lon': '-98.50063', 'country_code3': 'USA', 'geonameid': '4273857', 'place_name': 'Kansas', 'feature_class': 'A', 'feature_code': 'ADM1'}}
