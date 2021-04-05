@@ -7,12 +7,12 @@ import os
 xmlfile = re.compile('.*\.xml')
 #geo = Geoparser()
 
-for inputfile in os.listdir("./processed_files"):
+for inputfile in os.listdir("../processed_files"):
 	name, extension = os.path.splitext(inputfile)
 	outfilename = name + "_output.txt"
-	inputfile = "./processed_files/" + inputfile
+	inputfile = "../processed_files/" + inputfile
 	print("Outfile name: "+outfilename)
-	if xmlfile.match(inputfile) and outfilename not in os.listdir("./processed_files"): # Only process XML files
+	if xmlfile.match(inputfile) and outfilename not in os.listdir("../geoparser_output"): # Only process XML files
 		geo = Geoparser()
 		with open(inputfile, "r") as infile:
 			print("Processing data from " + inputfile + "...")
@@ -20,7 +20,7 @@ for inputfile in os.listdir("./processed_files"):
 		infile.close()
 
 		output = geo.geoparse(str(data))
-		outfilename = "./processed_files/" + outfilename
+		outfilename = "../geoparser_output/" + outfilename
 
 		with open(outfilename, "a") as outfile:
 			for word in output:
@@ -28,6 +28,6 @@ for inputfile in os.listdir("./processed_files"):
 				outfile.write("\n")
 
 		outfile.close()
-		break
+		break # Temporary modification: process only one file at a time
 		quit() # End script execution
 
