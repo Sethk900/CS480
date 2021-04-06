@@ -57,10 +57,11 @@ for idx, folder in enumerate(input_dirs):
                         #Send output to test file
                         if result:
                             f.write(result[len(tags[0]):-len(tags[1])])
-                            print('\t' + tags[0] + " found")
+                            #print('\t' + tags[0] + " found")
                             tagFound = True
                         else:
-                            print('\t' + tags[0] + " not found")
+                            pass
+                            #print('\t' + tags[0] + " not found")
                 f.close()
                 stats1[idx]+=1
                 if tagFound == True:
