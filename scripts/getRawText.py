@@ -15,7 +15,9 @@ output_folder = 'processed_files'
 #Second column is a list of 2-tuples, they are the begining and end tags for raw text in the format for that folder
 input_dirs = [
     ('Geoderma',  [("<xocs:rawtext>","</xocs:rawtext>"),("<dc:description>","</dc:description>")]),
-    ('AOUxml',  [("<xocs:rawtext>","</xocs:rawtext>"),("<dc:description>","</dc:description>")]),
+    ('AOUxml',  [("<article-title>","</article-title>"),("<p>","</p>")]),
+    ('Oxfordxml',  [("<article-title>","</article-title>"),("<p>","</p>")]),
+    ('PLOSxml',  [("<p>","</p>")])
 #    ('RSE',       [("<xocs:rawtext>","</xocs:rawtext>")]),
 #RSE is to big for testing, uncomment later
     ]
