@@ -34,6 +34,9 @@ except FileExistsError as exc:
 stats1 = [0] * len(input_dirs)
 stats2 = [0] * len(input_dirs)
 
+#regular expression to remove xml tags
+xml_tags = re.compile('<.*?>')
+
 
 #Open test files
 for idx, folder in enumerate(input_dirs):
@@ -56,7 +59,8 @@ for idx, folder in enumerate(input_dirs):
                     for result in results:
                         #Send output to test file
                         if result:
-                            f.write(result[len(tags[0]):-len(tags[1])])
+                            #removes all tags from the output and writes to the file
+                            f.write(re.sub(xml_tags, ' ', result))
                             #print('\t' + tags[0] + " found")
                             tagFound = True
                         else:
