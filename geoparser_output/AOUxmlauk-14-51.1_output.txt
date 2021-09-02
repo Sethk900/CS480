@@ -1,0 +1,16 @@
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'il', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'ITA', 'country_conf': 0.28365934}
+{'word': 'il', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'ITA', 'country_conf': 0.28365934}
+{'word': '&ldquo;flickers&rdquo', 'spans': [{'start': 0, 'end': 21}], 'country_predicted': 'CHN', 'country_conf': 0.24821267}
+{'word': 'Wiktander', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Creek', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CYM', 'country_conf': 0.28868946}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Tokyo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'JPN', 'country_conf': 0.96374094, 'geo': {'admin1': 'Tokyo', 'lat': '35.6895', 'lon': '139.69171', 'country_code3': 'JPN', 'geonameid': '1850144', 'place_name': 'Tokyo Prefecture', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Japan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'JPN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '35.68536', 'lon': '139.75309', 'country_code3': 'JPN', 'geonameid': '1861060', 'place_name': 'Japan', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Mazerolle', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CAN', 'country_conf': 0.9528109, 'geo': {'admin1': 'New Brunswick', 'lat': '45.877', 'lon': '-66.84457', 'country_code3': 'CAN', 'geonameid': '6068471', 'place_name': 'Mazerolle Settlement', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': '100&percnt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': '100&percnt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Saskatchewan', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saskatchewan', 'lat': '54.0001', 'lon': '-106.00099', 'country_code3': 'CAN', 'geonameid': '6141242', 'place_name': 'Saskatchewan', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Saskatchewan', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saskatchewan', 'lat': '54.0001', 'lon': '-106.00099', 'country_code3': 'CAN', 'geonameid': '6141242', 'place_name': 'Saskatchewan', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}

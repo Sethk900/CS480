@@ -1,0 +1,30 @@
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Ohio', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Ohio', 'lat': '40.25034', 'lon': '-83.00018', 'country_code3': 'USA', 'geonameid': '5165418', 'place_name': 'Ohio', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Ohio', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Ohio', 'lat': '40.25034', 'lon': '-83.00018', 'country_code3': 'USA', 'geonameid': '5165418', 'place_name': 'Ohio', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Gainesville', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Florida', 'lat': '29.65163', 'lon': '-82.32483', 'country_code3': 'USA', 'geonameid': '4156404', 'place_name': 'Gainesville', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'FL', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Tringa', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.5714737}
+{'word': 'Tampa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Florida', 'lat': '27.94752', 'lon': '-82.45843', 'country_code3': 'USA', 'geonameid': '4174757', 'place_name': 'Tampa', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'Ohio', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Ohio', 'lat': '40.25034', 'lon': '-83.00018', 'country_code3': 'USA', 'geonameid': '5165418', 'place_name': 'Ohio', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Miami', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Florida', 'lat': '25.77427', 'lon': '-80.19366', 'country_code3': 'USA', 'geonameid': '4164138', 'place_name': 'Miami', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}

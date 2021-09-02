@@ -1,0 +1,43 @@
+Seth King
+Professor Bolden
+CS480 - Log Notes 
+02 February 2021
+
+Today, I spent a couple of hours trying to figure out how to write XML parsing scripts in python.
+
+Admittedly, my approach to trying to figure this out was somewhat backwards. In hindsight, I should have read up on the XML
+format first and learned how XML trees work. 
+
+Instead, I tried to just start writing code for XML parsing without reading up much on the file format. 
+
+For this purpose, I focused heavily on the xml.etree.ElementTree module in python.
+ 
+This module provides a good mechanism for reading in xml files as python data objects, and then you can iterate through
+their elements/children to pick out what you want. 
+
+The idea here is that after reading in an XML file using the module, we should be able to write a nested loop to pull
+out the fields of interest from the XML file (i.e. the raw article text and study location).
+
+From there, we can write those fields to a text file, thus outputting the relevant data in a consolidated .txt file.
+In our pipeline, we refer to this as "gold" data. 
+
+However, due to my lack of knowledge about how XML trees work exactly, I was unable to iterate through the tree to find the correct children. 
+So ultimately I was unable to write a working script tonight. 
+
+Next steps are to read up on XML and return to the scripting task with a better understanding of how we can iterate through
+the XML tree. Once I understand how that works it shouldn't be too difficult to replicate that behavior for XML files
+from other journals.
+
+Here is some of the unsuccessful code that I wrote:
+
+#!/usr/bin/python3
+import requests
+import xml.etree.ElementTree as ET
+
+tree = ET.parse('sample.xml')
+root = tree.getroot()
+
+for item in root.findall("./"):
+        print(item.attrib)
+        for x in item:
+                print(x.attrib)

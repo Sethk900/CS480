@@ -1,0 +1,79 @@
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'paragua', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'PRY', 'country_conf': 0.92213035, 'geo': {'admin1': 'NA', 'lat': '-23.33333', 'lon': '-58', 'country_code3': 'PRY', 'geonameid': '3437598', 'place_name': 'Republic of Paraguay', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Condado', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.28868946}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'h&aacute;bitat', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Condado', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.28868946}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'h&aacute;bitat', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'Miramar', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'Beach', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.7178229, 'geo': {'admin1': 'California', 'lat': '33.6603', 'lon': '-117.99923', 'country_code3': 'USA', 'geonameid': '5358705', 'place_name': 'Huntington Beach', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Pendleton', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Oregon', 'lat': '45.67207', 'lon': '-118.7886', 'country_code3': 'USA', 'geonameid': '5745380', 'place_name': 'Pendleton', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'territories', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'PSE', 'country_conf': 0.7178229, 'geo': {'admin1': 'NA', 'lat': '31.92157', 'lon': '35.20329', 'country_code3': 'PSE', 'geonameid': '6254930', 'place_name': 'Palestine', 'feature_class': 'A', 'feature_code': 'PCLS'}}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Colorado', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}

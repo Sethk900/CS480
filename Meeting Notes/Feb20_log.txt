@@ -1,0 +1,27 @@
+Seth King
+CS480
+Log Notes
+20 February 2021
+
+Today, I spent a few hours investigating free-tier services offered by Databricks and Amazon Web Services (AWS).
+In theory, if there are sufficient free-tier services offered, then we could use them for collaboration and compute jobs on our capstone project. 
+
+First, I looked into AWS Educate, a campaign by which students can access grants to use AWS resources for free. My steps were as follows:
+	1. Created an account using my school email
+	2. Activated an AWS starter account, which allows me to use up to $100 worth of AWS services for free in a 3rd party's environment
+		- May not be entirely ideal for collaboration, since our project members wouldn't be members of an organization (?)
+	3. Agreed to Vocareum's terms of service (pretty reasonable, since the account is operated in their AWS environment)
+	4. Explored the list of AWS services supported in Vocareum's environment
+		- For our project, the most relevant of these are probably S3 and EC2 (storage and compute, respectively)
+		- Not all types of EC2 nodes are available, but that should't be a huge problem
+	5. Poked around the AWS console a little bit. This is probably where we'll spend most of our time doing actual work. 
+
+Next, I closed out AWS for now and shifted over to look at Databricks. Ultimately, the goal here would be to store our input files on S3, implement our pipeline
+via Databricks (running on AWS), and run our models from there. I'm still a little unsure about where we might want to train and test our models, but maybe in
+a Lambda or in Databricks? We will have to dig into that more later. 
+The steps that I took to look into Databricks were as follows:
+	1. Opened up the page for the Databricks University Alliance (databricks.com/university)
+		- Although this was the first option to come up, it looks like it's intended for educators rather than students. I'll look elsewhere for now.
+	2. Next, moved on to the sign-up page for the Databricks Comunity Edition (free).
+	3. Although this page was down for maintenance a few days ago when I tried the first time, this time it worked: I signed up with my school email and,
+	after validating my email, was allowed to access the Databricks interface.  

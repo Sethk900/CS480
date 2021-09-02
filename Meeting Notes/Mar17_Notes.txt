@@ -1,0 +1,36 @@
+Seth King
+Professor Bolden
+CS480 - Log Notes
+17 March 2021
+
+Today, I started out with focusing on the Mordecai installation-- or rather, I focused on figuring out what sort of environment we need to be working in to get
+the mordecai module up and running. 
+
+Picking up from yesterday, the first thing that I did was scrap the t2.micro EC2 instance and replace it with a t2.medium instance. It's my understanding that the 
+T-class of EC2 images are suited for a wide range of tasks; they aren't specifically designed for ML/NLP, but should be able to get the job done without a problem.
+
+After creating the new instance, I tried to install Mordecai and all of its dependencies just like I did on the micro instance yesterday. There's good news and bad news
+regarding how this went:
+	- The good news: the new provisioned size fixed the issue that I was having yesterday
+	- The bad news: I ran into some new installation issues that seem like they mostly have to do with compatibility between Ubuntu20.04 and Tensorflow. 
+	It's probably possible to fix this, but from some reading that I did around the Internet, it seems like it would be quicker to just start fresh with a 
+	new environment. 
+
+With that in mind, I stopped the Ubuntu 20.04 t2.medium EC2 instance and provisioned a new environment with an Ubuntu 16.04 base image. 
+
+The Ubuntu 16.04 image didn't end up working. In fact, I ended up going through a few different alternative base images before I found one that I acutally got to work.
+
+The functional EC2 instance (i.e. the one that I actually managed to install mordecai on) is a Red Hat Enterprise Linux base image running on a tc2.medium compute
+instance. 
+Even though I managed to get this instance working eventually, there was quite a bit of finagling and googling that I had to do to get the package installed.
+Instead of simply being able to use pip3 to install mordecai, I had to use pip3 to identify missing dependencies, which were either modules or individual spacy models.
+Then, I used pip3 or a command similar to "python3 -m spacy download en_core_web_sm" to download the outstanding dependencies. 
+
+So, all said and done, this was really a trial-and-error driven process. Not to mention that I haven't actually used mordecai yet, beyond importing it to make
+sure that the module actually installed. 
+
+My next step is to transfer some sample .txt files out to the EC2 instance so that I can start running mordecai to gauge its effectiveness for pulling out
+individual place names. 
+
+Also, I'd like to start desigining feature vectors with relevant features that we can feed in to a binary classification ML model to indicate whether or not the 
+given place name actually indicates the location of the study. The more features, the better, as long as they're all relevant.

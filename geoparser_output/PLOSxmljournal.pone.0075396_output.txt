@@ -1,0 +1,5 @@
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'autoanalyzer', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'P&lt;0.01', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Charlotte', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'North Carolina', 'lat': '35.22709', 'lon': '-80.84313', 'country_code3': 'USA', 'geonameid': '4460243', 'place_name': 'Charlotte', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

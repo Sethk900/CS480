@@ -1,0 +1,13 @@
+{'word': 'Blumeria', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ITA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Campania', 'lat': '41.07782', 'lon': '15.14775', 'country_code3': 'ITA', 'geonameid': '6537363', 'place_name': 'Flumeri', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Blumeria', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ITA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Campania', 'lat': '41.07782', 'lon': '15.14775', 'country_code3': 'ITA', 'geonameid': '6537363', 'place_name': 'Flumeri', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Derbyshire', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.96374094, 'geo': {'admin1': 'England', 'lat': '53.13543', 'lon': '-1.61125', 'country_code3': 'GBR', 'geonameid': '11609031', 'place_name': 'Derbyshire', 'feature_class': 'L', 'feature_code': 'RGN'}}
+{'word': 'phosphodiesterases', 'spans': [{'start': 0, 'end': 18}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'endoreduplicating', 'spans': [{'start': 0, 'end': 17}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Sthr', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.5714737}
+{'word': 'tonoplastic', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'cPTIO', 'spans': [{'start': 1, 'end': 6}], 'country_predicted': 'GNB', 'country_conf': 0.5339668}
+{'word': 'NH', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Sicily', 'lat': '37.4881', 'lon': '15.0838', 'country_code3': 'ITA', 'geonameid': '6502841', 'place_name': 'NH Parco degli Aragonesi', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'UK', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'GBR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '54.75844', 'lon': '-2.69531', 'country_code3': 'GBR', 'geonameid': '2635167', 'place_name': 'United Kingdom of Great Britain and Northern Ireland', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'F.J.M.H.', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'L.A.J.M.', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'F.J.M.H.', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}

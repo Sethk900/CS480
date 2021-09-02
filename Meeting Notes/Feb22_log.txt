@@ -1,0 +1,36 @@
+Seth King
+Professor Bolden
+CS480 - Log Notes
+22 February 2021
+
+Today, I spent a few hours brainstorming what our ingest pipeline and workflow will look like for this project. 
+For this purpose, I assumed that the resources provided by AWS and Databricks will be sufficient for our project. I also assumed that 
+my teammates will be get on board with using those resources.
+If either of these assumptions prove to be false, then we will utilize a similar workflow with local resources. 
+That contingency is not especially difficult to plan for, and it shouldn't be too difficult to refactor this workflow if cloud computing
+resources prove to be impractical for this project for one reason or another. 
+
+With that said, the workflow that I came up with is fairly simple. 
+It begins with an upload of articles to S3 from the JournalMap server (for the course of our project, we will probably just upload these articles
+from our local machines or from OneDrive, but we can upload directly from the JournalMap server once we have an NLP solution that is ready for 
+deployment). 
+
+It is assumed that this data will come in various formats. We have only seen XML so far, but even then the relevant data is sometimes separated between
+multiple files and needs to undergo some form of ETL to get it into a consistent format that can be fed into an NLP pipeline. Collectively, this multi-formatted
+data will be referred to as our "bronze" data. 
+
+Subsequently, the data will be fed into Databricks for ETL. In Databricks, we will use python scripting to consolidate the multi-formatted data into a single, 
+simplified data format that consists of the location name and coordinates (for labelled data) and article body in a .txt file. This data will be written to S3,
+where it will be kept in persistent storage. This formatted data will be referred to as our "gold" data. 
+
+Next, the gold data will be fed read into another Databricks notebook, where it will undergo the next stage of transformation. This time, we will be taking the raw
+text of the article and using python scripts to vectorize the text. This data, which is ready to feed into an NLP model, will be stored as our "platinum" data. 
+
+Now that we have the data ready to feed into an NLP model, we can read it in from an EC2 instance and use it to train, test, and validate our model, and subsequently
+to use the model to label new bodies of data. There will be quite a bit of work going on in this EC2 instance-- it is where the magic happens. If we develop a good 
+NLP model, then we can tag the articles here and write them to S3 as the "finished product" of our pipeline.
+
+Finally, once this project hits production, we can write a Lambda function or S3 trigger (?) to upload the finished, labelled articles to JournalMap. This is the end 
+of the pipeline. 
+
+The workflow diagram for this process is below:

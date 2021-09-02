@@ -1,0 +1,30 @@
+Seth King
+CS480
+Project Standup Notes
+16 February 2021
+
+Today is a snow day: project team members attended standup, but Dr. Karl and other members of the JournalMap team did not
+
+Toby and Will don't currently have access to the JournalMap Github organization
+Still don't have data from Dr. Karl - Will will send an email prompting him, and also providing his GitHub username so that 
+Dr. Karl can add him to the JournalMao GitHub organization
+	- Toby will also send a GitHub username to be added to the organization
+
+Regarding action items from the meeting last Thursday:
+	- Team members read over Natural Language Processing (NLP) tutorials distributed via Dicord
+	- Team members completed tutorials provided in these articles
+	- Will and Toby still somewhat behind on logbook entries
+
+Action items between now and Thursday:
+	- (Will and Toby) send Github usernames to Dr. Karl to be added to the JournalMap GitHub organization
+	- (Will) remind Dr. Karl to provide sample data
+
+Provided that Dr. Karl does not deliver sample data to our fileshare by Thursday or further communicate intention to do so,
+we will pull training and testing data directly from the JournalMap website. This is not ideal because it would require one of
+us to use our personal machine as an intermediary between JournalMap and our team's OneDrive fileshare, but it wouldn't be the 
+end of the world. 
+
+The team also noted that we've been out of communication with Professor Bolden, our capstone supervisor. He mentioned last week
+that we would likely have a class meeting this week, but the snow day today may have diminished any such intentions. 
+
+

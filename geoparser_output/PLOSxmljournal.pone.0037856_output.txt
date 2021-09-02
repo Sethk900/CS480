@@ -1,0 +1,2 @@
+{'word': 'omnivory', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Kondoh', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IDN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Bali', 'lat': '-8.56945', 'lon': '115.04588', 'country_code3': 'IDN', 'geonameid': '7333722', 'place_name': 'Pangkung Kondoh', 'feature_class': 'H', 'feature_code': 'STM'}}

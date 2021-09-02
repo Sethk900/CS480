@@ -1,0 +1,1 @@
+{'word': 'Mxico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}

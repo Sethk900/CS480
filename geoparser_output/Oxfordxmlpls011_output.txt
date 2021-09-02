@@ -1,0 +1,50 @@
+{'word': 'pombe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MEX', 'country_conf': 0.5339668}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'pombe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MEX', 'country_conf': 0.5339668}
+{'word': 'Dongjin', 'spans': [{'start': 1, 'end': 8}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Germany', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '51.5', 'lon': '10.5', 'country_code3': 'DEU', 'geonameid': '2921044', 'place_name': 'Federal Republic of Germany', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Montpellier', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Languedoc-Roussillon-Midi-Pyrnes', 'lat': '43.57641', 'lon': '3.86581', 'country_code3': 'FRA', 'geonameid': '2992165', 'place_name': 'Arrondissement of Montpellier', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'France', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '2', 'country_code3': 'FRA', 'geonameid': '3017382', 'place_name': 'Republic of France', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Mannheim', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'DEU', 'country_conf': 0.96374094, 'geo': {'admin1': 'Baden-Wrttemberg', 'lat': '49.48806', 'lon': '8.46539', 'country_code3': 'DEU', 'geonameid': '6559162', 'place_name': 'Mannheim, Universittsstadt', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'Germany', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '51.5', 'lon': '10.5', 'country_code3': 'DEU', 'geonameid': '2921044', 'place_name': 'Federal Republic of Germany', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'pombe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MEX', 'country_conf': 0.5339668}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Germany', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '51.5', 'lon': '10.5', 'country_code3': 'DEU', 'geonameid': '2921044', 'place_name': 'Federal Republic of Germany', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Horie', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'JPN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saga Prefecture', 'lat': '33.27334', 'lon': '130.23537', 'country_code3': 'JPN', 'geonameid': '9890676', 'place_name': 'Mikatsukich-horie', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Dongjin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KOR', 'country_conf': 0.5714737}
+{'word': 'Michigan', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Michigan', 'lat': '44.25029', 'lon': '-85.50033', 'country_code3': 'USA', 'geonameid': '5001836', 'place_name': 'Michigan', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Germany', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '51.5', 'lon': '10.5', 'country_code3': 'DEU', 'geonameid': '2921044', 'place_name': 'Federal Republic of Germany', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'France', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '2', 'country_code3': 'FRA', 'geonameid': '3017382', 'place_name': 'Republic of France', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Montpellier', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Languedoc-Roussillon-Midi-Pyrnes', 'lat': '43.57641', 'lon': '3.86581', 'country_code3': 'FRA', 'geonameid': '2992165', 'place_name': 'Arrondissement of Montpellier', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'France', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '2', 'country_code3': 'FRA', 'geonameid': '3017382', 'place_name': 'Republic of France', 'feature_class': 'A', 'feature_code': 'PCLI'}}

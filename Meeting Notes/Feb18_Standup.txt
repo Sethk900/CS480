@@ -1,0 +1,30 @@
+Seth King
+CS480
+Standup Meeting Notes
+18 February 2021
+
+Since our last meeting, Dr. Karl dumped a bunch of XML files to our fileshare. 
+We can now begin developing pipelines to process that data and start building NLP models. 
+
+In this meeting I also brought up AWS and Databricks as potential tools for development and collaboration moving forward.
+I tried gaining free-tier student access to these resources, but Databricks is currently refactoring the registration portal
+for their community version. Also, presumably this version does not allow for collaboration, but I think by that they may
+simply mean that multiple people can't edit a notebook at one time, or that individual users can't share clusters within organizations
+(come to think of it, it's probably the latter-- the community version understandably has strictly regulated compute resources). 
+Need to look into it further, but for now there is no straight-forward method for registering for and receiving free compute 
+hours from Databricks, let alone cloud computing resources from AWS (though, come to think of it, that probably won't be much 
+more difficult -- AWS is somewhat liberal with free-tier resources for students, and their sales reps can be very accomodating)_.
+
+Further updates since last meeting:
+	- No further word from Professor Bolden regarding our next full-class meeting
+	- Will and Toby now keeping up on logbook entries
+	- Dr. Karl delivered articles (mostly in XML format, though the details vary) to serve as train/test data 
+
+Action items:
+	- Seth: examine services offered by Databricks, Azure, and AWS
+	- Will: Scrutinize the GitHub repo to 
+	- Toby: Start drafting Python scripts  
+	- Convert the various formats of the XML files into a single format that basically just contain the location data (lat/long/name) and raw text of the article
+	- All: Start digging through the various datasets to determine exactly what we have for a given dataset (i.e. is there any labeled location data? If so, where?
+	- Look for and read docmentation on the file formats
+

@@ -1,0 +1,42 @@
+Seth King
+Professor Bolden
+CS480 - Log Notes
+18 March 2021
+
+So, it turns out I may have been celebrating a bit prematurely yesterday.
+
+Upon firing up my EC2 instance today, I tried to run the Geoparser function and received an error. After a couple hours of reading around and trying to
+figure out what exactly is going on, I dug up a number of errors and started to resolve them. Among them:
+	1. Mordecai uses an older, deprecated verion of h5py than is listed on its requirements list. The current version of h5py is incompatible with keras, 
+	so I have to go out of my way to install an older version of h5py using pip3 install -I h5py==2.10.0.
+	2. One of the spacy models necessary to run mordecai needs to be installed manually. I encountered this yesterday: it can be resolved by running the command
+	python3 -m spacy download en_core_web_lg.
+	3. Docker needs to be installed to pull and run the elasticsearch container that mordecai uses to query location information. This is a pretty big factor
+	that I was completely unaware of until today. A couple of thoughts:
+		- Thankfully, SUSE Linux images come with Docker pre-installed on AWS. These images can be used to run virtual environments without us having to 
+		take on the headache of installing and configuring Docker. 
+		- We need to pull a Docker image from the daemon, use wget to pull a tarball, and extract the necessary files to be able to run the Docker container
+		associated with mordecai locally (that is, locally on an EC2 instance). This means that we need quite a bit of space on our EC2 instance, so my next 
+		step could be to create a new SUSE linux t2.large EC2 instance and re-try the installation steps for mordecai in that environment
+			- This is certainly tedious, but will also allow me to become more familiar with the configuration process so that I can adequately explain it
+			to my teammates after spring break. 
+ 
+Commands to get mordecai running on a SUSE Linux EC2 instance:
+sudo zypper install python3-pip # install pip3
+pip3 install mordecai # install mordecai
+python3 -m spacy download en_core_web_lg # install the missing spacy model
+pip3 install -I h5py==2.10.0 # install the deprecated version of h5py, which is compatible with keras (temporary workaround)
+sudo systemctl start docker # start the docker daemon
+sudo docker pull elasticsearch:5.5.2 # pull the most recent elasticsearch image
+wget https://andrewhalterman.com/files/geonames_index.tar.gz --output-file=wget_log.txt # Get the geoparser files
+tar -xzf geonames_index.tar.gz # Extract the tarball
+
+A helpful installation instruction list:
+https://github.com/openeventdata/mordecai#installation-and-requirements
+
+I tried running the setup commands on a larger instance (t2.large), but it still wasn't enough. 
+Next step is to continue scaling the EBS volume for one of the instances. Instructions for doing so can be found here:
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-attaching-volume.html
+
+One frustrating thing is that I can't seem to find a size requirement list for extracing the geonames_index tarball. It is very large and keeps clogging up the 
+space on my devices. This is going to be the next thing to tackle. 

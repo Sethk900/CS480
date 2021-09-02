@@ -1,0 +1,25 @@
+{'word': 'Amsterdam', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NLD', 'country_conf': 0.957188, 'geo': {'admin1': 'North Holland', 'lat': '52.37302', 'lon': '4.89856', 'country_code3': 'NLD', 'geonameid': '2759793', 'place_name': 'Gemeente Amsterdam', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Netherlands', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'NLD', 'country_conf': 0.6948644, 'geo': {'admin1': 'NA', 'lat': '52.25', 'lon': '5.75', 'country_code3': 'NLD', 'geonameid': '2750405', 'place_name': 'Kingdom of the Netherlands', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'KUALA', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.9048774, 'geo': {'admin1': 'North Sulawesi', 'lat': '1.61778', 'lon': '124.87194', 'country_code3': 'IDN', 'geonameid': '1625440', 'place_name': 'Kuala Talawaan', 'feature_class': 'H', 'feature_code': 'STM'}}
+{'word': 'Canterbury', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.6353264, 'geo': {'admin1': 'England', 'lat': '51.27958', 'lon': '1.08078', 'country_code3': 'GBR', 'geonameid': '6945807', 'place_name': 'City of Canterbury', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Qld', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'AUS', 'country_conf': 0.7178229, 'geo': {'admin1': 'Queensland', 'lat': '-20', 'lon': '145', 'country_code3': 'AUS', 'geonameid': '2152274', 'place_name': 'State of Queensland', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Australia', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'AUS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-25', 'lon': '135', 'country_code3': 'AUS', 'geonameid': '2077456', 'place_name': 'Commonwealth of Australia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Canterbury', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.6353264, 'geo': {'admin1': 'England', 'lat': '51.27958', 'lon': '1.08078', 'country_code3': 'GBR', 'geonameid': '6945807', 'place_name': 'City of Canterbury', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'K.M.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'THA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Bangkok', 'lat': '13.89834', 'lon': '100.589', 'country_code3': 'THA', 'geonameid': '8224809', 'place_name': 'Sathani Khan Keha Khomo Sip-Kao', 'feature_class': 'S', 'feature_code': 'RSTP'}}
+{'word': 'Ryde', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Australia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-25', 'lon': '135', 'country_code3': 'AUS', 'geonameid': '2077456', 'place_name': 'Commonwealth of Australia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'K.M.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'THA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Bangkok', 'lat': '13.89834', 'lon': '100.589', 'country_code3': 'THA', 'geonameid': '8224809', 'place_name': 'Sathani Khan Keha Khomo Sip-Kao', 'feature_class': 'S', 'feature_code': 'RSTP'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'N.Y.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'Vila', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'BOL', 'country_conf': 0.28868946}
+{'word': 'Comm.', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Lombardy', 'lat': '45.80998', 'lon': '9.08744', 'country_code3': 'ITA', 'geonameid': '6542055', 'place_name': 'Como', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'K.M.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'THA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Bangkok', 'lat': '13.89834', 'lon': '100.589', 'country_code3': 'THA', 'geonameid': '8224809', 'place_name': 'Sathani Khan Keha Khomo Sip-Kao', 'feature_class': 'S', 'feature_code': 'RSTP'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}

@@ -1,0 +1,27 @@
+{'word': 'Alternanthera', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Valonia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BEL', 'country_conf': 0.9528109, 'geo': {'admin1': 'Wallonia', 'lat': '50.5', 'lon': '4.75', 'country_code3': 'BEL', 'geonameid': '3337387', 'place_name': 'Wallonia', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Carolina', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maranho', 'lat': '-7.50794', 'lon': '-47.14907', 'country_code3': 'BRA', 'geonameid': '6319678', 'place_name': 'Carolina', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'cordgrass', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'calceoliformis', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'hydrophytic', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Maryland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Maryland', 'lat': '39.00039', 'lon': '-76.74997', 'country_code3': 'USA', 'geonameid': '4361885', 'place_name': 'Maryland', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Carolina', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maranho', 'lat': '-7.50794', 'lon': '-47.14907', 'country_code3': 'BRA', 'geonameid': '6319678', 'place_name': 'Carolina', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Vermont', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Vermont', 'lat': '44.00034', 'lon': '-72.74983', 'country_code3': 'USA', 'geonameid': '5242283', 'place_name': 'Vermont', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Albany', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'New York', 'lat': '42.65258', 'lon': '-73.75623', 'country_code3': 'USA', 'geonameid': '5106834', 'place_name': 'Albany', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'Kruskal', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IND', 'country_conf': 0.5714737}
+{'word': '\\Psi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}
+{'word': '\\Psi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}
+{'word': '\\Psi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}
+{'word': '\\Psi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}
+{'word': '\\Psi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}
+{'word': '\\Psi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}
+{'word': '\\Psi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}
+{'word': '\\Psi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}
+{'word': '\\Psi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}
+{'word': '\\Psi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}
+{'word': 'Guadalupe', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'Carolina', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maranho', 'lat': '-7.50794', 'lon': '-47.14907', 'country_code3': 'BRA', 'geonameid': '6319678', 'place_name': 'Carolina', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Carolina', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maranho', 'lat': '-7.50794', 'lon': '-47.14907', 'country_code3': 'BRA', 'geonameid': '6319678', 'place_name': 'Carolina', 'feature_class': 'A', 'feature_code': 'ADM2'}}

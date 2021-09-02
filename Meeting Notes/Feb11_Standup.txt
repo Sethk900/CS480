@@ -1,0 +1,28 @@
+Seth King
+CS480
+Team Standup Meeting Notes
+11 February 2021
+
+What should we all be working on right now?
+No data from Dr. Karl yet: data pre-processing/cleaning not necessarily an option
+	- Send Dr. Karl a reminder? We can give him until next week to reorganize
+	- Start pulling sample data straight from JournalMap?
+Read through some documentation pertaining to or describing typical project structures and timelines for NLP projects
+	- This will allow us to familiarize ourselves with conventional workflows on these types of projects
+	- Should also give us a decent idea of how to handle our own project
+
+During the meeting, we discussed progress made on the logbooks so far. Will and Toby need to catch up a little, but should be able
+to do so over the long weekend.
+
+Additionally, we decided not to remind Dr. Karl that he said he would provide us with an initial dump of test data, because
+he indicated that he would need to clean up this data a little bit before passing it on to us. Presumably, he's still doing 
+this, and we'll be able to touch base about it on Tuesday.
+
+In the meantime, each team member will go through a few different tutorials to better understand how NLP works and how NLP 
+projects are typically strucutred. Presumably, this will allow us to better structure our own project.
+	- This could mean changes or additions to our Gantt chart after we have a better idea of our work moving forward. 
+Toby and Will will also catch up on logbooks. 
+
+Finally, we noted that we may have a group session with the other CS students and Professor Bolden some time next week. 
+We aren't sure exactly what will go on for that meeting, but assume that he will ask how our projects have started out 
+and may give us information regarding the first snapshot assignment. 

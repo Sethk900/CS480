@@ -1,0 +1,37 @@
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Kentish', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Kentish', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Ellesmere', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GBR', 'country_conf': 0.9048774, 'geo': {'admin1': 'England', 'lat': '53.27875', 'lon': '-2.90134', 'country_code3': 'GBR', 'geonameid': '2650096', 'place_name': 'Ellesmere Port', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Seychelles', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'SYC', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-4.58333', 'lon': '55.66667', 'country_code3': 'SYC', 'geonameid': '241170', 'place_name': 'Republic of Seychelles', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'class&eacute;s', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'polygynie', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'syst&egrave;me', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'sexuel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'KOR', 'country_conf': 0.87992215, 'geo': {'admin1': 'Seoul', 'lat': '37.566', 'lon': '126.9784', 'country_code3': 'KOR', 'geonameid': '1835848', 'place_name': 'Seoul', 'feature_class': 'P', 'feature_code': 'PPLC'}}
+{'word': 'rivage', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'HTI', 'country_conf': 0.9048774, 'geo': {'admin1': 'Sud', 'lat': '18.08333', 'lon': '-73.85', 'country_code3': 'HTI', 'geonameid': '3717983', 'place_name': 'Rivage', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'syst&egrave;me', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'polygynie', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Siberia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'RUS', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '55.01565', 'lon': '82.96276', 'country_code3': 'RUS', 'geonameid': '11961345', 'place_name': 'Siberia', 'feature_class': 'L', 'feature_code': 'RGN'}}
+{'word': 'Sanderling', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'North Carolina', 'lat': '36.1508', 'lon': '-75.7421', 'country_code3': 'USA', 'geonameid': '6502601', 'place_name': 'The Sanderling Resort And Spa', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Germany', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '51.5', 'lon': '10.5', 'country_code3': 'DEU', 'geonameid': '2921044', 'place_name': 'Federal Republic of Germany', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Hamburg', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.957188, 'geo': {'admin1': 'Hamburg', 'lat': '53.55073', 'lon': '9.99302', 'country_code3': 'DEU', 'geonameid': '2911298', 'place_name': 'Hamburg', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'Germany', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '51.5', 'lon': '10.5', 'country_code3': 'DEU', 'geonameid': '2921044', 'place_name': 'Federal Republic of Germany', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Sanderling', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'North Carolina', 'lat': '36.1508', 'lon': '-75.7421', 'country_code3': 'USA', 'geonameid': '6502601', 'place_name': 'The Sanderling Resort And Spa', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Kentish', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Aarhus', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DNK', 'country_conf': 0.96374094, 'geo': {'admin1': 'Central Jutland', 'lat': '56.15674', 'lon': '10.21076', 'country_code3': 'DNK', 'geonameid': '2624652', 'place_name': 'rhus', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Jukema', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.5339668}
+{'word': 'Kamp', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'DEU', 'country_conf': 0.28365934}

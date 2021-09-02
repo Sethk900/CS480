@@ -1,0 +1,42 @@
+Seth King
+Professor Bolden
+Semester Project - Standup Meeting Notes
+23 February 2021
+
+At the standup meeting today, I intend to present the group with platforming options (e.g. free-tier AWS and Databricks
+for group collaboration. 
+	- If the group is comfortable with it, we can move forward to getting everyone set up with accounts and taking the free-tier services for AWS and 
+	Databricks so that they can serve as a collaborative remote computing space for us going forward. 
+
+Updates:
+I pitched AWS and Databricks to Will: he seemed generally to agree with the advantages, but noted that we should get Dr. Karl's permission before hosting 
+any JournalMap data remotely (i.e. in AWS S3 or Databricks' DBFS)
+We went over the architecture: there are improvements that could be made, such as writing to DBFS rather than S3 for the bronze-to-gold and gold-to-platinum
+notebooks to save on S3 charges, but in general it seemed like a decent workflow.
+
+Will went over the JournalMap GitHub organization:
+	- JLIS_Geoparsers has a great README that explains how it works
+	There are two parser files that, ideally, our product could end up replacing:
+		- jmap_geoparser.py: the pyparse-based geoparser
+		- jmpar_geoparser_re.py: the regex-based geoparser
+	There are a couple of other versions of the files, but they seem to be mostly more tweaked
+	- in DataImport: jmapParseXML.py: an IMPORTANT script that calls the geoparser scripts
+		- We may be able to recycle some of this code to feed input to a given .py file
+			- This would allow us to develop a local pipeline alongside the remote one
+	- GeoParsers has significantly more files and is likely the working version, but the documentation isn't as robust
+	- The big takeaway from the GitHub is that a lot of the pipelining/formatting has already been done, to some extent, by Dr. Karl's code. If we spend less time
+	figuring that out than it would take us to write code from scratch, then it could be advantageous to us. 
+
+Action items before Thursday standup:
+	- Seth:
+		- Spend a few hours reading up on the JournalMap GitHub to start thinking about how our code will interface with the existing architecture
+		- Start drafting up simple Python scripts for the bronze-to-gold Databricks notebook
+		- Draft an email to Dr. Karl updating him on our activities and requesting additional documentation if he has any
+	- Will:
+		- Keep reading through the Github and attempting to understand how our code will interface with the existing architecture
+		- Create accounts for the Databricks and AWS free tiers, as specified in my Feb20 log notes
+	- Toby: (if he has time)
+		- Continue writing sample script to pull out relevant data from XML files and consolidate them in specially-formatted .txt files
+		- Create accounts for the Databricks and AWS free tiers, as specified in my Feb20 log notes
+		- Spend some time familiarizing yourself with the JournalMap GitHub: the files noted above, which Will found while he was looking over 
+		the code, would be a good place to start. 

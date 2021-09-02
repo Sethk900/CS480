@@ -1,0 +1,59 @@
+{'word': 'Amsterdam', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NLD', 'country_conf': 0.957188, 'geo': {'admin1': 'North Holland', 'lat': '52.37302', 'lon': '4.89856', 'country_code3': 'NLD', 'geonameid': '2759793', 'place_name': 'Gemeente Amsterdam', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Netherlands', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'NLD', 'country_conf': 0.6948644, 'geo': {'admin1': 'NA', 'lat': '52.25', 'lon': '5.75', 'country_code3': 'NLD', 'geonameid': '2750405', 'place_name': 'Kingdom of the Netherlands', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Israel', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Jerusalem', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ISR', 'country_conf': 0.957188, 'geo': {'admin1': 'Jerusalem', 'lat': '31.75', 'lon': '35', 'country_code3': 'ISR', 'geonameid': '293198', 'place_name': 'Jerusalem', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Israel', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'microcalcites', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'microcalcites', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'micritic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'Israel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'microcalcites', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'microcalcite', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'microcalcites', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'microcalcites', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Wieder', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'California', 'lat': '33.72002', 'lon': '-118.04534', 'country_code3': 'USA', 'geonameid': '5409086', 'place_name': 'Wieder Park', 'feature_class': 'L', 'feature_code': 'PRK'}}
+{'word': 'micritic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'micritic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'micritic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Bathurst', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.28868946}
+{'word': 'micritic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'micritic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'micritic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'micritic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'micritic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'microcalcites', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': '~::::i::i::iiii=:ii?~::i', 'spans': [{'start': 0, 'end': 24}], 'country_predicted': 'MEX', 'country_conf': 0.5339668}
+{'word': 'Israel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'microcalcites', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Amsterdam', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NLD', 'country_conf': 0.957188, 'geo': {'admin1': 'North Holland', 'lat': '52.37302', 'lon': '4.89856', 'country_code3': 'NLD', 'geonameid': '2759793', 'place_name': 'Gemeente Amsterdam', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Blokhuis', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BEL', 'country_conf': 0.5714737}
+{'word': 'W.A.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'NZL', 'country_conf': 0.9048774, 'geo': {'admin1': 'Wellington', 'lat': '-40.69826', 'lon': '175.65021', 'country_code3': 'NZL', 'geonameid': '6227964', 'place_name': 'W.A. Miller Reserve', 'feature_class': 'L', 'feature_code': 'PRK'}}
+{'word': 'Sudan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'SDN', 'country_conf': 0.9634983, 'geo': {'admin1': 'NA', 'lat': '16', 'lon': '30', 'country_code3': 'SDN', 'geonameid': '366755', 'place_name': 'Republic of the Sudan', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'NY', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'SWE', 'country_conf': 0.28365934}
+{'word': 'Guelph', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Ontario', 'lat': '43.54594', 'lon': '-80.25599', 'country_code3': 'CAN', 'geonameid': '5967629', 'place_name': 'Guelph', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Israel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Tulsa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Oklahoma', 'lat': '36.12108', 'lon': '-95.94148', 'country_code3': 'USA', 'geonameid': '4553440', 'place_name': 'Tulsa County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Okla.', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'COL', 'country_conf': 0.28868946}
+{'word': 'Strasbourg', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Alsace-Champagne-Ardenne-Lorraine', 'lat': '48.58361', 'lon': '7.74806', 'country_code3': 'FRA', 'geonameid': '6441375', 'place_name': 'Strasbourg', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'Edinburgh', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GBR', 'country_conf': 0.96374094, 'geo': {'admin1': 'Scotland', 'lat': '55.94973', 'lon': '-3.19333', 'country_code3': 'GBR', 'geonameid': '3333229', 'place_name': 'City of Edinburgh', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Tulsa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Oklahoma', 'lat': '36.12108', 'lon': '-95.94148', 'country_code3': 'USA', 'geonameid': '4553440', 'place_name': 'Tulsa County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Okla.', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'COL', 'country_conf': 0.28868946}
+{'word': 'Soc', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'VNM', 'country_conf': 0.87992215, 'geo': {'admin1': 'Sc Trng', 'lat': '9.59995', 'lon': '105.97193', 'country_code3': 'VNM', 'geonameid': '1567788', 'place_name': 'Sc Trng', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'Gile', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'Syria', 'spans': [{'start': 1, 'end': 6}], 'country_predicted': 'SYR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '35', 'lon': '38', 'country_code3': 'SYR', 'geonameid': '163843', 'place_name': 'Syrian Arab Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Utrecht', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NLD', 'country_conf': 0.957188, 'geo': {'admin1': 'Utrecht', 'lat': '52', 'lon': '5.25', 'country_code3': 'NLD', 'geonameid': '2745909', 'place_name': 'Provincie Utrecht', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Warsaw', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'POL', 'country_conf': 0.957188, 'geo': {'admin1': 'Masovian Voivodeship', 'lat': '52.22977', 'lon': '21.01178', 'country_code3': 'POL', 'geonameid': '756135', 'place_name': 'Warsaw', 'feature_class': 'P', 'feature_code': 'PPLC'}}
+{'word': 'Warsaw', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'POL', 'country_conf': 0.957188, 'geo': {'admin1': 'Masovian Voivodeship', 'lat': '52.22977', 'lon': '21.01178', 'country_code3': 'POL', 'geonameid': '756135', 'place_name': 'Warsaw', 'feature_class': 'P', 'feature_code': 'PPLC'}}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Strasbourg', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Alsace-Champagne-Ardenne-Lorraine', 'lat': '48.58361', 'lon': '7.74806', 'country_code3': 'FRA', 'geonameid': '6441375', 'place_name': 'Strasbourg', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'Indo', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IND', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '79', 'country_code3': 'IND', 'geonameid': '1269750', 'place_name': 'Republic of India', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'India', 'spans': [{'start': 1, 'end': 6}], 'country_predicted': 'IND', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '79', 'country_code3': 'IND', 'geonameid': '1269750', 'place_name': 'Republic of India', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Jerusalem', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ISR', 'country_conf': 0.957188, 'geo': {'admin1': 'Jerusalem', 'lat': '31.75', 'lon': '35', 'country_code3': 'ISR', 'geonameid': '293198', 'place_name': 'Jerusalem', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'microcalcites', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'microcalcites', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'microcalcites', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'micritic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}

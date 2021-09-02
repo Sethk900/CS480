@@ -1,0 +1,7 @@
+{'word': 'Dakota', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'South Dakota', 'lat': '44.50026', 'lon': '-100.25069', 'country_code3': 'USA', 'geonameid': '5769223', 'place_name': 'South Dakota', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Virginia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.19161284}
+{'word': 'postvectis', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Mayfield', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GBR', 'country_conf': 0.28365934}
+{'word': 'sialis', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GRC', 'country_conf': 0.92213035, 'geo': {'admin1': 'Crete', 'lat': '35.29257', 'lon': '25.43292', 'country_code3': 'GRC', 'geonameid': '253305', 'place_name': 'Stals', 'feature_class': 'P', 'feature_code': 'PPL'}}

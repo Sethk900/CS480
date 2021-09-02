@@ -1,0 +1,34 @@
+Seth King
+Professor Bolden
+CS480 - Log Notes
+16 March 2021
+
+Today, I focused on parsing out some relevant contents from the given XML files and trying to run an open-source geoparser (Mordecai) on the resulting text files
+In doing so, I encountered a number of obstacles that I'll need to work on throughout the coming week
+
+I started out by trying to install Mordecai locally. This turned out to be a heavier lift than expected: Mordecai has quite a few dependencies, including some large ones 
+like Tensorflow (the wheel of which is ~400MB). My machine wasn't able to build the NLP package from the dependency list
+	- I'm not exactly sure what the specific cause of failure was for this. pip failed to build some of the larger wheels, and I'm not sure whether this is 
+	because I'm using deprecated software somewhere, my device is out of storage (I'm running all of this on a WSL distro locally), or what.
+
+After I failed to get Mordecai set up on my local machine, I shifted over to AWS and launched a t2.micro EC2 instance to try to run Mordecai on. My rationale for
+selecting a t2.micro instance was mostly based on the fact that these instances are fairly cheap to run and won't run my AWS credits down too quickly. 
+
+While I was launching the instance, I generated a key pair (.pem file) via the AWS console and downloaded it to my machine so that I can use SSH/SFTP with this 
+EC2 instance. Since I use Putty as my SSH client, I had to convert the .pem file to a .ppk file using PuttyGen. Once this was done, I SSHed into the EC2 instance
+and started installing all of the things that we'll need for testing out Mordecai. Once I got to Tensorflow, however, the EC2 isntance kept killing the install.
+I suspect that this is just because I hit the storage on the T2.micro instance with all of the dependencies. 
+
+So, now that I've tested out all of this, my next steps are to shut down the current EC2 istance and spin up a larger one to work with on the project. 
+I will likely try this out tonight or tomorrow morning.
+
+If Mordecai still doesn't install on a larger instance, then I'll try out a different Linux version (I'm currently using Ubuntu 20.04 LTS).
+
+If, on the other hand, Mordecai DOES install, then my next steps will be to parse out some raw text content from the given article sets locally, use SFTP (specifically
+WinSCP) to migrate those files to the EC2 instance along with any relevant scripts, and start testing out Mordecai for the extraction of place names. 
+
+If I manage to get all of that done, then I may move on to investigate how to build and test binary classification models using Keras. The idea here would be that given
+a place name (or given the location in a text where the place name was discovered), we could run an ML model to indicate whether or not that place name is the actual 
+location where the study took place. In theory, then, the Mordecai geoparser could be combined with a simple binary classification model to extract and label the 
+location where a study took place for a given article. That would be a good place to get to by the end of spring break, but may turn out to be overly ambitious. 
+
