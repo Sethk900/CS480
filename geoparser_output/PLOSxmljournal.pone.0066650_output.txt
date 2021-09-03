@@ -1,0 +1,1 @@
+{'word': 'Montserrat', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'MSR', 'country_conf': 0.3105929}

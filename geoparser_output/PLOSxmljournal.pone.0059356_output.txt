@@ -1,0 +1,2 @@
+{'word': 'gulch', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'Bettadapur', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'IND', 'country_conf': 0.9528109, 'geo': {'admin1': 'Karnataka', 'lat': '12.4703', 'lon': '76.10178', 'country_code3': 'IND', 'geonameid': '1276395', 'place_name': 'Bettadpur', 'feature_class': 'P', 'feature_code': 'PPL'}}

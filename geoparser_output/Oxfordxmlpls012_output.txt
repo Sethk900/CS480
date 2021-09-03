@@ -1,0 +1,50 @@
+{'word': 'Walp', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IDN', 'country_conf': 0.9528109, 'geo': {'admin1': 'East Kalimantan', 'lat': '1.70375', 'lon': '114.97046', 'country_code3': 'IDN', 'geonameid': '7731237', 'place_name': 'Long Apung Airport', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Ghana', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GHA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '8.1', 'lon': '-1.2', 'country_code3': 'GHA', 'geonameid': '2300660', 'place_name': 'Republic of Ghana', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Nepal', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'NPL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '28', 'lon': '84', 'country_code3': 'NPL', 'geonameid': '1282988', 'place_name': 'Federal Democratic Republic of Nepal', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Ethiopia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ETH', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '9', 'lon': '39.5', 'country_code3': 'ETH', 'geonameid': '337996', 'place_name': 'Federal Democratic Republic of Ethiopia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'stenophylla', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Sesquipedalis', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Belgium', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BEL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '50.75', 'lon': '4.5', 'country_code3': 'BEL', 'geonameid': '2802361', 'place_name': 'Kingdom of Belgium', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Congo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
+{'word': 'Congo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
+{'word': 'SS9.1', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'stenophylla', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zimbabwe', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'ZWE', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-19', 'lon': '29.75', 'country_code3': 'ZWE', 'geonameid': '878675', 'place_name': 'Republic of Zimbabwe', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Namibia', 'spans': [{'start': 1, 'end': 8}], 'country_predicted': 'NAM', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-22', 'lon': '17', 'country_code3': 'NAM', 'geonameid': '3355338', 'place_name': 'Republic of Namibia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Botswana', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'BWA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-22', 'lon': '24', 'country_code3': 'BWA', 'geonameid': '933860', 'place_name': 'Republic of Botswana', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Angola', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AGO', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-12.5', 'lon': '18.5', 'country_code3': 'AGO', 'geonameid': '3351879', 'place_name': 'Republic of Angola', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
+{'word': 'stenophylla', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Botswana', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BWA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-22', 'lon': '24', 'country_code3': 'BWA', 'geonameid': '933860', 'place_name': 'Republic of Botswana', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'stenophylla', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'spontanea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'N.J.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'NLD', 'country_conf': 0.9048774, 'geo': {'admin1': 'Overijssel', 'lat': '52.23323', 'lon': '6.89695', 'country_code3': 'NLD', 'geonameid': '6954598', 'place_name': 'Watertoren N.J. Menko', 'feature_class': 'S', 'feature_code': 'TOWR'}}
+{'word': 'Belgium', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BEL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '50.75', 'lon': '4.5', 'country_code3': 'BEL', 'geonameid': '2802361', 'place_name': 'Kingdom of Belgium', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Mumbai', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IND', 'country_conf': 0.96374094, 'geo': {'admin1': 'Maharashtra', 'lat': '19.07283', 'lon': '72.88261', 'country_code3': 'IND', 'geonameid': '1275339', 'place_name': 'Mumbai', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'India', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IND', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '79', 'country_code3': 'IND', 'geonameid': '1269750', 'place_name': 'Republic of India', 'feature_class': 'A', 'feature_code': 'PCLI'}}

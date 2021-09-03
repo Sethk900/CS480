@@ -1,0 +1,53 @@
+{'word': 'Amsterdam', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NLD', 'country_conf': 0.957188, 'geo': {'admin1': 'North Holland', 'lat': '52.37302', 'lon': '4.89856', 'country_code3': 'NLD', 'geonameid': '2759793', 'place_name': 'Gemeente Amsterdam', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Netherlands', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'NLD', 'country_conf': 0.6948644, 'geo': {'admin1': 'NA', 'lat': '52.25', 'lon': '5.75', 'country_code3': 'NLD', 'geonameid': '2750405', 'place_name': 'Kingdom of the Netherlands', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'tonga', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CMR', 'country_conf': 0.87992215, 'geo': {'admin1': 'West', 'lat': '4.96667', 'lon': '10.7', 'country_code3': 'CMR', 'geonameid': '2221394', 'place_name': 'Tonga', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'phonolitic', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'tonga', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CMR', 'country_conf': 0.87992215, 'geo': {'admin1': 'West', 'lat': '4.96667', 'lon': '10.7', 'country_code3': 'CMR', 'geonameid': '2221394', 'place_name': 'Tonga', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'Tikioki', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'COK', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '-21.26551', 'lon': '-159.74365', 'country_code3': 'COK', 'geonameid': '4035483', 'place_name': 'Tikioki', 'feature_class': 'A', 'feature_code': 'ADMD'}}
+{'word': 'Claridge', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}
+{'word': 'tonga', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CMR', 'country_conf': 0.87992215, 'geo': {'admin1': 'West', 'lat': '4.96667', 'lon': '10.7', 'country_code3': 'CMR', 'geonameid': '2221394', 'place_name': 'Tonga', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'Tropepts', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Tropepts', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'tropepts', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'tonga', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CMR', 'country_conf': 0.87992215, 'geo': {'admin1': 'West', 'lat': '4.96667', 'lon': '10.7', 'country_code3': 'CMR', 'geonameid': '2221394', 'place_name': 'Tonga', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'plateau', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.28868946}
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
+{'word': 'phonolitic', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'kaolinitic', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Cocos', 'spans': [{'start': 1, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
+{'word': 'kaolinitic', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'kaolinitic', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'kaolinitic', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Tropopsamment', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'I.B.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'BRA', 'country_conf': 0.5714737}
+{'word': 'I.B.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'BRA', 'country_conf': 0.5714737}
+{'word': 'Claridge', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}
+{'word': 'B.C.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'British Columbia', 'lat': '49.27676', 'lon': '-123.11189', 'country_code3': 'CAN', 'geonameid': '6931033', 'place_name': 'BC Place Stadium', 'feature_class': 'S', 'feature_code': 'STDM'}}
+{'word': 'Dep', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRN', 'country_conf': 0.28868946}

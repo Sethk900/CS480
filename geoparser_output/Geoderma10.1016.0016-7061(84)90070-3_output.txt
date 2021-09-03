@@ -1,0 +1,4 @@
+{'word': 'New York', 'spans': [{'start': 148, 'end': 156}], 'country_predicted': 'USA', 'country_conf': 0.9470949, 'geo': {'admin1': 'New York', 'lat': '43.00035', 'lon': '-75.4999', 'country_code3': 'USA', 'geonameid': '5128638', 'place_name': 'New York', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'N.Y.', 'spans': [{'start': 158, 'end': 162}], 'country_predicted': 'FRA', 'country_conf': 0.16710842}
+{'word': 'New York', 'spans': [{'start': 927, 'end': 935}], 'country_predicted': 'USA', 'country_conf': 0.9470949, 'geo': {'admin1': 'New York', 'lat': '43.00035', 'lon': '-75.4999', 'country_code3': 'USA', 'geonameid': '5128638', 'place_name': 'New York', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'N.Y.', 'spans': [{'start': 937, 'end': 941}], 'country_predicted': 'FRA', 'country_conf': 0.16710842}

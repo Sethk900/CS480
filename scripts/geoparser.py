@@ -6,7 +6,7 @@ import os
 
 xmlfile = re.compile('.*\.xml')
 capital = re.compile('.*[A-Z]*.*')
-#geo = Geoparser()
+geo = Geoparser()
 
 for inputfile in os.listdir("../processed_files"):
 	name, extension = os.path.splitext(inputfile)
@@ -14,22 +14,35 @@ for inputfile in os.listdir("../processed_files"):
 	inputfile = "../processed_files/" + inputfile
 	print("Outfile name: "+outfilename)
 	if xmlfile.match(inputfile) and outfilename not in os.listdir("../geoparser_output"): # Only process XML files
-		geo = Geoparser()
-		with open(inputfile, "r") as infile:
+		#geo = Geoparser()
+		with open(inputfile, "r", encoding="utf-8") as infile:
 			print("Processing data from " + inputfile + "...")
-			data = infile.readlines()
+			try:
+				data = infile.readlines()
+			except:
+				outfilename = "../geoparser_output/" + outfilename
+				with open(outfilename, "a") as outfile:
+					outfile.write("Unicode Error")
+				outfile.close()
+				data = "none"
 		infile.close()
-
-		output = geo.geoparse(str(data))
 		outfilename = "../geoparser_output/" + outfilename
+		for line in data:
+			for word in line.split(): # For testing: eventually we'll want to parse a single word at a time to see what the geoparser is having a hard time with
+				#print(word)
+				#print("Running geoparser on " + word + "...")
+				output = geo.geoparse(str(word))
 
-		with open(outfilename, "a") as outfile:
-			for word in output:
-				if capital.match(word['word']): # Filter out place names that don't contain any capital later (Comment out to remove filter)
-					outfile.write(str(word))
-					outfile.write("\n")
+				#print("Writing geoparser results for to " + outfilename + "...")
+				with open(outfilename, "a", errors='ignore') as outfile:
+					for line in output:
+						if capital.match(line['word']): # Filter out place names that don't contain any capital later (Comment out to remove filter)
+							try:
+								outfile.write(str(line))
+								outfile.write("\n")
+							except:
+								print("Unicode error when trying to write word " + word['word'] + " to outfile.")
 
-		outfile.close()
+				outfile.close()
 #		break # Temporary modification: process only one file at a time
 #		quit() # End script execution
-

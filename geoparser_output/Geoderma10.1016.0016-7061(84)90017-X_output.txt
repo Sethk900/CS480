@@ -1,0 +1,126 @@
+{'word': 'Amsterdam', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NLD', 'country_conf': 0.957188, 'geo': {'admin1': 'North Holland', 'lat': '52.37302', 'lon': '4.89856', 'country_code3': 'NLD', 'geonameid': '2759793', 'place_name': 'Gemeente Amsterdam', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Netherlands', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'NLD', 'country_conf': 0.6948644, 'geo': {'admin1': 'NA', 'lat': '52.25', 'lon': '5.75', 'country_code3': 'NLD', 'geonameid': '2750405', 'place_name': 'Kingdom of the Netherlands', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'ZEALAND', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Boulder', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Colorado', 'lat': '40.01499', 'lon': '-105.27055', 'country_code3': 'USA', 'geonameid': '5574991', 'place_name': 'Boulder', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'U.S.A.', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '39.76', 'lon': '-98.5', 'country_code3': 'USA', 'geonameid': '6252001', 'place_name': 'United States', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'loess', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'U.S.A.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '39.76', 'lon': '-98.5', 'country_code3': 'USA', 'geonameid': '6252001', 'place_name': 'United States', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Himalaya', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'Alaska', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Alaska', 'lat': '64.00028', 'lon': '-150.00028', 'country_code3': 'USA', 'geonameid': '5879092', 'place_name': 'Alaska', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Norway', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NOR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '62', 'lon': '10', 'country_code3': 'NOR', 'geonameid': '3144096', 'place_name': 'Kingdom of Norway', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'North-East', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Canterbury', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.6353264, 'geo': {'admin1': 'England', 'lat': '51.27958', 'lon': '1.08078', 'country_code3': 'GBR', 'geonameid': '6945807', 'place_name': 'City of Canterbury', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Internat', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'RUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Altai Republic', 'lat': '51.28528', 'lon': '87.71806', 'country_code3': 'RUS', 'geonameid': '1510943', 'place_name': 'Balykcha', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Soc', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'VNM', 'country_conf': 0.87992215, 'geo': {'admin1': 'Sc Trng', 'lat': '9.59995', 'lon': '105.97193', 'country_code3': 'VNM', 'geonameid': '1567788', 'place_name': 'Sc Trng', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'N.Y.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'B.K.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Eastern Cape', 'lat': '-31.96608', 'lon': '26.47245', 'country_code3': 'ZAF', 'geonameid': '1019260', 'place_name': 'B.K. Mond (2)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'F.C.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.28868946}
+{'word': 'Soc', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'VNM', 'country_conf': 0.87992215, 'geo': {'admin1': 'Sc Trng', 'lat': '9.59995', 'lon': '105.97193', 'country_code3': 'VNM', 'geonameid': '1567788', 'place_name': 'Sc Trng', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Boulder', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Colorado', 'lat': '40.01499', 'lon': '-105.27055', 'country_code3': 'USA', 'geonameid': '5574991', 'place_name': 'Boulder', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Valley', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Alabama', 'lat': '32.81874', 'lon': '-85.17939', 'country_code3': 'USA', 'geonameid': '4095186', 'place_name': 'Valley', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Canterbury', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.6353264, 'geo': {'admin1': 'England', 'lat': '51.27958', 'lon': '1.08078', 'country_code3': 'GBR', 'geonameid': '6945807', 'place_name': 'City of Canterbury', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'A.S.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'NOR', 'country_conf': 0.28868946}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Norway', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NOR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '62', 'lon': '10', 'country_code3': 'NOR', 'geonameid': '3144096', 'place_name': 'Kingdom of Norway', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'H.S.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CHN', 'country_conf': 0.28868946}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Soc', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'VNM', 'country_conf': 0.87992215, 'geo': {'admin1': 'Sc Trng', 'lat': '9.59995', 'lon': '105.97193', 'country_code3': 'VNM', 'geonameid': '1567788', 'place_name': 'Sc Trng', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'J.W.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.28868946}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Valley', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Alabama', 'lat': '32.81874', 'lon': '-85.17939', 'country_code3': 'USA', 'geonameid': '4095186', 'place_name': 'Valley', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Canterbury', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.6353264, 'geo': {'admin1': 'England', 'lat': '51.27958', 'lon': '1.08078', 'country_code3': 'GBR', 'geonameid': '6945807', 'place_name': 'City of Canterbury', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Canterbury', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.6353264, 'geo': {'admin1': 'England', 'lat': '51.27958', 'lon': '1.08078', 'country_code3': 'GBR', 'geonameid': '6945807', 'place_name': 'City of Canterbury', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'N.Y.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'N.Y.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'Johnston', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Rhode Island', 'lat': '41.82186', 'lon': '-71.50675', 'country_code3': 'USA', 'geonameid': '8604682', 'place_name': 'Johnston', 'feature_class': 'P', 'feature_code': 'PPLA3'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Westland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Michigan', 'lat': '42.3242', 'lon': '-83.40021', 'country_code3': 'USA', 'geonameid': '5014681', 'place_name': 'Westland', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'London', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.957188, 'geo': {'admin1': 'England', 'lat': '51.49227', 'lon': '-0.30864', 'country_code3': 'GBR', 'geonameid': '11591955', 'place_name': 'London', 'feature_class': 'L', 'feature_code': 'RGN'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Canterbury', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.6353264, 'geo': {'admin1': 'England', 'lat': '51.27958', 'lon': '1.08078', 'country_code3': 'GBR', 'geonameid': '6945807', 'place_name': 'City of Canterbury', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'N.Y.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'Canterbury', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.6353264, 'geo': {'admin1': 'England', 'lat': '51.27958', 'lon': '1.08078', 'country_code3': 'GBR', 'geonameid': '6945807', 'place_name': 'City of Canterbury', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'F.C.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.28868946}
+{'word': 'Alaska', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Alaska', 'lat': '64.00028', 'lon': '-150.00028', 'country_code3': 'USA', 'geonameid': '5879092', 'place_name': 'Alaska', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Ohio', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Ohio', 'lat': '40.25034', 'lon': '-83.00018', 'country_code3': 'USA', 'geonameid': '5165418', 'place_name': 'Ohio', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Aust', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
+{'word': 'London', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.957188, 'geo': {'admin1': 'England', 'lat': '51.49227', 'lon': '-0.30864', 'country_code3': 'GBR', 'geonameid': '11591955', 'place_name': 'London', 'feature_class': 'L', 'feature_code': 'RGN'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}

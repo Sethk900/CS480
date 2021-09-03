@@ -1,0 +1,1 @@
+{'word': 'Mauritania', 'spans': [{'start': 1, 'end': 11}], 'country_predicted': 'MRT', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '20.25', 'lon': '-10.5', 'country_code3': 'MRT', 'geonameid': '2378080', 'place_name': 'Islamic Republic of Mauritania', 'feature_class': 'A', 'feature_code': 'PCLI'}}

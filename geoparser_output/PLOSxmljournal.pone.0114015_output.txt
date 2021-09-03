@@ -1,0 +1,5 @@
+{'word': 'Costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
+{'word': 'Costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
+{'word': 'Edinburgh', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GBR', 'country_conf': 0.96374094, 'geo': {'admin1': 'Scotland', 'lat': '55.94973', 'lon': '-3.19333', 'country_code3': 'GBR', 'geonameid': '3333229', 'place_name': 'City of Edinburgh', 'feature_class': 'A', 'feature_code': 'ADM2'}}

@@ -1,0 +1,3 @@
+{'word': 'Netherlands', 'spans': [{'start': 99, 'end': 110}], 'country_predicted': 'NLD', 'country_conf': 0.92200077, 'geo': {'admin1': 'NA', 'lat': '52.25', 'lon': '5.75', 'country_code3': 'NLD', 'geonameid': '2750405', 'place_name': 'Kingdom of the Netherlands', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'ARGENTINA', 'spans': [{'start': 172, 'end': 181}], 'country_predicted': 'MEX', 'country_conf': 0.15529269}
+{'word': 'La Plata', 'spans': [{'start': 233, 'end': 241}], 'country_predicted': 'ARG', 'country_conf': 0.906865, 'geo': {'admin1': 'Buenos Aires', 'lat': '-35', 'lon': '-58', 'country_code3': 'ARG', 'geonameid': '3432039', 'place_name': 'Partido de La Plata', 'feature_class': 'A', 'feature_code': 'ADM2'}}

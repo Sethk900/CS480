@@ -1,0 +1,177 @@
+{'word': 'Amsterdam', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NLD', 'country_conf': 0.957188, 'geo': {'admin1': 'North Holland', 'lat': '52.37302', 'lon': '4.89856', 'country_code3': 'NLD', 'geonameid': '2759793', 'place_name': 'Gemeente Amsterdam', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Netherlands', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'NLD', 'country_conf': 0.6948644, 'geo': {'admin1': 'NA', 'lat': '52.25', 'lon': '5.75', 'country_code3': 'NLD', 'geonameid': '2750405', 'place_name': 'Kingdom of the Netherlands', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Stuttgart', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'DEU', 'country_conf': 0.96374094, 'geo': {'admin1': 'Baden-Wrttemberg', 'lat': '49.08333', 'lon': '9.66667', 'country_code3': 'DEU', 'geonameid': '3214105', 'place_name': 'Regierungsbezirk Stuttgart', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Deutschland', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '51.5', 'lon': '10.5', 'country_code3': 'DEU', 'geonameid': '2921044', 'place_name': 'Federal Republic of Germany', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'stereologisehen', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'lagen', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Stereomikroskop', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'lassen', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '40.67359', 'lon': '-120.59433', 'country_code3': 'USA', 'geonameid': '5566544', 'place_name': 'Lassen County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'werden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'quantitativen', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Virginia', 'lat': '36.88611', 'lon': '-76.29528', 'country_code3': 'USA', 'geonameid': '6345256', 'place_name': 'Center for Quantitative Fisheries Ecology', 'feature_class': 'S', 'feature_code': 'BLDG'}}
+{'word': 'quantitativen', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Virginia', 'lat': '36.88611', 'lon': '-76.29528', 'country_code3': 'USA', 'geonameid': '6345256', 'place_name': 'Center for Quantitative Fisheries Ecology', 'feature_class': 'S', 'feature_code': 'BLDG'}}
+{'word': 'siehe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'keit', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'TCD', 'country_conf': 0.9528109, 'geo': {'admin1': 'Gura', 'lat': '11.5628', 'lon': '18.6638', 'country_code3': 'TCD', 'geonameid': '2430559', 'place_name': 'Mont Ket', 'feature_class': 'T', 'feature_code': 'MT'}}
+{'word': 'unver', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GBR', 'country_conf': 0.5714737}
+{'word': 'dazu', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Chongqing', 'lat': '29.65693', 'lon': '105.73551', 'country_code3': 'CHN', 'geonameid': '1813042', 'place_name': 'Dazu Xian', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'gleichen', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '51.46667', 'lon': '10.03333', 'country_code3': 'DEU', 'geonameid': '3207210', 'place_name': 'Gleichen', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'plattig', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9528109, 'geo': {'admin1': 'Baden-Wrttemberg', 'lat': '48.67481', 'lon': '8.23833', 'country_code3': 'DEU', 'geonameid': '2819707', 'place_name': 'Untere Plttig', 'feature_class': 'S', 'feature_code': 'FRM'}}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Sfidwestdeutschland', 'spans': [{'start': 0, 'end': 19}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Jahresmittelwerte', 'spans': [{'start': 0, 'end': 17}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'u.a.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ITA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Sardinia', 'lat': '39.29114', 'lon': '8.95424', 'country_code3': 'ITA', 'geonameid': '6539314', 'place_name': 'Uta', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Moosschicht', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'u.a.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ITA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Sardinia', 'lat': '39.29114', 'lon': '8.95424', 'country_code3': 'ITA', 'geonameid': '6539314', 'place_name': 'Uta', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Hagerhumus', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'siehe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Kubienakastenproben', 'spans': [{'start': 0, 'end': 19}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Polyesterharz', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Banfield', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ARG', 'country_conf': 0.9048774, 'geo': {'admin1': 'Buenos Aires', 'lat': '-34.74572', 'lon': '-58.39192', 'country_code3': 'ARG', 'geonameid': '3436152', 'place_name': 'Banfield', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Untersuchung', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Stereomikroskop', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'erhalten', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'NOR', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '70.50351', 'lon': '24.3783', 'country_code3': 'NOR', 'geonameid': '9753582', 'place_name': 'rnjoasvaggi', 'feature_class': 'T', 'feature_code': 'VAL'}}
+{'word': 'wurde', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saxony-Anhalt', 'lat': '51.49666', 'lon': '11.81251', 'country_code3': 'DEU', 'geonameid': '2805726', 'place_name': 'Wrde-Bach', 'feature_class': 'H', 'feature_code': 'STM'}}
+{'word': 'Stereomikroskop', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'verwendet', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NIU', 'country_conf': 0.24821267}
+{'word': 'gleichen', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '51.46667', 'lon': '10.03333', 'country_code3': 'DEU', 'geonameid': '3207210', 'place_name': 'Gleichen', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'zweiten', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FIN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Northern Ostrobothnia', 'lat': '65.90675', 'lon': '29.21062', 'country_code3': 'FIN', 'geonameid': '12166931', 'place_name': 'Hyrynsalmi-Kuusamo kenttrata (Jatkosota), Kuusamo II Snkikangas (tavara-asema)', 'feature_class': 'R', 'feature_code': 'RRQ'}}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'welche', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Connecticut', 'lat': '41.20204', 'lon': '-73.03788', 'country_code3': 'USA', 'geonameid': '4845313', 'place_name': 'Welches Point', 'feature_class': 'T', 'feature_code': 'CAPE'}}
+{'word': 'werden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'werden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'substanz', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'wurde', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saxony-Anhalt', 'lat': '51.49666', 'lon': '11.81251', 'country_code3': 'DEU', 'geonameid': '2805726', 'place_name': 'Wrde-Bach', 'feature_class': 'H', 'feature_code': 'STM'}}
+{'word': 'ihre', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUT', 'country_conf': 0.28868946}
+{'word': 'Teile', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'LIE', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Zustand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NOR', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '60.1862', 'lon': '9.01709', 'country_code3': 'NOR', 'geonameid': '9497869', 'place_name': 'Raustand', 'feature_class': 'S', 'feature_code': 'FRM'}}
+{'word': 'gebracht', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'South Dakota', 'lat': '45.21165', 'lon': '-102.74711', 'country_code3': 'USA', 'geonameid': '5764914', 'place_name': 'Frank Gebracht Dam', 'feature_class': 'S', 'feature_code': 'DAM'}}
+{'word': 'Geraden', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.92213035, 'geo': {'admin1': 'Lower Saxony', 'lat': '52.92343', 'lon': '9.23491', 'country_code3': 'DEU', 'geonameid': '2817599', 'place_name': 'Verden', 'feature_class': 'P', 'feature_code': 'PPLA3'}}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Ziihlung', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'werden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'erhalten', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'NOR', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '70.50351', 'lon': '24.3783', 'country_code3': 'NOR', 'geonameid': '9753582', 'place_name': 'rnjoasvaggi', 'feature_class': 'T', 'feature_code': 'VAL'}}
+{'word': 'Ausbildung', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'KIR', 'country_conf': 0.24821267}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'fand', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IRN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Semnn', 'lat': '35.1857', 'lon': '52.45746', 'country_code3': 'IRN', 'geonameid': '33071', 'place_name': 'Shahrak-e Fand', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Mitte', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Berlin', 'lat': '52.51667', 'lon': '13.36667', 'country_code3': 'DEU', 'geonameid': '2870912', 'place_name': 'Bezirk Mitte', 'feature_class': 'A', 'feature_code': 'ADM5'}}
+{'word': 'erhalten', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'NOR', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '70.50351', 'lon': '24.3783', 'country_code3': 'NOR', 'geonameid': '9753582', 'place_name': 'rnjoasvaggi', 'feature_class': 'T', 'feature_code': 'VAL'}}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'ihre', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUT', 'country_conf': 0.28868946}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Kontron', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Aquitaine-Limousin-Poitou-Charentes', 'lat': '45.46202', 'lon': '0.82222', 'country_code3': 'FRA', 'geonameid': '2990139', 'place_name': 'Arrondissement de Nontron', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Stereomikroskop', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'wurde', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saxony-Anhalt', 'lat': '51.49666', 'lon': '11.81251', 'country_code3': 'DEU', 'geonameid': '2805726', 'place_name': 'Wrde-Bach', 'feature_class': 'H', 'feature_code': 'STM'}}
+{'word': 'Anschlifffl', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'gleichen', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '51.46667', 'lon': '10.03333', 'country_code3': 'DEU', 'geonameid': '3207210', 'place_name': 'Gleichen', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'Zentrum', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'tiberhaupt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Anschlifffl', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'siehe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Substanz', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'siehe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'werden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'werden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Umgebung', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CHE', 'country_conf': 0.5339668}
+{'word': 'gutes', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ESP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Galicia', 'lat': '42.86189', 'lon': '-8.90181', 'country_code3': 'ESP', 'geonameid': '3114726', 'place_name': 'Outes', 'feature_class': 'P', 'feature_code': 'PPLA3'}}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'wurde', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saxony-Anhalt', 'lat': '51.49666', 'lon': '11.81251', 'country_code3': 'DEU', 'geonameid': '2805726', 'place_name': 'Wrde-Bach', 'feature_class': 'H', 'feature_code': 'STM'}}
+{'word': 'eventuelle', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'erhalten', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'NOR', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '70.50351', 'lon': '24.3783', 'country_code3': 'NOR', 'geonameid': '9753582', 'place_name': 'rnjoasvaggi', 'feature_class': 'T', 'feature_code': 'VAL'}}
+{'word': 'Bezug', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
+{'word': 'Anschlifffl', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'verschiedene', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'TKL', 'country_conf': 0.24821267}
+{'word': 'Anschlifffl', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Blattschichten', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Steine', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'la', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.92805', 'lon': '2.39627', 'country_code3': 'FRA', 'geonameid': '3009824', 'place_name': 'La Courneuve', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'wurden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.87992215, 'geo': {'admin1': 'Saxony', 'lat': '51.34138', 'lon': '12.79851', 'country_code3': 'DEU', 'geonameid': '6550870', 'place_name': 'Wurzen', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'verlaufen', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'siehe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Probenvolum', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'siehe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'siehe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Fl', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'verwendet', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NIU', 'country_conf': 0.24821267}
+{'word': 'wurde', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saxony-Anhalt', 'lat': '51.49666', 'lon': '11.81251', 'country_code3': 'DEU', 'geonameid': '2805726', 'place_name': 'Wrde-Bach', 'feature_class': 'H', 'feature_code': 'STM'}}
+{'word': 'liegt', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BEL', 'country_conf': 0.87992215, 'geo': {'admin1': 'Wallonia', 'lat': '50.62564', 'lon': '5.59837', 'country_code3': 'BEL', 'geonameid': '2792414', 'place_name': 'Lige', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'Substanz', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'erfasst', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'gleichen', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '51.46667', 'lon': '10.03333', 'country_code3': 'DEU', 'geonameid': '3207210', 'place_name': 'Gleichen', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'boden', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.87992215, 'geo': {'admin1': 'Rheinland-Pfalz', 'lat': '50.47392', 'lon': '7.85695', 'country_code3': 'DEU', 'geonameid': '2947161', 'place_name': 'Boden', 'feature_class': 'P', 'feature_code': 'PPLA4'}}
+{'word': 'einem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '53.16592', 'lon': '9.90213', 'country_code3': 'DEU', 'geonameid': '2931790', 'place_name': 'Einem', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'differenzierung', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Blatteinwehung', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'differenzierung', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Mit', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
+{'word': 'welche', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Connecticut', 'lat': '41.20204', 'lon': '-73.03788', 'country_code3': 'USA', 'geonameid': '4845313', 'place_name': 'Welches Point', 'feature_class': 'T', 'feature_code': 'CAPE'}}
+{'word': 'quantitativen', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Virginia', 'lat': '36.88611', 'lon': '-76.29528', 'country_code3': 'USA', 'geonameid': '6345256', 'place_name': 'Center for Quantitative Fisheries Ecology', 'feature_class': 'S', 'feature_code': 'BLDG'}}
+{'word': 'wurden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.87992215, 'geo': {'admin1': 'Saxony', 'lat': '51.34138', 'lon': '12.79851', 'country_code3': 'DEU', 'geonameid': '6550870', 'place_name': 'Wurzen', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'v.a.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GRC', 'country_conf': 0.9048774, 'geo': {'admin1': 'Ionian Islands', 'lat': '39.79349', 'lon': '19.80853', 'country_code3': 'GRC', 'geonameid': '9407332', 'place_name': 'V.A. Apartments', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'gleichen', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Lower Saxony', 'lat': '51.46667', 'lon': '10.03333', 'country_code3': 'DEU', 'geonameid': '3207210', 'place_name': 'Gleichen', 'feature_class': 'A', 'feature_code': 'ADM4'}}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Obergang', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUT', 'country_conf': 0.5339668}
+{'word': 'ausgebildet', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Unterboden', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'AUT', 'country_conf': 0.9528109, 'geo': {'admin1': 'Vorarlberg', 'lat': '47.26111', 'lon': '10.08111', 'country_code3': 'AUT', 'geonameid': '2763093', 'place_name': 'Unterboden', 'feature_class': 'P', 'feature_code': 'PPLX'}}
+{'word': 'bringen', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'SWE', 'country_conf': 0.28868946}
+{'word': 'werden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'ihrem', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MAR', 'country_conf': 0.28365934}
+{'word': 'Ausmass', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'LVA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Ventspils Rajons', 'lat': '57.21771', 'lon': '22.1554', 'country_code3': 'LVA', 'geonameid': '454656', 'place_name': 'Usma', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'werden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'gehen', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Hauts-de-France', 'lat': '50.35', 'lon': '3.15', 'country_code3': 'FRA', 'geonameid': '3014346', 'place_name': 'Guesnain', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'werden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.28868946}
+{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
+{'word': 'Stuttgart', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'DEU', 'country_conf': 0.96374094, 'geo': {'admin1': 'Baden-Wrttemberg', 'lat': '49.08333', 'lon': '9.66667', 'country_code3': 'DEU', 'geonameid': '3214105', 'place_name': 'Regierungsbezirk Stuttgart', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Untersuchung', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Rutherford', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'New Jersey', 'lat': '40.82649', 'lon': '-74.10681', 'country_code3': 'USA', 'geonameid': '5103580', 'place_name': 'Rutherford', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Bodenkundl', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'France', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '2', 'country_code3': 'FRA', 'geonameid': '3017382', 'place_name': 'Republic of France', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Banfield', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ARG', 'country_conf': 0.9048774, 'geo': {'admin1': 'Buenos Aires', 'lat': '-34.74572', 'lon': '-58.39192', 'country_code3': 'ARG', 'geonameid': '3436152', 'place_name': 'Banfield', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'London', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.957188, 'geo': {'admin1': 'England', 'lat': '51.49227', 'lon': '-0.30864', 'country_code3': 'GBR', 'geonameid': '11591955', 'place_name': 'London', 'feature_class': 'L', 'feature_code': 'RGN'}}
+{'word': 'Boden', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'DEU', 'country_conf': 0.87992215, 'geo': {'admin1': 'Rheinland-Pfalz', 'lat': '50.47392', 'lon': '7.85695', 'country_code3': 'DEU', 'geonameid': '2947161', 'place_name': 'Boden', 'feature_class': 'P', 'feature_code': 'PPLA4'}}

@@ -1,0 +1,32 @@
+{'word': 'Adriatic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HRV', 'country_conf': 0.957188, 'geo': {'admin1': 'Dubrovako-Neretvanska', 'lat': '42.64125', 'lon': '18.10909', 'country_code3': 'HRV', 'geonameid': '3201047', 'place_name': 'Dubrovnik', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'NY', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'SWE', 'country_conf': 0.28365934}
+{'word': 'Massachusetts', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Massachusetts', 'lat': '42.36565', 'lon': '-71.10832', 'country_code3': 'USA', 'geonameid': '6254926', 'place_name': 'Massachusetts', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Massachusetts', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Massachusetts', 'lat': '42.36565', 'lon': '-71.10832', 'country_code3': 'USA', 'geonameid': '6254926', 'place_name': 'Massachusetts', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Massachusetts', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Massachusetts', 'lat': '42.36565', 'lon': '-71.10832', 'country_code3': 'USA', 'geonameid': '6254926', 'place_name': 'Massachusetts', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'ROC', 'spans': [{'start': 1, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'ROC', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'Massachusetts', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Massachusetts', 'lat': '42.36565', 'lon': '-71.10832', 'country_code3': 'USA', 'geonameid': '6254926', 'place_name': 'Massachusetts', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Standora', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUT', 'country_conf': 0.5339668}
+{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Henderson', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Nevada', 'lat': '36.0397', 'lon': '-114.98194', 'country_code3': 'USA', 'geonameid': '5505411', 'place_name': 'Henderson', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'ROC', 'spans': [{'start': 1, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'ROC', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'ROC', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'ROC', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'ROC', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'Belgium', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BEL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '50.75', 'lon': '4.5', 'country_code3': 'BEL', 'geonameid': '2802361', 'place_name': 'Kingdom of Belgium', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'ROC', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': '&gt;0.80', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CHN', 'country_conf': 0.24821267}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'ROC', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'ROC', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}
+{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'Massachusetts', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Massachusetts', 'lat': '42.36565', 'lon': '-71.10832', 'country_code3': 'USA', 'geonameid': '6254926', 'place_name': 'Massachusetts', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}

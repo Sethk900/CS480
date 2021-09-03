@@ -1,0 +1,86 @@
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Seychelles', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'SYC', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-4.58333', 'lon': '55.66667', 'country_code3': 'SYC', 'geonameid': '241170', 'place_name': 'Republic of Seychelles', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Seychelles', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'SYC', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-4.58333', 'lon': '55.66667', 'country_code3': 'SYC', 'geonameid': '241170', 'place_name': 'Republic of Seychelles', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'desde', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AZE', 'country_conf': 0.28365934}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'baja', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'HUN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Bcs-Kiskun', 'lat': '46.18299', 'lon': '18.95307', 'country_code3': 'HUN', 'geonameid': '3055685', 'place_name': 'Baja', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'baja', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'HUN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Bcs-Kiskun', 'lat': '46.18299', 'lon': '18.95307', 'country_code3': 'HUN', 'geonameid': '3055685', 'place_name': 'Baja', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'plata', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Highlands', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'California', 'lat': '38.68574', 'lon': '-121.37217', 'country_code3': 'USA', 'geonameid': '5377640', 'place_name': 'North Highlands', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Redlands', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '34.05557', 'lon': '-117.18254', 'country_code3': 'USA', 'geonameid': '5386754', 'place_name': 'Redlands', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'territories', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'PSE', 'country_conf': 0.7178229, 'geo': {'admin1': 'NA', 'lat': '31.92157', 'lon': '35.20329', 'country_code3': 'PSE', 'geonameid': '6254930', 'place_name': 'Palestine', 'feature_class': 'A', 'feature_code': 'PCLS'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'territories', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'PSE', 'country_conf': 0.7178229, 'geo': {'admin1': 'NA', 'lat': '31.92157', 'lon': '35.20329', 'country_code3': 'PSE', 'geonameid': '6254930', 'place_name': 'Palestine', 'feature_class': 'A', 'feature_code': 'PCLS'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
