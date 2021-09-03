@@ -1,0 +1,52 @@
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Iran', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IRN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '32', 'lon': '53', 'country_code3': 'IRN', 'geonameid': '130758', 'place_name': 'Islamic Republic of Iran', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Holstein', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Schleswig-Holstein', 'lat': '54.2', 'lon': '9.75', 'country_code3': 'DEU', 'geonameid': '2838632', 'place_name': 'Schleswig-Holstein', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'NC', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IND', 'country_conf': 0.9048774, 'geo': {'admin1': 'Assam', 'lat': '27.29429', 'lon': '94.20387', 'country_code3': 'IND', 'geonameid': '9035240', 'place_name': 'Salikipara NC', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Oslo', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'NOR', 'country_conf': 0.957188, 'geo': {'admin1': 'Oslo', 'lat': '59.9119', 'lon': '10.7336', 'country_code3': 'NOR', 'geonameid': '3143242', 'place_name': 'Oslo County', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': '1725', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.92213035, 'geo': {'admin1': 'le-de-France', 'lat': '48.8412', 'lon': '2.3003', 'country_code3': 'FRA', 'geonameid': '6618621', 'place_name': 'Paris 15', 'feature_class': 'A', 'feature_code': 'ADM5'}}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'comm.', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Lombardy', 'lat': '45.80998', 'lon': '9.08744', 'country_code3': 'ITA', 'geonameid': '6542055', 'place_name': 'Como', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Rosa', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}

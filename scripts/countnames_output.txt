@@ -1,0 +1,224 @@
+FILE: AOUxmlcondor-15-87.1_output.txt TOP NAME: Tasmania (appears 28 times) SECOND NAME: pardalotes
+{'word': 'Tasmania', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.957188, 'geo': {'admin1': 'Tasmania', 'lat': '-42', 'lon': '147', 'country_code3': 'AUS', 'geonameid': '2147291', 'place_name': 'State of Tasmania', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'pardalotes', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+
+FILE: AOUxmlauk-13-242.1_output.txt TOP NAME: Mexico (appears 12 times) SECOND NAME: Dioon
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Dioon', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Bourgogne-Franche-Comt', 'lat': '47.425', 'lon': '5.08429', 'country_code3': 'FRA', 'geonameid': '3021371', 'place_name': 'Arrondissement de Dijon', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+
+FILE: AOUxmlauk-14-203.1_output.txt TOP NAME: China (appears 26 times) SECOND NAME: 
+{'word': 'China', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.68758196, 'geo': {'admin1': 'Hubei', 'lat': '30.52047', 'lon': '114.39637', 'country_code3': 'CHN', 'geonameid': '6620465', 'place_name': 'China University of Geosciences', 'feature_class': 'S', 'feature_code': 'SCHC'}}
+
+
+FILE: AOUxmlcondor-13-114.1_output.txt TOP NAME: dominica (appears 12 times) SECOND NAME: 
+{'word': 'dominica', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'DOM', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '19', 'lon': '-70.66667', 'country_code3': 'DOM', 'geonameid': '3508796', 'place_name': 'Dominican Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+
+
+FILE: AOUxmlcondor-13-160.1_output.txt TOP NAME: Brazil (appears 30 times) SECOND NAME: Brasil
+{'word': 'Brazil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-55', 'country_code3': 'BRA', 'geonameid': '3469034', 'place_name': 'Federative Republic of Brazil', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Brasil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+
+FILE: AOUxmlcondor-15-18.1_output.txt TOP NAME: Humboldt (appears 15 times) SECOND NAME: Oregon
+{'word': 'Humboldt', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Nevada', 'lat': '41.40684', 'lon': '-118.11197', 'country_code3': 'USA', 'geonameid': '5704974', 'place_name': 'Humboldt County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Oregon', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Oregon', 'lat': '44.00013', 'lon': '-120.50139', 'country_code3': 'USA', 'geonameid': '5744337', 'place_name': 'Oregon', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+FILE: AOUxmlcondor-15-99.1_output.txt TOP NAME: Platte (appears 6 times) SECOND NAME: Scotland
+{'word': 'Platte', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.7178229, 'geo': {'admin1': 'Missouri', 'lat': '39.3805', 'lon': '-94.77359', 'country_code3': 'USA', 'geonameid': '4403600', 'place_name': 'Platte County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Scotland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+
+FILE: AOUxmlauk-13-233.1_output.txt TOP NAME: Greenland (appears 7 times) SECOND NAME: Newfoundland
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Newfoundland', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'CAN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Newfoundland and Labrador', 'lat': '52', 'lon': '-56', 'country_code3': 'CAN', 'geonameid': '6354959', 'place_name': 'Newfoundland and Labrador', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+FILE: AOUxmlauk-13-214.1_output.txt TOP NAME: Nunavut (appears 12 times) SECOND NAME: 
+{'word': 'Nunavut', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Nunavut', 'lat': '66.03478', 'lon': '-100.07813', 'country_code3': 'CAN', 'geonameid': '6091732', 'place_name': 'Nunavut', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+
+FILE: AOUxmlcondor-14-214.1_output.txt TOP NAME: Tucuman (appears 69 times) SECOND NAME: 
+{'word': 'Tucuman', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ARG', 'country_conf': 0.87992215, 'geo': {'admin1': 'Tucumn Province', 'lat': '-27', 'lon': '-65.5', 'country_code3': 'ARG', 'geonameid': '3833578', 'place_name': 'Tucumn Province', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+
+FILE: AOUxmlauk-13-246.1_output.txt TOP NAME: TX (appears 12 times) SECOND NAME: Parrish
+{'word': 'TX', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Texas', 'lat': '32.7585', 'lon': '-97.8085', 'country_code3': 'USA', 'geonameid': '6480279', 'place_name': 'Ramada Limited Weatherford Tx', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Parrish', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Alabama', 'lat': '33.73066', 'lon': '-87.28445', 'country_code3': 'USA', 'geonameid': '4082250', 'place_name': 'Parrish', 'feature_class': 'P', 'feature_code': 'PPL'}}
+
+FILE: AOUxmlauk-13-071.1_output.txt TOP NAME: Alberta (appears 7 times) SECOND NAME: Cariboo
+{'word': 'Alberta', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CAN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Alberta', 'lat': '52.28333', 'lon': '-117.469', 'country_code3': 'CAN', 'geonameid': '5883102', 'place_name': 'Alberta', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Cariboo', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'British Columbia', 'lat': '52.33313', 'lon': '-123.16961', 'country_code3': 'CAN', 'geonameid': '5916918', 'place_name': 'Cariboo Regional District', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+
+FILE: AOUxmlauk-14-108.1_output.txt TOP NAME: Inagua (appears 30 times) SECOND NAME: Bahamas
+{'word': 'Inagua', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BHS', 'country_conf': 0.92213035, 'geo': {'admin1': 'Inagua', 'lat': '21.05741', 'lon': '-73.32545', 'country_code3': 'BHS', 'geonameid': '3572289', 'place_name': 'Great Inagua', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Bahamas', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BHS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '25.04082', 'lon': '-77.37122', 'country_code3': 'BHS', 'geonameid': '3572887', 'place_name': 'Commonwealth of The Bahamas', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+
+FILE: AOUxmlcondor-15-74.1_output.txt TOP NAME: Camden (appears 6 times) SECOND NAME: Playa
+{'word': 'Camden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'New Jersey', 'lat': '39.92595', 'lon': '-75.11962', 'country_code3': 'USA', 'geonameid': '4501018', 'place_name': 'Camden', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'Playa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+
+FILE: AOUxmlcondor-13-024.1_output.txt TOP NAME: Sonora (appears 6 times) SECOND NAME: Montana
+{'word': 'Sonora', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
+{'word': 'Montana', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Montana', 'lat': '47.00025', 'lon': '-109.75102', 'country_code3': 'USA', 'geonameid': '5667009', 'place_name': 'Montana', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+FILE: AOUxmlcondor-15-82.1_output.txt TOP NAME: Vancouver (appears 11 times) SECOND NAME: Eleuthera
+{'word': 'Vancouver', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'British Columbia', 'lat': '49.65064', 'lon': '-125.44939', 'country_code3': 'CAN', 'geonameid': '6173336', 'place_name': 'Vancouver Island', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Eleuthera', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'BHS', 'country_conf': 0.28868946}
+
+FILE: AOUxmlcondor-15-80.1_output.txt TOP NAME: Kauai (appears 24 times) SECOND NAME: 
+{'word': 'Kauai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Hawaii', 'lat': '22.01108', 'lon': '-159.70544', 'country_code3': 'USA', 'geonameid': '5848514', 'place_name': 'Kauai County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+
+
+FILE: AOUxmlauk-14-103.1_output.txt TOP NAME: nm (appears 6 times) SECOND NAME: Grenada
+{'word': 'nm', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'ESP', 'country_conf': 0.9048774, 'geo': {'admin1': 'Catalonia', 'lat': '41.80772', 'lon': '3.06392', 'country_code3': 'ESP', 'geonameid': '7147462', 'place_name': 'NM SUITES Hotel', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Grenada', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GRD', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '12.11667', 'lon': '-61.66667', 'country_code3': 'GRD', 'geonameid': '3580239', 'place_name': 'Grenada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+
+FILE: AOUxmlauk-15-175.1_output.txt TOP NAME: Serbia (appears 10 times) SECOND NAME: carrizo
+{'word': 'Serbia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'SRB', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '44.81892', 'lon': '20.45998', 'country_code3': 'SRB', 'geonameid': '6290252', 'place_name': 'Serbia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'carrizo', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ESP', 'country_conf': 0.28868946}
+
+FILE: AOUxmlauk-14-178.1_output.txt TOP NAME: Kenya (appears 9 times) SECOND NAME: Uganda
+{'word': 'Kenya', 'spans': [{'start': 1, 'end': 6}], 'country_predicted': 'KEN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '1', 'lon': '38', 'country_code3': 'KEN', 'geonameid': '192950', 'place_name': 'Republic of Kenya', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Uganda', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'UGA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '1.25', 'lon': '32.5', 'country_code3': 'UGA', 'geonameid': '226074', 'place_name': 'Republic of Uganda', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+
+FILE: AOUxmlauk-14-244.1_output.txt TOP NAME: Mauritius (appears 6 times) SECOND NAME: hypothesis.&rdquo
+{'word': 'Mauritius', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MUS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-20.3', 'lon': '57.58333', 'country_code3': 'MUS', 'geonameid': '934292', 'place_name': 'Republic of Mauritius', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'hypothesis.&rdquo', 'spans': [{'start': 0, 'end': 17}], 'country_predicted': '', 'country_conf': 0}
+
+FILE: AOUxmlcondor-15-56.1_output.txt TOP NAME: Amazonas (appears 7 times) SECOND NAME: 
+{'word': 'Amazonas', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Amazonas', 'lat': '-3.75', 'lon': '-64.5', 'country_code3': 'BRA', 'geonameid': '3665361', 'place_name': 'Amazonas', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+
+FILE: AOUxmlauk-14-16.1_output.txt TOP NAME: Morro (appears 8 times) SECOND NAME: Paulo
+{'word': 'Morro', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Abruzzo', 'lat': '42.66305', 'lon': '13.9205', 'country_code3': 'ITA', 'geonameid': '6541700', 'place_name': "Morro d'Oro", 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Paulo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.7178229, 'geo': {'admin1': 'So Paulo', 'lat': '-22', 'lon': '-49', 'country_code3': 'BRA', 'geonameid': '3448433', 'place_name': 'So Paulo', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+FILE: AOUxmlcondor-14-121.1_output.txt TOP NAME: Lesotho (appears 24 times) SECOND NAME: Pyrenees
+{'word': 'Lesotho', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'LSO', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-29.5', 'lon': '28.25', 'country_code3': 'LSO', 'geonameid': '932692', 'place_name': 'Kingdom of Lesotho', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Pyrenees', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'FRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Languedoc-Roussillon-Midi-Pyrnes', 'lat': '44.02722', 'lon': '1.63559', 'country_code3': 'FRA', 'geonameid': '11071623', 'place_name': 'Occitanie', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+FILE: AOUxmlcondor-14-174.1_output.txt TOP NAME: Bi- (appears 46 times) SECOND NAME: 
+{'word': 'Bi-', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'California', 'lat': '35.38742', 'lon': '-120.4522', 'country_code3': 'USA', 'geonameid': '5392329', 'place_name': 'San Luis Obispo County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+
+
+FILE: AOUxmlauk-14-64.1_output.txt TOP NAME: philadelphia (appears 13 times) SECOND NAME: 
+{'word': 'philadelphia', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '39.95233', 'lon': '-75.16379', 'country_code3': 'USA', 'geonameid': '4560349', 'place_name': 'Philadelphia', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+
+
+FILE: AOUxmlcondor-14-124.1_output.txt TOP NAME: Tamarac (appears 7 times) SECOND NAME: 
+{'word': 'Tamarac', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Florida', 'lat': '26.21286', 'lon': '-80.24977', 'country_code3': 'USA', 'geonameid': '4174738', 'place_name': 'Tamarac', 'feature_class': 'P', 'feature_code': 'PPL'}}
+
+
+FILE: AOUxmlauk-14-124.1_output.txt TOP NAME: Lonchura (appears 33 times) SECOND NAME: tenuirostris
+{'word': 'Lonchura', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CHL', 'country_conf': 0.5714737}
+{'word': 'tenuirostris', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+
+FILE: AOUxmlauk-13-245.1_output.txt TOP NAME: Gansu (appears 8 times) SECOND NAME: Tibet
+{'word': 'Gansu', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Gansu', 'lat': '37.75', 'lon': '102.75', 'country_code3': 'CHN', 'geonameid': '1810676', 'place_name': 'Gansu Sheng', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Tibet', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Tibet Autonomous Region', 'lat': '31.66667', 'lon': '88', 'country_code3': 'CHN', 'geonameid': '1279685', 'place_name': 'Tibet Autonomous Region', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+FILE: AOUxmlauk-14-150.1_output.txt TOP NAME: Guinea (appears 12 times) SECOND NAME: Sabah
+{'word': 'Guinea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GIN', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '10.83333', 'lon': '-10.66667', 'country_code3': 'GIN', 'geonameid': '2420477', 'place_name': 'Republic of Guinea', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Sabah', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MYS', 'country_conf': 0.28365934}
+
+FILE: AOUxmlcondor-15-145.1_output.txt TOP NAME: Adirondack (appears 15 times) SECOND NAME: 
+{'word': 'Adirondack', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'New York', 'lat': '43.19282', 'lon': '-74.52058', 'country_code3': 'USA', 'geonameid': '8082419', 'place_name': 'Southern Adirondack Pines Campground and Cabins', 'feature_class': 'S', 'feature_code': 'CMP'}}
+
+
+FILE: AOUxmlauk-15-128.1_output.txt TOP NAME: Puente (appears 6 times) SECOND NAME: publicita
+{'word': 'Puente', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'publicita', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'New York', 'lat': '40.75333', 'lon': '-73.98278', 'country_code3': 'USA', 'geonameid': '8478980', 'place_name': 'New York Public Library', 'feature_class': 'S', 'feature_code': 'LIBR'}}
+
+FILE: AOUxmlauk-15-11.1_output.txt TOP NAME: Newark (appears 11 times) SECOND NAME: Boonekamp
+{'word': 'Newark', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'New Jersey', 'lat': '40.73566', 'lon': '-74.17237', 'country_code3': 'USA', 'geonameid': '5101798', 'place_name': 'Newark', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'Boonekamp', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'DEU', 'country_conf': 0.9528109, 'geo': {'admin1': 'Brandenburg', 'lat': '53.15', 'lon': '12.48333', 'country_code3': 'DEU', 'geonameid': '2954507', 'place_name': 'Auf dem Bohnenkamp', 'feature_class': 'T', 'feature_code': 'HLL'}}
+
+FILE: AOUxmlauk-13-190.1_output.txt TOP NAME: Sarawak (appears 49 times) SECOND NAME: Chlorocharis
+{'word': 'Sarawak', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MYS', 'country_conf': 0.87992215, 'geo': {'admin1': 'Sarawak', 'lat': '2.5', 'lon': '113.5', 'country_code3': 'MYS', 'geonameid': '1733038', 'place_name': 'Sarawak', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Chlorocharis', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+
+FILE: AOUxmlcondor-15-125.1_output.txt TOP NAME: nutcracker (appears 8 times) SECOND NAME: Stockholm
+{'word': 'nutcracker', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'California', 'lat': '37.57639', 'lon': '-119.37178', 'country_code3': 'USA', 'geonameid': '5389407', 'place_name': 'Ruth Lake', 'feature_class': 'H', 'feature_code': 'LK'}}
+{'word': 'Stockholm', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'SWE', 'country_conf': 0.957188, 'geo': {'admin1': 'Stockholm', 'lat': '59.5', 'lon': '18', 'country_code3': 'SWE', 'geonameid': '2673722', 'place_name': 'Stockholm County', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+FILE: AOUxmlcondor-13-016-r1.1_output.txt TOP NAME: Polis (appears 7 times) SECOND NAME: Laramie
+{'word': 'Polis', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CYP', 'country_conf': 0.28365934}
+{'word': 'Laramie', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Wyoming', 'lat': '41.30707', 'lon': '-104.68962', 'country_code3': 'USA', 'geonameid': '5830051', 'place_name': 'Laramie County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+
+FILE: AOUxmlcondor-13-003-r1.1_output.txt TOP NAME: Bandon (appears 12 times) SECOND NAME: 
+{'word': 'Bandon', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IDN', 'country_conf': 0.87992215, 'geo': {'admin1': 'West Java', 'lat': '-6.92222', 'lon': '107.60694', 'country_code3': 'IDN', 'geonameid': '1650357', 'place_name': 'Bandung', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+
+
+FILE: AOUxmlcondor-15-42.1_output.txt TOP NAME: Guam (appears 62 times) SECOND NAME: 
+{'word': 'Guam', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GUM', 'country_conf': 0.3105929}
+
+
+FILE: AOUxmlauk-13-154.1_output.txt TOP NAME: TN (appears 13 times) SECOND NAME: supportant
+{'word': 'TN', 'spans': [{'start': 1, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Tennessee', 'lat': '35.716', 'lon': '-83.5094', 'country_code3': 'USA', 'geonameid': '6512358', 'place_name': 'Howard Johnson Gatlinburg Tn', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'supportant', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+
+FILE: AOUxmlcondor-15-24.1_output.txt TOP NAME: GDR (appears 100 times) SECOND NAME: Butte
+{'word': 'GDR', 'spans': [{'start': 1, 'end': 4}], 'country_predicted': 'JOR', 'country_conf': 0.28868946}
+{'word': 'Butte', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Montana', 'lat': '46.00382', 'lon': '-112.53474', 'country_code3': 'USA', 'geonameid': '5642934', 'place_name': 'Butte', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+
+FILE: AOUxmlcondor-14-142.1_output.txt TOP NAME: Monongahela (appears 8 times) SECOND NAME: 
+{'word': 'Monongahela', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'West Virginia', 'lat': '39.62953', 'lon': '-79.9559', 'country_code3': 'USA', 'geonameid': '4815352', 'place_name': 'Morgantown', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+
+
+FILE: AOUxmlcondor-13-078.1_output.txt TOP NAME: Bielefeld (appears 19 times) SECOND NAME: 
+{'word': 'Bielefeld', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'North Rhine-Westphalia', 'lat': '52.02152', 'lon': '8.53529', 'country_code3': 'DEU', 'geonameid': '3221125', 'place_name': 'Kreisfreie Stadt Bielefeld', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+
+
+FILE: AOUxmlauk-14-218.1_output.txt TOP NAME: Bronze (appears 15 times) SECOND NAME: 
+{'word': 'Bronze', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BEL', 'country_conf': 0.28868946}
+
+
+FILE: AOUxmlauk-14-80.1_output.txt TOP NAME: Palawan (appears 100 times) SECOND NAME: 
+{'word': 'Palawan', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'PHL', 'country_conf': 0.957188, 'geo': {'admin1': 'Mimaropa', 'lat': '9.5', 'lon': '118.5', 'country_code3': 'PHL', 'geonameid': '1696180', 'place_name': 'Palawan Island', 'feature_class': 'T', 'feature_code': 'ISL'}}
+
+
+FILE: AOUxmlauk-13-134.1_output.txt TOP NAME: sternalis (appears 6 times) SECOND NAME: 
+{'word': 'sternalis', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+
+
+FILE: AOUxmlcondor-15-163.1_output.txt TOP NAME: Mizoram (appears 25 times) SECOND NAME: 
+{'word': 'Mizoram', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IND', 'country_conf': 0.9048774, 'geo': {'admin1': 'Mizoram', 'lat': '23', 'lon': '93', 'country_code3': 'IND', 'geonameid': '1262963', 'place_name': 'Mizoram', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+
+
+FILE: AOUxmlauk-13-201.1_output.txt TOP NAME: Lappet (appears 38 times) SECOND NAME: 
+{'word': 'Lappet', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.5339668}
+
+
+FILE: AOUxmlauk-15-162.1_output.txt TOP NAME: Brisbane (appears 34 times) SECOND NAME: variaba
+{'word': 'Brisbane', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.96374094, 'geo': {'admin1': 'Queensland', 'lat': '-27.46794', 'lon': '153.02809', 'country_code3': 'AUS', 'geonameid': '2174003', 'place_name': 'Brisbane', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'variaba', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ITA', 'country_conf': 0.5714737}
+
+FILE: AOUxmlauk-15-111.1_output.txt TOP NAME: J.H.P (appears 6 times) SECOND NAME: Morbey
+{'word': 'J.H.P', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MOZ', 'country_conf': 0.9528109, 'geo': {'admin1': 'Gaza', 'lat': '-24.55611', 'lon': '33.95056', 'country_code3': 'MOZ', 'geonameid': '1097815', 'place_name': 'Acampamento J.P.P.', 'feature_class': 'S', 'feature_code': 'CMP'}}
+{'word': 'Morbey', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.92213035, 'geo': {'admin1': 'England', 'lat': '53.74013', 'lon': '-1.59877', 'country_code3': 'GBR', 'geonameid': '2642189', 'place_name': 'Morley', 'feature_class': 'P', 'feature_code': 'PPLA3'}}
+
+FILE: AOUxmlauk-14-166.1_output.txt TOP NAME: meridanus (appears 30 times) SECOND NAME: Merida
+{'word': 'meridanus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRC', 'country_conf': 0.9528109, 'geo': {'admin1': 'Attica', 'lat': '37.97991', 'lon': '23.7186', 'country_code3': 'GRC', 'geonameid': '10295794', 'place_name': 'Eridanus Luxury Art Hotel', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Merida', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'VEN', 'country_conf': 0.28365934}
+
+FILE: AOUxmlcondor-15-6.1_output.txt TOP NAME: Chincoteague (appears 6 times) SECOND NAME: secuelas
+{'word': 'Chincoteague', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Virginia', 'lat': '38.80484', 'lon': '-77.04692', 'country_code3': 'USA', 'geonameid': '4744091', 'place_name': 'Alexandria', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'secuelas', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'SYC', 'country_conf': 0.92213035, 'geo': {'admin1': 'NA', 'lat': '-4.58333', 'lon': '55.66667', 'country_code3': 'SYC', 'geonameid': '241170', 'place_name': 'Republic of Seychelles', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+
+FILE: AOUxmlauk-14-73.1_output.txt TOP NAME: carolina (appears 6 times) SECOND NAME: macroinvertebrates
+{'word': 'carolina', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maranho', 'lat': '-7.50794', 'lon': '-47.14907', 'country_code3': 'BRA', 'geonameid': '6319678', 'place_name': 'Carolina', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'macroinvertebrates', 'spans': [{'start': 0, 'end': 18}], 'country_predicted': '', 'country_conf': 0}
+
+FILE: AOUxmlcondor-14-137.1_output.txt TOP NAME: Onslow (appears 6 times) SECOND NAME: 
+{'word': 'Onslow', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'North Carolina', 'lat': '34.76305', 'lon': '-77.39319', 'country_code3': 'USA', 'geonameid': '4483494', 'place_name': 'Onslow County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+
+
+FILE: AOUxmlcondor-14-54.1_output.txt TOP NAME: Pinedale (appears 19 times) SECOND NAME: 
+{'word': 'Pinedale', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Wyoming', 'lat': '42.86661', 'lon': '-109.86099', 'country_code3': 'USA', 'geonameid': '5835178', 'place_name': 'Pinedale', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+
+
+FILE: AOUxmlcondor-15-126.1_output.txt TOP NAME: Jordaan (appears 6 times) SECOND NAME: sismiques
+{'word': 'Jordaan', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NLD', 'country_conf': 0.28868946}
+{'word': 'sismiques', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+
+FILE: AOUxmlauk-14-186.1_output.txt TOP NAME: piedras (appears 13 times) SECOND NAME: 
+{'word': 'piedras', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
+
+

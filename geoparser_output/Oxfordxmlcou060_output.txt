@@ -1,0 +1,32 @@
+{'word': 'turkey', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'turkey', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
+{'word': 'turkey', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'Lakeside', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Florida', 'lat': '30.12996', 'lon': '-81.76815', 'country_code3': 'USA', 'geonameid': '4161461', 'place_name': 'Lakeside', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'SeaWorld', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Florida', 'lat': '28.4148', 'lon': '-81.4702', 'country_code3': 'USA', 'geonameid': '6464000', 'place_name': 'Hilton Garden Inn Orlando SeaWorld International Center', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Pittsburg', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'California', 'lat': '38.02798', 'lon': '-121.88468', 'country_code3': 'USA', 'geonameid': '5383465', 'place_name': 'Pittsburg', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'PA', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'MLI', 'country_conf': 0.28868946}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Chula', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'Thornwood', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'New York', 'lat': '41.12343', 'lon': '-73.77902', 'country_code3': 'USA', 'geonameid': '5140895', 'place_name': 'Thornwood', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'NY', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'SWE', 'country_conf': 0.28365934}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': '100&percnt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Carlsbad', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '33.15809', 'lon': '-117.35059', 'country_code3': 'USA', 'geonameid': '5334223', 'place_name': 'Carlsbad', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'NY', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'SWE', 'country_conf': 0.28365934}
+{'word': 'Rochester', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'New York', 'lat': '43.15478', 'lon': '-77.61556', 'country_code3': 'USA', 'geonameid': '5134086', 'place_name': 'Rochester', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'NY', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'SWE', 'country_conf': 0.28365934}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Insets', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.5714737}
+{'word': 'turkey', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
+{'word': '100&percnt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': '100&percnt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': '100&percnt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'SeaWorld', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Florida', 'lat': '28.4148', 'lon': '-81.4702', 'country_code3': 'USA', 'geonameid': '6464000', 'place_name': 'Hilton Garden Inn Orlando SeaWorld International Center', 'feature_class': 'S', 'feature_code': 'HTL'}}

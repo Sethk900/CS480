@@ -1,0 +1,76 @@
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Oman', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'OMN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '21', 'lon': '57', 'country_code3': 'OMN', 'geonameid': '286963', 'place_name': 'Sultanate of Oman', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'habitan', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'PHL', 'country_conf': 0.5339668}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'taxones', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MEX', 'country_conf': 0.5339668}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Suisun', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'California', 'lat': '38.23825', 'lon': '-122.04024', 'country_code3': 'USA', 'geonameid': '5399629', 'place_name': 'Suisun', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Alameda', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '37.65055', 'lon': '-121.91789', 'country_code3': 'USA', 'geonameid': '5322745', 'place_name': 'Alameda County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Marin', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ESP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Galicia', 'lat': '42.39145', 'lon': '-8.70136', 'country_code3': 'ESP', 'geonameid': '3117409', 'place_name': 'Marn', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Napa', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '38.50647', 'lon': '-122.33053', 'country_code3': 'USA', 'geonameid': '5376101', 'place_name': 'Napa County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Mateo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GTM', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Sonoma', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '38.52529', 'lon': '-122.92254', 'country_code3': 'USA', 'geonameid': '5397100', 'place_name': 'Sonoma County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Sweden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'SWE', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '62', 'lon': '15', 'country_code3': 'SWE', 'geonameid': '2661886', 'place_name': 'Kingdom of Sweden', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Melville', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'NY', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'SWE', 'country_conf': 0.28365934}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': '100&percnt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': '100&percnt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': '100&percnt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': '100&percnt', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Mewaldt', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'South Dakota', 'lat': '45.45063', 'lon': '-98.48339', 'country_code3': 'USA', 'geonameid': '8500224', 'place_name': 'Mewaldt-Jensen Building', 'feature_class': 'S', 'feature_code': 'SCH'}}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Wachowiak', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Maryland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Maryland', 'lat': '39.00039', 'lon': '-76.74997', 'country_code3': 'USA', 'geonameid': '4361885', 'place_name': 'Maryland', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Baltimore', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Maryland', 'lat': '39.29038', 'lon': '-76.61219', 'country_code3': 'USA', 'geonameid': '4347778', 'place_name': 'Baltimore', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

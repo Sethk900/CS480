@@ -1,0 +1,3 @@
+{'word': 'Antonio', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.28868946}
+{'word': 'Medina', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'SAU', 'country_conf': 0.87992215, 'geo': {'admin1': 'Al Madnah al Munawwarah', 'lat': '24.9', 'lon': '39.5', 'country_code3': 'SAU', 'geonameid': '109224', 'place_name': 'Medina Region', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}

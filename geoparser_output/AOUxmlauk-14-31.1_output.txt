@@ -1,0 +1,23 @@
+{'word': 'Scotia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Nova Scotia', 'lat': '45.00015', 'lon': '-62.99865', 'country_code3': 'CAN', 'geonameid': '6091530', 'place_name': 'Nova Scotia', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Macquarie', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9048774, 'geo': {'admin1': 'New South Wales', 'lat': '-31.43084', 'lon': '152.90894', 'country_code3': 'AUS', 'geonameid': '2152659', 'place_name': 'Port Macquarie', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'ATA', 'country_conf': 0.3105929}
+{'word': 'Antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'ATA', 'country_conf': 0.3105929}
+{'word': 'territories', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'PSE', 'country_conf': 0.7178229, 'geo': {'admin1': 'NA', 'lat': '31.92157', 'lon': '35.20329', 'country_code3': 'PSE', 'geonameid': '6254930', 'place_name': 'Palestine', 'feature_class': 'A', 'feature_code': 'PCLS'}}
+{'word': 'Antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'ATA', 'country_conf': 0.3105929}
+{'word': 'tierra', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.87992215, 'geo': {'admin1': 'Veracruz', 'lat': '18.44771', 'lon': '-96.35912', 'country_code3': 'MEX', 'geonameid': '3801276', 'place_name': 'Tierra Blanca', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Islas', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ESP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Canary Islands', 'lat': '28', 'lon': '-15.5', 'country_code3': 'ESP', 'geonameid': '2520308', 'place_name': 'Canary Islands', 'feature_class': 'T', 'feature_code': 'ISLS'}}
+{'word': 'mine&rdquo', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Antarctic', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATF', 'country_conf': 0.8137965, 'geo': {'admin1': 'NA', 'lat': '-43', 'lon': '67', 'country_code3': 'ATF', 'geonameid': '1546748', 'place_name': 'Territory of the French Southern and Antarctic Lands', 'feature_class': 'A', 'feature_code': 'PCLIX'}}
+{'word': 'Penguins', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Utah', 'lat': '38.61915', 'lon': '-109.6179', 'country_code3': 'USA', 'geonameid': '5548445', 'place_name': 'Three Penguins', 'feature_class': 'T', 'feature_code': 'MT'}}
+{'word': 'Longmont', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Colorado', 'lat': '40.16721', 'lon': '-105.10193', 'country_code3': 'USA', 'geonameid': '5579276', 'place_name': 'Longmont', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': '1,&rdquo', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'change&rdquo', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Terre', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GLP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Guadeloupe', 'lat': '16.16667', 'lon': '-61.66667', 'country_code3': 'GLP', 'geonameid': '3579731', 'place_name': 'Arrondissement de la Basse-Terre', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Terre', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GLP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Guadeloupe', 'lat': '16.16667', 'lon': '-61.66667', 'country_code3': 'GLP', 'geonameid': '3579731', 'place_name': 'Arrondissement de la Basse-Terre', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'ATA', 'country_conf': 0.3105929}
+{'word': 'Beaufort', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MYS', 'country_conf': 0.28365934}
+{'word': 'antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
+{'word': '1,&rdquo', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}

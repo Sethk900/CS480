@@ -1,0 +1,43 @@
+{'word': 'Klamath', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Oregon', 'lat': '42.68634', 'lon': '-121.65013', 'country_code3': 'USA', 'geonameid': '5735237', 'place_name': 'Klamath County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Sacramento', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Minas Gerais', 'lat': '-19.88039', 'lon': '-47.226', 'country_code3': 'BRA', 'geonameid': '6321740', 'place_name': 'Sacramento', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Mekong', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'VNM', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '10.01211', 'lon': '105.83224', 'country_code3': 'VNM', 'geonameid': '11497302', 'place_name': 'Western Region', 'feature_class': 'L', 'feature_code': 'RGN'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Sacramento', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Minas Gerais', 'lat': '-19.88039', 'lon': '-47.226', 'country_code3': 'BRA', 'geonameid': '6321740', 'place_name': 'Sacramento', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Sacramento', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Minas Gerais', 'lat': '-19.88039', 'lon': '-47.226', 'country_code3': 'BRA', 'geonameid': '6321740', 'place_name': 'Sacramento', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Willamette', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'Oregon', 'lat': '44.05367', 'lon': '-123.00369', 'country_code3': 'USA', 'geonameid': '5739851', 'place_name': 'McKenzie - Willamette Hospital Heliport', 'feature_class': 'S', 'feature_code': 'BLDG'}}
+{'word': 'Klamath', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Oregon', 'lat': '42.68634', 'lon': '-121.65013', 'country_code3': 'USA', 'geonameid': '5735237', 'place_name': 'Klamath County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Sacramento', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Minas Gerais', 'lat': '-19.88039', 'lon': '-47.226', 'country_code3': 'BRA', 'geonameid': '6321740', 'place_name': 'Sacramento', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Sacramento', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Minas Gerais', 'lat': '-19.88039', 'lon': '-47.226', 'country_code3': 'BRA', 'geonameid': '6321740', 'place_name': 'Sacramento', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Israel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Klamath', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Oregon', 'lat': '42.68634', 'lon': '-121.65013', 'country_code3': 'USA', 'geonameid': '5735237', 'place_name': 'Klamath County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Oregon', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Oregon', 'lat': '44.00013', 'lon': '-120.50139', 'country_code3': 'USA', 'geonameid': '5744337', 'place_name': 'Oregon', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'ontogenetic', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Israel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Sacramento', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Minas Gerais', 'lat': '-19.88039', 'lon': '-47.226', 'country_code3': 'BRA', 'geonameid': '6321740', 'place_name': 'Sacramento', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Sacramento', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Minas Gerais', 'lat': '-19.88039', 'lon': '-47.226', 'country_code3': 'BRA', 'geonameid': '6321740', 'place_name': 'Sacramento', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'broodstock', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Rotan', 'spans': [{'start': 1, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
+{'word': 'Kruskal', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IND', 'country_conf': 0.5714737}
+{'word': 'Boxplots', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Boxplots', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Boxplots', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'broodstock', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Hatleberg', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NOR', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '61.05018', 'lon': '7.81626', 'country_code3': 'NOR', 'geonameid': '3153784', 'place_name': 'Hatleberg', 'feature_class': 'S', 'feature_code': 'FRM'}}
+{'word': 'Jauregui', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MEX', 'country_conf': 0.9528109, 'geo': {'admin1': 'Quertaro', 'lat': '20.74122', 'lon': '-100.44843', 'country_code3': 'MEX', 'geonameid': '3983820', 'place_name': 'Santa Rosa Jauregui', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Randez', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'VIR', 'country_conf': 0.9528109, 'geo': {'admin1': 'Saint John Island', 'lat': '18.31412', 'lon': '-64.77292', 'country_code3': 'VIR', 'geonameid': '4796461', 'place_name': 'Rendezvous Bay', 'feature_class': 'H', 'feature_code': 'BAY'}}
+{'word': 'Richmond', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CAN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Ontario', 'lat': '43.87111', 'lon': '-79.43725', 'country_code3': 'CAN', 'geonameid': '6122091', 'place_name': 'Richmond Hill', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Saberi', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'KEN', 'country_conf': 0.5714737}
