@@ -36,6 +36,13 @@ for inputfile in os.listdir("../processed_files"):
 				#print("Writing geoparser results for to " + outfilename + "...")
 				with open(outfilename, "a", errors='ignore') as outfile:
 					for line in output:
+
+						'''
+						IMPLEMENT FILTERS HERE
+						Filters, at least right now, are typically implemented using regular expressions. 
+						To implement one, you should build a regular expression that matches an attribute that you want to exclude from the geoparser output. 
+						Then, use the if statement below to filter out geonames that possess that attribute.
+						'''
 						if capital.match(line['word']): # Filter out place names that don't contain any capital later (Comment out to remove filter)
 							try:
 								outfile.write(str(line))
