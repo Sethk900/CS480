@@ -15,7 +15,7 @@ input_files = (
     ('jmap_locations.csv','location')
 )
 output_folder = 'processed_files'
-output_file = 'data.json'
+output_file = 'jmap_data.json'
 
 os.chdir('./'+input_folder)
 
@@ -55,11 +55,30 @@ for file in input_files:
             data[a_id][file[1]] = article
 
 #stores the data structure for later use
-json.dump(data, open(output_file,'w'))
+data2 = {}
+for i in data:
+    try:
+      data[i][input_files[0][1]]
+      data[i][input_files[1][1]]
+    except KeyError:
+        print('Incomplete data for ' + str(i))
+        continue
+    data2[i]={}
+    data2[i]['id']=data[i][input_files[0][1]]['id']
+    data2[i]['title']=data[i][input_files[0][1]]['title']
+    data2[i]['no_abstract']=data[i][input_files[0][1]]['no_abstract']
+    data2[i]['country_id']=data[i][input_files[1][1]]['country_id']
+    data2[i]['state_id']=data[i][input_files[1][1]]['state_id']
+    data2[i]['latitude']=data[i][input_files[1][1]]['latitude']
+    data2[i]['longitude']=data[i][input_files[1][1]]['longitude']
+
+os.chdir('../')
+
+json.dump(data2, open(output_file,'w'), indent='    ')
 
 """
 #this section outputs the title and abstract into individual files
-os.chdir('../')
+
 os.chdir('./' + output_folder)
 
 for i in data:
@@ -67,7 +86,7 @@ for i in data:
       data[i][input_files[0][1]]
       data[i][input_files[1][1]]
     except KeyError:
-        print('Incomplete data for ' + str(id))
+        print('Incomplete data for ' + str(i))
         continue
     out_file = open('jmap_' + str(i) + '.xml','w')
     out_file.write(data[i][input_files[0][1]]['title'])
