@@ -1,0 +1,3 @@
+{'word': 'Japan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'JPN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '35.68536', 'lon': '139.75309', 'country_code3': 'JPN', 'geonameid': '1861060', 'place_name': 'Japan', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'amplicolle', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Japan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'JPN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '35.68536', 'lon': '139.75309', 'country_code3': 'JPN', 'geonameid': '1861060', 'place_name': 'Japan', 'feature_class': 'A', 'feature_code': 'PCLI'}}

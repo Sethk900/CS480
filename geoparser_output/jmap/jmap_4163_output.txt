@@ -1,0 +1,18 @@
+{'word': 'Brachistosternus', 'spans': [{'start': 1, 'end': 17}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Brachistosternus', 'spans': [{'start': 1, 'end': 17}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Peru', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PER', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-75.25', 'country_code3': 'PER', 'geonameid': '3932488', 'place_name': 'Republic of Peru', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Chile', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-30', 'lon': '-71', 'country_code3': 'CHL', 'geonameid': '3895114', 'place_name': 'Republic of Chile', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Brachistosternus', 'spans': [{'start': 1, 'end': 17}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Per', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PER', 'country_conf': 0.28365934}
+{'word': 'norte', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ESP', 'country_conf': 0.28365934}
+{'word': 'Chile', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-30', 'lon': '-71', 'country_code3': 'CHL', 'geonameid': '3895114', 'place_name': 'Republic of Chile', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'rgano', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9048774, 'geo': {'admin1': 'Michoacn', 'lat': '19.04083', 'lon': '-102.51417', 'country_code3': 'MEX', 'geonameid': '8862989', 'place_name': 'Razo del rgano (Veintiuno de Mayo)', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Brachistosternus', 'spans': [{'start': 1, 'end': 17}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Brachistosternus', 'spans': [{'start': 1, 'end': 17}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Peru', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PER', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-75.25', 'country_code3': 'PER', 'geonameid': '3932488', 'place_name': 'Republic of Peru', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Chile', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-30', 'lon': '-71', 'country_code3': 'CHL', 'geonameid': '3895114', 'place_name': 'Republic of Chile', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Brachistosternus', 'spans': [{'start': 1, 'end': 17}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Per', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PER', 'country_conf': 0.28365934}
+{'word': 'norte', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ESP', 'country_conf': 0.28365934}
+{'word': 'Chile', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-30', 'lon': '-71', 'country_code3': 'CHL', 'geonameid': '3895114', 'place_name': 'Republic of Chile', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'rgano', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9048774, 'geo': {'admin1': 'Michoacn', 'lat': '19.04083', 'lon': '-102.51417', 'country_code3': 'MEX', 'geonameid': '8862989', 'place_name': 'Razo del rgano (Veintiuno de Mayo)', 'feature_class': 'P', 'feature_code': 'PPL'}}

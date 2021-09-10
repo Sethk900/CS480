@@ -1,0 +1,8 @@
+1|bird|daf d
+2|Beijing Noodle| df
+3|Californian| daf
+4|eatery| dfa
+5|zoo| daf
+6|USA| df
+7|yo mama | dfda
+8|Idaho

@@ -1,0 +1,1 @@
+{'word': 'DJIBOUTI', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'DJI', 'country_conf': 0.96374094, 'geo': {'admin1': 'NA', 'lat': '11.83333', 'lon': '42.5', 'country_code3': 'DJI', 'geonameid': '223816', 'place_name': 'Republic of Djibouti', 'feature_class': 'A', 'feature_code': 'PCLI'}}

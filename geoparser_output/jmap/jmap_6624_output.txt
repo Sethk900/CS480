@@ -1,0 +1,1 @@
+{'word': 'Loskop', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Eastern Cape', 'lat': '-32.40356', 'lon': '24.71852', 'country_code3': 'ZAF', 'geonameid': '981947', 'place_name': 'Loskop', 'feature_class': 'T', 'feature_code': 'MT'}}

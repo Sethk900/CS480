@@ -1,0 +1,1 @@
+{'word': 'Brunswick', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CAN', 'country_conf': 0.87992215, 'geo': {'admin1': 'New Brunswick', 'lat': '46.5001', 'lon': '-65.99878', 'country_code3': 'CAN', 'geonameid': '6087430', 'place_name': 'New Brunswick/Nouveau-Brunswick', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,0 +1,1 @@
+{'word': 'vernonia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Oregon', 'lat': '45.85872', 'lon': '-123.19289', 'country_code3': 'USA', 'geonameid': '5758599', 'place_name': 'Vernonia', 'feature_class': 'P', 'feature_code': 'PPL'}}

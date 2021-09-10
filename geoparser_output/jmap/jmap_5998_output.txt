@@ -1,0 +1,1 @@
+{'word': 'Sutton', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.6840588, 'geo': {'admin1': 'England', 'lat': '51.35835', 'lon': '-0.1926', 'country_code3': 'GBR', 'geonameid': '3333206', 'place_name': 'Sutton', 'feature_class': 'A', 'feature_code': 'ADM3'}}

@@ -1,0 +1,1 @@
+{'word': 'Jiangxi', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Jiangxi', 'lat': '27.66667', 'lon': '115.66667', 'country_code3': 'CHN', 'geonameid': '1806222', 'place_name': 'Jiangxi Sheng', 'feature_class': 'A', 'feature_code': 'ADM1'}}

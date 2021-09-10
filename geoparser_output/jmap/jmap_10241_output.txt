@@ -1,0 +1,1 @@
+{'word': 'Richtersveld', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Northern Cape', 'lat': '-28.76823', 'lon': '17.05955', 'country_code3': 'ZAF', 'geonameid': '8347435', 'place_name': 'Richtersveld', 'feature_class': 'A', 'feature_code': 'ADM3'}}

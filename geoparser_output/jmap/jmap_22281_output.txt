@@ -1,0 +1,1 @@
+{'word': 'Pyrnes', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'FRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Languedoc-Roussillon-Midi-Pyrnes', 'lat': '44.02722', 'lon': '1.63559', 'country_code3': 'FRA', 'geonameid': '11071623', 'place_name': 'Occitanie', 'feature_class': 'A', 'feature_code': 'ADM1'}}

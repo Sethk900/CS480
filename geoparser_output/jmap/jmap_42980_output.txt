@@ -1,0 +1,1 @@
+{'word': 'Beni', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COD', 'country_conf': 0.87992215, 'geo': {'admin1': 'Nord Kivu', 'lat': '0.49113', 'lon': '29.47306', 'country_code3': 'COD', 'geonameid': '219057', 'place_name': 'Beni', 'feature_class': 'P', 'feature_code': 'PPL'}}

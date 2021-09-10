@@ -1,0 +1,5 @@
+{'word': 'Potamonautes', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Uganda', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'UGA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '1.25', 'lon': '32.5', 'country_code3': 'UGA', 'geonameid': '226074', 'place_name': 'Republic of Uganda', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Potamonautes', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Kenya', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'KEN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '1', 'lon': '38', 'country_code3': 'KEN', 'geonameid': '192950', 'place_name': 'Republic of Kenya', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Uganda', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'UGA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '1.25', 'lon': '32.5', 'country_code3': 'UGA', 'geonameid': '226074', 'place_name': 'Republic of Uganda', 'feature_class': 'A', 'feature_code': 'PCLI'}}

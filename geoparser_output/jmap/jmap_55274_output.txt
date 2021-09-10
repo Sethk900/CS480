@@ -1,0 +1,1 @@
+{'word': 'Luxembourg', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'LUX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '49.75', 'lon': '6.16667', 'country_code3': 'LUX', 'geonameid': '2960313', 'place_name': 'Grand Duchy of Luxembourg', 'feature_class': 'A', 'feature_code': 'PCLI'}}

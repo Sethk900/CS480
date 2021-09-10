@@ -1,0 +1,1 @@
+{'word': 'Berkeley', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '37.87159', 'lon': '-122.27275', 'country_code3': 'USA', 'geonameid': '5327684', 'place_name': 'Berkeley', 'feature_class': 'P', 'feature_code': 'PPL'}}

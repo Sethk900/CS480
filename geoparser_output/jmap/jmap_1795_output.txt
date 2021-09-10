@@ -1,0 +1,1 @@
+{'word': 'Holling', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Alsace-Champagne-Ardenne-Lorraine', 'lat': '49.26167', 'lon': '6.49667', 'country_code3': 'FRA', 'geonameid': '6437600', 'place_name': 'Holling', 'feature_class': 'A', 'feature_code': 'ADM4'}}

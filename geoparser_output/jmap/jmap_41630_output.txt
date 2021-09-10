@@ -1,0 +1,1 @@
+{'word': 'Honshu', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'JPN', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '36', 'lon': '138', 'country_code3': 'JPN', 'geonameid': '1862185', 'place_name': 'Honsh Island', 'feature_class': 'T', 'feature_code': 'ISL'}}

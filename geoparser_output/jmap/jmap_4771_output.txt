@@ -1,0 +1,1 @@
+{'word': 'sivado', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PER', 'country_conf': 0.5339668}

@@ -1,0 +1,1 @@
+{'word': 'Merriam', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Kansas', 'lat': '39.02362', 'lon': '-94.69357', 'country_code3': 'USA', 'geonameid': '4275393', 'place_name': 'Merriam', 'feature_class': 'P', 'feature_code': 'PPL'}}

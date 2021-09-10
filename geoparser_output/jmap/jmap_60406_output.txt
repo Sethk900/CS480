@@ -1,0 +1,1 @@
+{'word': 'Syria', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'SYR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '35', 'lon': '38', 'country_code3': 'SYR', 'geonameid': '163843', 'place_name': 'Syrian Arab Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}

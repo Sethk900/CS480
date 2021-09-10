@@ -1,0 +1,1 @@
+{'word': 'Hereford', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GBR', 'country_conf': 0.96374094, 'geo': {'admin1': 'England', 'lat': '52.08333', 'lon': '-2.75', 'country_code3': 'GBR', 'geonameid': '2647071', 'place_name': 'Herefordshire', 'feature_class': 'A', 'feature_code': 'ADM2'}}

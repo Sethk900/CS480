@@ -1,0 +1,1 @@
+{'word': 'orado', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Aquitaine-Limousin-Poitou-Charentes', 'lat': '45.93194', 'lon': '1.03167', 'country_code3': 'FRA', 'geonameid': '6445405', 'place_name': 'Oradour-sur-Glane', 'feature_class': 'A', 'feature_code': 'ADM4'}}

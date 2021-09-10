@@ -1,0 +1,6 @@
+{'word': 'Floristic', 'spans': [{'start': 19, 'end': 28}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Western Cape', 'lat': '-34.16667', 'lon': '18.375', 'country_code3': 'ZAF', 'geonameid': '11467929', 'place_name': 'Cape Floristic Region', 'feature_class': 'L', 'feature_code': 'AREA'}}
+{'word': 'd.b.h.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.24821267}
+{'word': 'd.b.h.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.24821267}
+{'word': 'd.b.h.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.24821267}
+{'word': 'd.b.h.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.24821267}
+{'word': 'd.b.h.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.24821267}

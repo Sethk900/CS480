@@ -1,0 +1,3 @@
+{'word': 'Oroville', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'California', 'lat': '39.51394', 'lon': '-121.55776', 'country_code3': 'USA', 'geonameid': '5379759', 'place_name': 'Oroville', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Sacramento', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Minas Gerais', 'lat': '-19.88039', 'lon': '-47.226', 'country_code3': 'BRA', 'geonameid': '6321740', 'place_name': 'Sacramento', 'feature_class': 'A', 'feature_code': 'ADM2'}}

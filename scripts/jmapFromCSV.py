@@ -9,12 +9,12 @@ import json
 os.chdir('../')
 
 #this program expects two CVE files called jmap_articles and jmap_locations in a folder called jmap in the project folder
-input_folder = 'jmap'
+input_folder = 'jmap_csv'
 input_files = (
     ('jmap_articles.csv','article'),
     ('jmap_locations.csv','location')
 )
-output_folder = 'processed_files'
+output_folder = 'processed_files/jmap'
 output_file = 'jmap_data.json'
 
 os.chdir('./'+input_folder)

@@ -1,0 +1,1 @@
+{'word': 'Elsenburg', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Western Cape', 'lat': '-33.8457', 'lon': '18.84375', 'country_code3': 'ZAF', 'geonameid': '3368047', 'place_name': 'Elsenburg', 'feature_class': 'P', 'feature_code': 'PPL'}}

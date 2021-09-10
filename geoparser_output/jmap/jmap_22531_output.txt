@@ -1,0 +1,1 @@
+{'word': 'Houston', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Texas', 'lat': '29.76328', 'lon': '-95.36327', 'country_code3': 'USA', 'geonameid': '4699066', 'place_name': 'Houston', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

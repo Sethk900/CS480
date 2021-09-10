@@ -1,0 +1,2 @@
+{'word': 'Italy', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '42.83333', 'lon': '12.83333', 'country_code3': 'ITA', 'geonameid': '3175395', 'place_name': 'Italian Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'microaggregates', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

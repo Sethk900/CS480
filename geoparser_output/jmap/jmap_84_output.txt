@@ -1,0 +1,4 @@
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'Maine', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Maine', 'lat': '45.50032', 'lon': '-69.24977', 'country_code3': 'USA', 'geonameid': '4971068', 'place_name': 'Maine', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Brunswick', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CAN', 'country_conf': 0.87992215, 'geo': {'admin1': 'New Brunswick', 'lat': '46.5001', 'lon': '-65.99878', 'country_code3': 'CAN', 'geonameid': '6087430', 'place_name': 'New Brunswick/Nouveau-Brunswick', 'feature_class': 'A', 'feature_code': 'ADM1'}}

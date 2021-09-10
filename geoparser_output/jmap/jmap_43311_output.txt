@@ -1,0 +1,1 @@
+{'word': 'Montfort', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Brittany', 'lat': '48.13806', 'lon': '-1.95583', 'country_code3': 'FRA', 'geonameid': '6432761', 'place_name': 'Montfort-sur-Meu', 'feature_class': 'A', 'feature_code': 'ADM4'}}

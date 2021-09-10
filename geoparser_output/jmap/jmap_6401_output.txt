@@ -1,0 +1,1 @@
+{'word': 'bygedra', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IND', 'country_conf': 0.9528109, 'geo': {'admin1': 'Uttar Pradesh', 'lat': '25.77111', 'lon': '80.29536', 'country_code3': 'IND', 'geonameid': '10520743', 'place_name': 'Bagedya Nla', 'feature_class': 'H', 'feature_code': 'STM'}}

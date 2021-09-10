@@ -1,0 +1,1 @@
+{'word': 'Shire', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.87992215, 'geo': {'admin1': 'New South Wales', 'lat': '-34.07202', 'lon': '151.07712', 'country_code3': 'AUS', 'geonameid': '7839774', 'place_name': 'Sutherland Shire', 'feature_class': 'A', 'feature_code': 'ADM2'}}

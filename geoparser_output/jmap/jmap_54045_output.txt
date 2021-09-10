@@ -1,0 +1,2 @@
+{'word': 'nigrosecta', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'nigrosecta', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}

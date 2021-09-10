@@ -1,0 +1,1 @@
+{'word': 'Mateo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GTM', 'country_conf': 0.28365934}

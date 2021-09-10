@@ -1,0 +1,9 @@
+{'word': 'Mxico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Honduras', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '15', 'lon': '-86.5', 'country_code3': 'HND', 'geonameid': '3608932', 'place_name': 'Republic of Honduras', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Japan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'JPN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '35.68536', 'lon': '139.75309', 'country_code3': 'JPN', 'geonameid': '1861060', 'place_name': 'Japan', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Thailand', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'THA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '15.5', 'lon': '101', 'country_code3': 'THA', 'geonameid': '1605651', 'place_name': 'Kingdom of Thailand', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'tempestado', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'PER', 'country_conf': 0.9528109, 'geo': {'admin1': 'Loreto', 'lat': '-1.28262', 'lon': '-74.88757', 'country_code3': 'PER', 'geonameid': '3691425', 'place_name': 'Tempestad', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Mxico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Honduras', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '15', 'lon': '-86.5', 'country_code3': 'HND', 'geonameid': '3608932', 'place_name': 'Republic of Honduras', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Ortholasmatinae', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

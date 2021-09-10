@@ -1,0 +1,1 @@
+{'word': 'Jolla', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '32.84727', 'lon': '-117.2742', 'country_code3': 'USA', 'geonameid': '5363943', 'place_name': 'La Jolla', 'feature_class': 'P', 'feature_code': 'PPLX'}}

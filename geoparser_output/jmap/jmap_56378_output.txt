@@ -1,0 +1,5 @@
+{'word': 'Italy', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '42.83333', 'lon': '12.83333', 'country_code3': 'ITA', 'geonameid': '3175395', 'place_name': 'Italian Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'NaOCl', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GIN', 'country_conf': 0.5714737}
+{'word': 'NaOCl', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GIN', 'country_conf': 0.5714737}
+{'word': 'NaOCl', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GIN', 'country_conf': 0.5714737}
+{'word': 'cryolite', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GRL', 'country_conf': 0.9528109, 'geo': {'admin1': 'Sermersooq', 'lat': '61.20575', 'lon': '-48.1671', 'country_code3': 'GRL', 'geonameid': '3422863', 'place_name': 'Ivittuut Mine', 'feature_class': 'S', 'feature_code': 'MN'}}

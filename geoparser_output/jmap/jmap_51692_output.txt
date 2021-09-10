@@ -1,0 +1,1 @@
+{'word': 'Finder', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9048774, 'geo': {'admin1': 'Quintana Roo', 'lat': '20.47972', 'lon': '-86.97202', 'country_code3': 'MEX', 'geonameid': '11809311', 'place_name': 'Tour Finder', 'feature_class': 'S', 'feature_code': 'HTL'}}

@@ -1,0 +1,1 @@
+{'word': 'Tierra', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.87992215, 'geo': {'admin1': 'Veracruz', 'lat': '18.44771', 'lon': '-96.35912', 'country_code3': 'MEX', 'geonameid': '3801276', 'place_name': 'Tierra Blanca', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

@@ -1,0 +1,1 @@
+{'word': 'WY', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
