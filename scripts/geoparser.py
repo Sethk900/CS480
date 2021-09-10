@@ -8,10 +8,10 @@ xmlfile = re.compile('.*\.xml')
 capital = re.compile('.*[A-Z]*.*')
 geo = Geoparser()
 
-for inputfile in os.listdir("../processed_files"):
+for inputfile in os.listdir("../processed_files/jmap"): # Only processing jmap right now
 	name, extension = os.path.splitext(inputfile)
 	outfilename = name + "_output.txt"
-	inputfile = "../processed_files/" + inputfile
+	inputfile = "../processed_files/jmap/" + inputfile
 	print("Outfile name: "+outfilename)
 	if xmlfile.match(inputfile) and outfilename not in os.listdir("../geoparser_output"): # Only process XML files
 		#geo = Geoparser()
