@@ -1,0 +1,1 @@
+{'word': 'Zaire', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'COD', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '-2.5', 'lon': '23.5', 'country_code3': 'COD', 'geonameid': '203312', 'place_name': 'Democratic Republic of the Congo', 'feature_class': 'A', 'feature_code': 'PCLI'}}

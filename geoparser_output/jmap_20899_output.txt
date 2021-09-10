@@ -1,0 +1,5 @@
+{'word': 'Dytiscidae', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Australia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-25', 'lon': '135', 'country_code3': 'AUS', 'geonameid': '2077456', 'place_name': 'Commonwealth of Australia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Windsor', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CAN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Ontario', 'lat': '42.30008', 'lon': '-83.01654', 'country_code3': 'CAN', 'geonameid': '6182962', 'place_name': 'Windsor', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Queensland', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'AUS', 'country_conf': 0.957188, 'geo': {'admin1': 'Queensland', 'lat': '-20', 'lon': '145', 'country_code3': 'AUS', 'geonameid': '2152274', 'place_name': 'State of Queensland', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Victoria', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.28365934}

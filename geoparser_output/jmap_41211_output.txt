@@ -1,0 +1,2 @@
+{'word': 'k.h.', 'spans': [{'start': 8, 'end': 12}], 'country_predicted': 'VNM', 'country_conf': 0.28868946}
+{'word': 'k.h.', 'spans': [{'start': 8, 'end': 12}], 'country_predicted': 'VNM', 'country_conf': 0.28868946}

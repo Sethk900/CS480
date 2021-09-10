@@ -1,0 +1,1 @@
+{'word': 'Indochina', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'KHM', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '14.64504', 'lon': '107.5462', 'country_code3': 'KHM', 'geonameid': '11612758', 'place_name': 'Indochine', 'feature_class': 'A', 'feature_code': 'PCLH'}}

@@ -1,0 +1,1 @@
+{'word': 'Hokkaido', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'JPN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Hokkaido', 'lat': '43.06451', 'lon': '141.3466', 'country_code3': 'JPN', 'geonameid': '2130037', 'place_name': 'Hokkaido', 'feature_class': 'A', 'feature_code': 'ADM1'}}

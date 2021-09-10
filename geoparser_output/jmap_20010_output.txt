@@ -1,0 +1,1 @@
+{'word': 'Zurich', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CHE', 'country_conf': 0.957188, 'geo': {'admin1': 'Zurich', 'lat': '47.41667', 'lon': '8.66667', 'country_code3': 'CHE', 'geonameid': '2657895', 'place_name': 'Kanton Zrich', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,0 +1,1 @@
+{'word': 'Lotisma', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'COD', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '-2.46342', 'lon': '19.36305', 'country_code3': 'COD', 'geonameid': '2316395', 'place_name': 'Bolima', 'feature_class': 'H', 'feature_code': 'STM'}}

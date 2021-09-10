@@ -1,0 +1,4 @@
+{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Zimbabwe', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ZWE', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-19', 'lon': '29.75', 'country_code3': 'ZWE', 'geonameid': '878675', 'place_name': 'Republic of Zimbabwe', 'feature_class': 'A', 'feature_code': 'PCLI'}}

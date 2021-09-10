@@ -1,0 +1,3 @@
+{'word': 'mid-Himalaya', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'NPL', 'country_conf': 0.24821267}
+{'word': 'Himalayan', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
+{'word': 'Himalayan', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.28868946}

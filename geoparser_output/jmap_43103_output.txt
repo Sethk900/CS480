@@ -1,0 +1,1 @@
+{'word': 'Togo', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'TGO', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '8.66667', 'lon': '1.08333', 'country_code3': 'TGO', 'geonameid': '2363686', 'place_name': 'Togolese Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}

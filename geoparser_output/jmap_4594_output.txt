@@ -1,0 +1,2 @@
+{'word': 'conidiogenesis', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'conidiogenesis', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}

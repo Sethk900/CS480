@@ -1,0 +1,1 @@
+{'word': 'Potomac', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Maryland', 'lat': '39.01817', 'lon': '-77.20859', 'country_code3': 'USA', 'geonameid': '4366001', 'place_name': 'Potomac', 'feature_class': 'P', 'feature_code': 'PPL'}}

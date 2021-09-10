@@ -1,0 +1,1 @@
+{'word': 'muco', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CHL', 'country_conf': 0.5714737}

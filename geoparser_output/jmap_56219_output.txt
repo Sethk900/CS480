@@ -1,0 +1,2 @@
+{'word': 'Northumberland', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': 'GBR', 'country_conf': 0.6840588, 'geo': {'admin1': 'England', 'lat': '55.24253', 'lon': '-2.06535', 'country_code3': 'GBR', 'geonameid': '11609026', 'place_name': 'Northumberland', 'feature_class': 'L', 'feature_code': 'RGN'}}
+{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}

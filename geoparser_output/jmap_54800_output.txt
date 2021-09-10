@@ -1,0 +1,5 @@
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'Raton', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Florida', 'lat': '26.35869', 'lon': '-80.0831', 'country_code3': 'USA', 'geonameid': '4148411', 'place_name': 'Boca Raton', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Jupiter', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Florida', 'lat': '26.93422', 'lon': '-80.09421', 'country_code3': 'USA', 'geonameid': '4160610', 'place_name': 'Jupiter', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}

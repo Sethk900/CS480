@@ -1,0 +1,5 @@
+{'word': 'Australia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-25', 'lon': '135', 'country_code3': 'AUS', 'geonameid': '2077456', 'place_name': 'Commonwealth of Australia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Weipa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Queensland', 'lat': '-12.63671', 'lon': '141.87555', 'country_code3': 'AUS', 'geonameid': '7839400', 'place_name': 'Weipa', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Curragh', 'spans': [{'start': 1, 'end': 8}], 'country_predicted': 'IRL', 'country_conf': 0.9048774, 'geo': {'admin1': 'Munster', 'lat': '52.59028', 'lon': '-8.88028', 'country_code3': 'IRL', 'geonameid': '2964911', 'place_name': 'Currah Chase House', 'feature_class': 'S', 'feature_code': 'EST'}}
+{'word': 'Plateau', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.28868946}

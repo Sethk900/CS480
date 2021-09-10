@@ -1,0 +1,1 @@
+{'word': 'macrotis', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GRC', 'country_conf': 0.9528109, 'geo': {'admin1': 'North Aegean', 'lat': '38.27895', 'lon': '26.0841', 'country_code3': 'GRC', 'geonameid': '444578', 'place_name': 'Mon Agas Matrnis Chalndron', 'feature_class': 'S', 'feature_code': 'MSTY'}}

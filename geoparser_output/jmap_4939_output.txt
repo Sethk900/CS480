@@ -1,0 +1,6 @@
+{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
+{'word': 'helena', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Montana', 'lat': '46.59271', 'lon': '-112.03611', 'country_code3': 'USA', 'geonameid': '5656882', 'place_name': 'Helena', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
+{'word': 'Guinea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GIN', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '10.83333', 'lon': '-10.66667', 'country_code3': 'GIN', 'geonameid': '2420477', 'place_name': 'Republic of Guinea', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
+{'word': 'Guinea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GIN', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '10.83333', 'lon': '-10.66667', 'country_code3': 'GIN', 'geonameid': '2420477', 'place_name': 'Republic of Guinea', 'feature_class': 'A', 'feature_code': 'PCLI'}}

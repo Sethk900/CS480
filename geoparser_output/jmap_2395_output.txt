@@ -1,0 +1,4 @@
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'snowbed', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CAN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Nunavut', 'lat': '75.61126', 'lon': '-101.3679', 'country_code3': 'CAN', 'geonameid': '6150693', 'place_name': 'Snowbed Creek', 'feature_class': 'H', 'feature_code': 'STM'}}

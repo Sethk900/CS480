@@ -1,0 +1,3 @@
+{'word': 'Sulawesi', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'IDN', 'country_conf': 0.96374094, 'geo': {'admin1': 'South Sulawesi', 'lat': '-2.13154', 'lon': '120.28888', 'country_code3': 'IDN', 'geonameid': '9062340', 'place_name': 'Sulawesi', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
+{'word': 'Australia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-25', 'lon': '135', 'country_code3': 'AUS', 'geonameid': '2077456', 'place_name': 'Commonwealth of Australia', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,2 @@
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'owenii', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.92213035, 'geo': {'admin1': 'California', 'lat': '33.67691', 'lon': '-117.77617', 'country_code3': 'USA', 'geonameid': '5379524', 'place_name': 'Orange County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

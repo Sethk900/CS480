@@ -1,0 +1,2 @@
+{'word': 'Baffin', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'Nunavut', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Nunavut', 'lat': '66.03478', 'lon': '-100.07813', 'country_code3': 'CAN', 'geonameid': '6091732', 'place_name': 'Nunavut', 'feature_class': 'A', 'feature_code': 'ADM1'}}

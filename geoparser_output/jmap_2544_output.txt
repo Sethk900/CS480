@@ -1,0 +1,1 @@
+{'word': 'Lanka', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'LKA', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '7.75', 'lon': '80.75', 'country_code3': 'LKA', 'geonameid': '1227603', 'place_name': 'Democratic Socialist Republic of Sri Lanka', 'feature_class': 'A', 'feature_code': 'PCLI'}}

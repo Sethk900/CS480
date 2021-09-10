@@ -1,0 +1,1 @@
+{'word': 'beckii', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BIH', 'country_conf': 0.9528109, 'geo': {'admin1': 'Republic of Srspka', 'lat': '43.83695', 'lon': '18.74078', 'country_code3': 'BIH', 'geonameid': '3206873', 'place_name': 'Beii', 'feature_class': 'P', 'feature_code': 'PPL'}}

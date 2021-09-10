@@ -1,0 +1,2 @@
+{'word': 'Eleuthera', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'BHS', 'country_conf': 0.28868946}
+{'word': 'Bahamas', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BHS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '25.04082', 'lon': '-77.37122', 'country_code3': 'BHS', 'geonameid': '3572887', 'place_name': 'Commonwealth of The Bahamas', 'feature_class': 'A', 'feature_code': 'PCLI'}}

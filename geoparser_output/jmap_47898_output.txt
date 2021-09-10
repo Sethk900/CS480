@@ -1,0 +1,6 @@
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'DC', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Maryland', 'lat': '39.1485', 'lon': '-77.2111', 'country_code3': 'USA', 'geonameid': '6488885', 'place_name': 'Hilton Washington DC North - Gaithersburg', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}

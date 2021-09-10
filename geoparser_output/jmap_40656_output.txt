@@ -1,0 +1,1 @@
+{'word': 'Per', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PER', 'country_conf': 0.28365934}

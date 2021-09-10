@@ -1,0 +1,4 @@
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'eremicus', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'simulans', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Diego', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}

@@ -1,0 +1,4 @@
+{'word': 'pachyrhizi', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'pachyrhizi', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'cajan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GTM', 'country_conf': 0.5714737}
+{'word': 'cajan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GTM', 'country_conf': 0.5714737}

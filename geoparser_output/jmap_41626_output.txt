@@ -1,0 +1,1 @@
+{'word': 'Tobago', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'TTO', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '11', 'lon': '-61', 'country_code3': 'TTO', 'geonameid': '3573591', 'place_name': 'Republic of Trinidad and Tobago', 'feature_class': 'A', 'feature_code': 'PCLI'}}

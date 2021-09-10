@@ -1,0 +1,1 @@
+{'word': 'Albania', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ALB', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '41', 'lon': '20', 'country_code3': 'ALB', 'geonameid': '783754', 'place_name': 'Republic of Albania', 'feature_class': 'A', 'feature_code': 'PCLI'}}

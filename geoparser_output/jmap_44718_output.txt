@@ -1,0 +1,1 @@
+{'word': 'Hainan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Hainan', 'lat': '19.2', 'lon': '109.7', 'country_code3': 'CHN', 'geonameid': '1809055', 'place_name': 'Hainan Dao', 'feature_class': 'T', 'feature_code': 'ISL'}}

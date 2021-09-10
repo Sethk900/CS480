@@ -1,0 +1,2 @@
+{'word': 'Carrizo', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ESP', 'country_conf': 0.28868946}
+{'word': 'NaCI', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FJI', 'country_conf': 0.5714737}

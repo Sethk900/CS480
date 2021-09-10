@@ -1,0 +1,1 @@
+{'word': 'TENNESSEE', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Tennessee', 'lat': '35.75035', 'lon': '-86.25027', 'country_code3': 'USA', 'geonameid': '4662168', 'place_name': 'Tennessee', 'feature_class': 'A', 'feature_code': 'ADM1'}}
