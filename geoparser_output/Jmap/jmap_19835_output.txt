@@ -1,2 +1,0 @@
-{'word': 'Plateau', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.28868946}
-{'word': 'Tex.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ARM', 'country_conf': 0.87992215, 'geo': {'admin1': 'Syunik Province', 'lat': '39.55826', 'lon': '46.48054', 'country_code3': 'ARM', 'geonameid': '174743', 'place_name': 'Tegh', 'feature_class': 'P', 'feature_code': 'PPL'}}

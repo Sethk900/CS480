@@ -1,5 +1,0 @@
-{'word': 'Arcadia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'JAM', 'country_conf': 0.28868946}
-{'word': 'versadig', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'FRA', 'country_conf': 0.9528109, 'geo': {'admin1': 'le-de-France', 'lat': '48.80359', 'lon': '2.13424', 'country_code3': 'FRA', 'geonameid': '2969679', 'place_name': 'Versailles', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
-{'word': 'betekenisvol', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'heelwat', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'SAU', 'country_conf': 0.9528109, 'geo': {'admin1': 'il', 'lat': '28.37972', 'lon': '41.47722', 'country_code3': 'SAU', 'geonameid': '106272', 'place_name': 'is Ab ajrah', 'feature_class': 'T', 'feature_code': 'DUNE'}}
-{'word': 'kaliumtoediening', 'spans': [{'start': 0, 'end': 16}], 'country_predicted': '', 'country_conf': 0}

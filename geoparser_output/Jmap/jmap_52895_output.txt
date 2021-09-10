@@ -1,2 +1,0 @@
-{'word': 'Brazil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-55', 'country_code3': 'BRA', 'geonameid': '3469034', 'place_name': 'Federative Republic of Brazil', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Par', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Par', 'lat': '-4', 'lon': '-53', 'country_code3': 'BRA', 'geonameid': '3393129', 'place_name': 'Par', 'feature_class': 'A', 'feature_code': 'ADM1'}}

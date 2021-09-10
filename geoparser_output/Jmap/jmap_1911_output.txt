@@ -1,1 +1,0 @@
-{'word': 'east', 'spans': [{'start': 1, 'end': 5}], 'country_predicted': 'KAZ', 'country_conf': 0.87992215, 'geo': {'admin1': 'East Kazakhstan', 'lat': '48.83333', 'lon': '81.5', 'country_code3': 'KAZ', 'geonameid': '1517381', 'place_name': 'East Kazakhstan', 'feature_class': 'A', 'feature_code': 'ADM1'}}

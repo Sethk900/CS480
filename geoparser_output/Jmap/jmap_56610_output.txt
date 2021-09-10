@@ -1,2 +1,0 @@
-{'word': 'Moravia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
-{'word': 'Moravia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}

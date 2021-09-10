@@ -1,3 +1,0 @@
-{'word': 'York.<ol><li', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'New York', 'lat': '40.80371', 'lon': '-73.96153', 'country_code3': 'USA', 'geonameid': '5111812', 'place_name': 'Cathedral of Saint John the Divine', 'feature_class': 'S', 'feature_code': 'CH'}}
-{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
-{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}

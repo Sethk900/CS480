@@ -1,4 +1,0 @@
-{'word': 'Erie', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'New York', 'lat': '42.75824', 'lon': '-78.77966', 'country_code3': 'USA', 'geonameid': '5116642', 'place_name': 'Erie County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
-{'word': 'Erie', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'New York', 'lat': '42.75824', 'lon': '-78.77966', 'country_code3': 'USA', 'geonameid': '5116642', 'place_name': 'Erie County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

@@ -1,1 +1,0 @@
-{'word': 'Amazonas', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Amazonas', 'lat': '-3.75', 'lon': '-64.5', 'country_code3': 'BRA', 'geonameid': '3665361', 'place_name': 'Amazonas', 'feature_class': 'A', 'feature_code': 'ADM1'}}

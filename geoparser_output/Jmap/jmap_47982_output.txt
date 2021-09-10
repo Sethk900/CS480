@@ -1,2 +1,0 @@
-{'word': 'river', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}
-{'word': 'Olomouc', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CZE', 'country_conf': 0.9048774, 'geo': {'admin1': 'Olomouck', 'lat': '49.66667', 'lon': '17.25', 'country_code3': 'CZE', 'geonameid': '3069010', 'place_name': 'Okres Olomouc', 'feature_class': 'A', 'feature_code': 'ADM2'}}

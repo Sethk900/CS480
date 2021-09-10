@@ -1,0 +1,1 @@
+{'word': 'Detrital', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Arizona', 'lat': '36.05221', 'lon': '-114.47053', 'country_code3': 'USA', 'geonameid': '5292564', 'place_name': 'Detrital Valley', 'feature_class': 'T', 'feature_code': 'VAL'}}

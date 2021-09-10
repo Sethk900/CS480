@@ -1,2 +1,0 @@
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'gartersnake', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'CAN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Ontario', 'lat': '44.88341', 'lon': '-79.19962', 'country_code3': 'CAN', 'geonameid': '5959819', 'place_name': 'Gartersnake Creek', 'feature_class': 'H', 'feature_code': 'STM'}}

@@ -1,1 +1,0 @@
-{'word': 'Umbrepts', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}

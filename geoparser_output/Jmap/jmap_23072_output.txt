@@ -1,7 +1,0 @@
-{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
-{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
-{'word': 'Guinea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GIN', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '10.83333', 'lon': '-10.66667', 'country_code3': 'GIN', 'geonameid': '2420477', 'place_name': 'Republic of Guinea', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
-{'word': 'Guinea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GIN', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '10.83333', 'lon': '-10.66667', 'country_code3': 'GIN', 'geonameid': '2420477', 'place_name': 'Republic of Guinea', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Guinea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GIN', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '10.83333', 'lon': '-10.66667', 'country_code3': 'GIN', 'geonameid': '2420477', 'place_name': 'Republic of Guinea', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}

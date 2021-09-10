@@ -1,6 +1,0 @@
-{'word': 'Brazil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-55', 'country_code3': 'BRA', 'geonameid': '3469034', 'place_name': 'Federative Republic of Brazil', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'hyalina', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MEX', 'country_conf': 0.5714737}
-{'word': 'Brazil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-55', 'country_code3': 'BRA', 'geonameid': '3469034', 'place_name': 'Federative Republic of Brazil', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Brasil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
-{'word': 'hyalina', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MEX', 'country_conf': 0.5714737}
-{'word': 'Brasil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}

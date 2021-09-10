@@ -1,4 +1,0 @@
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'Romania', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ROU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '25', 'country_code3': 'ROU', 'geonameid': '798549', 'place_name': 'Romnia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'beasleyi', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.5339668}
-{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}

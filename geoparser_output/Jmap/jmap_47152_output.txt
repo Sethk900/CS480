@@ -1,2 +1,0 @@
-{'word': 'Pseudotealliocaris', 'spans': [{'start': 0, 'end': 18}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Pocono', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.12256', 'lon': '-75.35815', 'country_code3': 'USA', 'geonameid': '5202343', 'place_name': 'Borough of Mount Pocono', 'feature_class': 'A', 'feature_code': 'ADM3'}}

@@ -1,3 +1,0 @@
-{'word': 'czerepanovii</em', 'spans': [{'start': 4, 'end': 20}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Monchegorsk', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'RUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Murmansk', 'lat': '67.93972', 'lon': '32.87389', 'country_code3': 'RUS', 'geonameid': '525404', 'place_name': 'Monchegorsk', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Russia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'RUS', 'country_conf': 0.7756362, 'geo': {'admin1': 'NA', 'lat': '60', 'lon': '100', 'country_code3': 'RUS', 'geonameid': '2017370', 'place_name': 'Russian Federation', 'feature_class': 'A', 'feature_code': 'PCLI'}}

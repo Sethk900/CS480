@@ -1,4 +1,0 @@
-{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
-{'word': 'Britain', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '54.75844', 'lon': '-2.69531', 'country_code3': 'GBR', 'geonameid': '2635167', 'place_name': 'United Kingdom of Great Britain and Northern Ireland', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
-{'word': 'Guinea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GIN', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '10.83333', 'lon': '-10.66667', 'country_code3': 'GIN', 'geonameid': '2420477', 'place_name': 'Republic of Guinea', 'feature_class': 'A', 'feature_code': 'PCLI'}}

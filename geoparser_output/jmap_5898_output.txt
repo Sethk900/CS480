@@ -1,0 +1,7 @@
+{'word': 'Angeles', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CRI', 'country_conf': 0.87992215, 'geo': {'admin1': 'Heredia', 'lat': '10.06003', 'lon': '-84.08743', 'country_code3': 'CRI', 'geonameid': '11239497', 'place_name': 'ngeles', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Angeles', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CRI', 'country_conf': 0.87992215, 'geo': {'admin1': 'Heredia', 'lat': '10.06003', 'lon': '-84.08743', 'country_code3': 'CRI', 'geonameid': '11239497', 'place_name': 'ngeles', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Angeles', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CRI', 'country_conf': 0.87992215, 'geo': {'admin1': 'Heredia', 'lat': '10.06003', 'lon': '-84.08743', 'country_code3': 'CRI', 'geonameid': '11239497', 'place_name': 'ngeles', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Clarita', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'PER', 'country_conf': 0.28365934}
+{'word': 'Angeles', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CRI', 'country_conf': 0.87992215, 'geo': {'admin1': 'Heredia', 'lat': '10.06003', 'lon': '-84.08743', 'country_code3': 'CRI', 'geonameid': '11239497', 'place_name': 'ngeles', 'feature_class': 'A', 'feature_code': 'ADM3'}}

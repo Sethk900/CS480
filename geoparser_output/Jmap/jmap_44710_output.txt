@@ -1,1 +1,0 @@
-{'word': 'Hunan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.96374094, 'geo': {'admin1': 'Hunan', 'lat': '27.66667', 'lon': '111.75', 'country_code3': 'CHN', 'geonameid': '1806691', 'place_name': 'Hunan Sheng', 'feature_class': 'A', 'feature_code': 'ADM1'}}

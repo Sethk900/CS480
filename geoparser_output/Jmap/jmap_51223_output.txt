@@ -1,1 +1,0 @@
-{'word': 'Jesenik', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CZE', 'country_conf': 0.9528109, 'geo': {'admin1': 'Olomouck', 'lat': '50.25', 'lon': '17.16667', 'country_code3': 'CZE', 'geonameid': '3337501', 'place_name': 'Okres Jesenk', 'feature_class': 'A', 'feature_code': 'ADM2'}}

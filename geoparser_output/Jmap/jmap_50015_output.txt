@@ -1,1 +1,0 @@
-{'word': 'leukops', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GRC', 'country_conf': 0.9528109, 'geo': {'admin1': 'Ionian Islands', 'lat': '38.75', 'lon': '20.66667', 'country_code3': 'GRC', 'geonameid': '258445', 'place_name': 'Lefkada', 'feature_class': 'A', 'feature_code': 'ADM2'}}

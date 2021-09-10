@@ -1,1 +1,0 @@
-{'word': 'mo', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'SWE', 'country_conf': 0.28365934}

@@ -1,2 +1,0 @@
-{'word': 'Virginia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.19161284}
-{'word': 'Roanoke', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Virginia', 'lat': '37.27097', 'lon': '-79.94143', 'country_code3': 'USA', 'geonameid': '4782167', 'place_name': 'Roanoke', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

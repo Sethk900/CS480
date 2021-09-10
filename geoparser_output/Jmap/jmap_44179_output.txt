@@ -1,1 +1,0 @@
-{'word': 'weheri', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IDN', 'country_conf': 0.5714737}

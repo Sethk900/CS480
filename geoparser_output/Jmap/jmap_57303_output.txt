@@ -1,3 +1,0 @@
-{'word': 'Onondaga', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'New York', 'lat': '43.0058', 'lon': '-76.19464', 'country_code3': 'USA', 'geonameid': '5129867', 'place_name': 'Onondaga County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
-{'word': 'lake', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.7178229, 'geo': {'admin1': 'Michigan', 'lat': '43.17956', 'lon': '-83.3123', 'country_code3': 'USA', 'geonameid': '7259538', 'place_name': 'Barnes Lake-Millers Lake', 'feature_class': 'P', 'feature_code': 'PPL'}}

@@ -1,2 +1,0 @@
-{'word': 'wheatbelt', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Montana', 'lat': '48.95779', 'lon': '-110.33466', 'country_code3': 'USA', 'geonameid': '5685878', 'place_name': 'Wheatbelt Post Office (historical)', 'feature_class': 'S', 'feature_code': 'PO'}}
-{'word': 'brevifolia', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NIU', 'country_conf': 0.24821267}

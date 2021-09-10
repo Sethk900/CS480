@@ -1,0 +1,5 @@
+{'word': 'valle', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Campania', 'lat': '40.66415', 'lon': '15.2958', 'country_code3': 'ITA', 'geonameid': '8952764', 'place_name': 'Valle', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Paran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 1, 'end': 6}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Argentina', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ARG', 'country_conf': 0.9516948, 'geo': {'admin1': 'Santa Fe Province', 'lat': '-32.92616', 'lon': '-60.73918', 'country_code3': 'ARG', 'geonameid': '6269145', 'place_name': 'Centro Cultural Antrtida Argentina', 'feature_class': 'S', 'feature_code': 'RSTNQ'}}
+{'word': 'Paran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}

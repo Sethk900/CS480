@@ -1,2 +1,0 @@
-{'word': 'NaOCl', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GIN', 'country_conf': 0.5714737}
-{'word': 'NaOCl', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GIN', 'country_conf': 0.5714737}

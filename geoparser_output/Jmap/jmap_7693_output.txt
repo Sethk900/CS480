@@ -1,4 +1,0 @@
-{'word': 'wesm', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CHN', 'country_conf': 0.5714737}
-{'word': 'Schlfenrandung', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'sind', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PAK', 'country_conf': 0.28868946}
-{'word': 'Schlfenrandung', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

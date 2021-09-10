@@ -1,2 +1,0 @@
-{'word': 'Congo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
-{'word': 'Congo.</li><li', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': 'COD', 'country_conf': 0.92213035, 'geo': {'admin1': 'NA', 'lat': '-2.5', 'lon': '23.5', 'country_code3': 'COD', 'geonameid': '203312', 'place_name': 'Democratic Republic of the Congo', 'feature_class': 'A', 'feature_code': 'PCLI'}}

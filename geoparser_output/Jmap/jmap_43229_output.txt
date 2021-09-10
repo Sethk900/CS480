@@ -1,1 +1,0 @@
-{'word': 'Jacana', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.5339668}

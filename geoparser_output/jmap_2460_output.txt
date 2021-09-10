@@ -1,0 +1,1 @@
+{'word': 'Phragmites', 'spans': [{'start': 4, 'end': 14}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'South Dakota', 'lat': '45.42146', 'lon': '-97.34724', 'country_code3': 'USA', 'geonameid': '5230407', 'place_name': 'Phragmites Pond', 'feature_class': 'H', 'feature_code': 'LK'}}

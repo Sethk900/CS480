@@ -1,3 +1,0 @@
-{'word': 'Creek', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CYM', 'country_conf': 0.28868946}
-{'word': 'Dakota', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'South Dakota', 'lat': '44.50026', 'lon': '-100.25069', 'country_code3': 'USA', 'geonameid': '5769223', 'place_name': 'South Dakota', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Terre', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GLP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Guadeloupe', 'lat': '16.16667', 'lon': '-61.66667', 'country_code3': 'GLP', 'geonameid': '3579731', 'place_name': 'Arrondissement de la Basse-Terre', 'feature_class': 'A', 'feature_code': 'ADM3'}}

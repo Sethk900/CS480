@@ -1,1 +1,0 @@
-{'word': 'Helena', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Montana', 'lat': '46.59271', 'lon': '-112.03611', 'country_code3': 'USA', 'geonameid': '5656882', 'place_name': 'Helena', 'feature_class': 'P', 'feature_code': 'PPLA'}}

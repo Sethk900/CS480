@@ -1,1 +1,0 @@
-{'word': 'Colorado', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}

@@ -1,0 +1,2 @@
+{'word': 'Oakland', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '37.80437', 'lon': '-122.2708', 'country_code3': 'USA', 'geonameid': '5378538', 'place_name': 'Oakland', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

@@ -1,2 +1,0 @@
-{'word': 'Levant', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '34', 'lon': '36', 'country_code3': 'NA', 'geonameid': '305104', 'place_name': 'Levant', 'feature_class': 'L', 'feature_code': 'RGN'}}
-{'word': 'Levant', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '34', 'lon': '36', 'country_code3': 'NA', 'geonameid': '305104', 'place_name': 'Levant', 'feature_class': 'L', 'feature_code': 'RGN'}}

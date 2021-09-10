@@ -1,1 +1,0 @@
-{'word': 'Cladonia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CAN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Newfoundland and Labrador', 'lat': '58.95031', 'lon': '-63.56486', 'country_code3': 'CAN', 'geonameid': '6080257', 'place_name': 'Mount Cladonia', 'feature_class': 'T', 'feature_code': 'MT'}}

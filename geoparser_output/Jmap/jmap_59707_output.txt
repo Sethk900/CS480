@@ -1,1 +1,0 @@
-{'word': 'Naples', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Campania', 'lat': '40.88333', 'lon': '14.41667', 'country_code3': 'ITA', 'geonameid': '3172391', 'place_name': 'Napoli', 'feature_class': 'A', 'feature_code': 'ADM2'}}

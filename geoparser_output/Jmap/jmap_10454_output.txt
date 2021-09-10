@@ -1,1 +1,0 @@
-{'word': 'S.C.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CHE', 'country_conf': 0.9048774, 'geo': {'admin1': 'Neuchtel', 'lat': '47.01647', 'lon': '6.85191', 'country_code3': 'CHE', 'geonameid': '10380209', 'place_name': 'Les Geneveys-s.C., Mont-Racine', 'feature_class': 'S', 'feature_code': 'BUSTP'}}

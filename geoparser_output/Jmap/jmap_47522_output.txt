@@ -1,1 +1,0 @@
-{'word': 'Lr54', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GRC', 'country_conf': 0.9528109, 'geo': {'admin1': 'Crete', 'lat': '35.06337', 'lon': '24.76614', 'country_code3': 'GRC', 'geonameid': '8533838', 'place_name': 'Tympaki Airport', 'feature_class': 'S', 'feature_code': 'AIRP'}}

@@ -1,9 +1,0 @@
-{'word': 'Strigocis', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Strigocis', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Gerais', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Minas Gerais', 'lat': '-18', 'lon': '-44', 'country_code3': 'BRA', 'geonameid': '3457153', 'place_name': 'Minas Gerais', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Brazil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-55', 'country_code3': 'BRA', 'geonameid': '3469034', 'place_name': 'Federative Republic of Brazil', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Strigocis', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': '0.75', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Wisconsin', 'lat': '45.21163', 'lon': '-91.21515', 'country_code3': 'USA', 'geonameid': '5256961', 'place_name': 'Horseshoe Flowage 0.75', 'feature_class': 'H', 'feature_code': 'RSV'}}
-{'word': 'Strigocis', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Strigocis', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Strigocis', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}

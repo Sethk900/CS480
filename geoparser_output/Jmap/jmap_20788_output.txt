@@ -1,4 +1,0 @@
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'Vancouver', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'British Columbia', 'lat': '49.65064', 'lon': '-125.44939', 'country_code3': 'CAN', 'geonameid': '6173336', 'place_name': 'Vancouver Island', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Vancouver', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'British Columbia', 'lat': '49.65064', 'lon': '-125.44939', 'country_code3': 'CAN', 'geonameid': '6173336', 'place_name': 'Vancouver Island', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

@@ -1,0 +1,6 @@
+{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Baltic', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
+{'word': 'Baltic', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
+{'word': 'Finland', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FIN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '64', 'lon': '26', 'country_code3': 'FIN', 'geonameid': '660013', 'place_name': 'Republic of Finland', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Souissi', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MAR', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '33.95537', 'lon': '-6.81587', 'country_code3': 'MAR', 'geonameid': '6545729', 'place_name': 'Souissi', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Baltic', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}

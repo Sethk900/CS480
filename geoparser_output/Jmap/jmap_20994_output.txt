@@ -1,5 +1,0 @@
-{'word': 'Latreille', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Western Australia', 'lat': '-17.83333', 'lon': '122.18333', 'country_code3': 'AUS', 'geonameid': '2067399', 'place_name': 'Cape Latreille', 'feature_class': 'T', 'feature_code': 'PT'}}
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'Liaoning', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Liaoning', 'lat': '41.25', 'lon': '122.66667', 'country_code3': 'CHN', 'geonameid': '2036115', 'place_name': 'Liaoning Sheng', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Province', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AGO', 'country_conf': 0.28365934}
-{'word': 'China', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.68758196, 'geo': {'admin1': 'Hubei', 'lat': '30.52047', 'lon': '114.39637', 'country_code3': 'CHN', 'geonameid': '6620465', 'place_name': 'China University of Geosciences', 'feature_class': 'S', 'feature_code': 'SCHC'}}

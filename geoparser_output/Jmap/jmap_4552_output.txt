@@ -1,1 +1,0 @@
-{'word': 'lunata', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9528109, 'geo': {'admin1': 'Quintana Roo', 'lat': '20.62528', 'lon': '-87.07346', 'country_code3': 'MEX', 'geonameid': '10277535', 'place_name': 'Hotel Lunata', 'feature_class': 'S', 'feature_code': 'HTL'}}

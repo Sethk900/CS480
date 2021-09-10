@@ -1,1 +1,0 @@
-{'word': 'Afghanistan', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'AFG', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '33', 'lon': '66', 'country_code3': 'AFG', 'geonameid': '1149361', 'place_name': 'Islamic Republic of Afghanistan', 'feature_class': 'A', 'feature_code': 'PCLI'}}

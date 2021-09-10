@@ -1,7 +1,0 @@
-{'word': 'Colombia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'COL', 'country_conf': 0.9516948, 'geo': {'admin1': 'Atlntico', 'lat': '11.00854', 'lon': '-74.90887', 'country_code3': 'COL', 'geonameid': '3671506', 'place_name': 'Puerto Colombia', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Colombia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'COL', 'country_conf': 0.9516948, 'geo': {'admin1': 'Atlntico', 'lat': '11.00854', 'lon': '-74.90887', 'country_code3': 'COL', 'geonameid': '3671506', 'place_name': 'Puerto Colombia', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Colombia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'COL', 'country_conf': 0.9516948, 'geo': {'admin1': 'Atlntico', 'lat': '11.00854', 'lon': '-74.90887', 'country_code3': 'COL', 'geonameid': '3671506', 'place_name': 'Puerto Colombia', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Zammara', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NGA', 'country_conf': 0.5339668}
-{'word': 'Plautilla', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.5339668}
-{'word': 'Taphura', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IND', 'country_conf': 0.5714737}
-{'word': 'Colombia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'COL', 'country_conf': 0.9516948, 'geo': {'admin1': 'Atlntico', 'lat': '11.00854', 'lon': '-74.90887', 'country_code3': 'COL', 'geonameid': '3671506', 'place_name': 'Puerto Colombia', 'feature_class': 'A', 'feature_code': 'ADM2'}}

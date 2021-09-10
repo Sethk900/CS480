@@ -1,0 +1,6 @@
+{'word': 'sublineatus', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'sublineatus', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'sublineatus', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'sublineatus', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'India', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IND', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '79', 'country_code3': 'IND', 'geonameid': '1269750', 'place_name': 'Republic of India', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Lanka', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'LKA', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '7.75', 'lon': '80.75', 'country_code3': 'LKA', 'geonameid': '1227603', 'place_name': 'Democratic Socialist Republic of Sri Lanka', 'feature_class': 'A', 'feature_code': 'PCLI'}}

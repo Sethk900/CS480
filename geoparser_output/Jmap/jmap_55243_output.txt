@@ -1,1 +1,0 @@
-{'word': 'trapezia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CYP', 'country_conf': 0.5714737}

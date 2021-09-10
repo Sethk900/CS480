@@ -1,1 +1,0 @@
-{'word': 'Yucatan', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MEX', 'country_conf': 0.87992215, 'geo': {'admin1': 'Yucatn', 'lat': '20.75', 'lon': '-88.83333', 'country_code3': 'MEX', 'geonameid': '3514211', 'place_name': 'Estado de Yucatn', 'feature_class': 'A', 'feature_code': 'ADM1'}}

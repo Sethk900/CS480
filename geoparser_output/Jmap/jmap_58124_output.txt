@@ -1,2 +1,0 @@
-{'word': 'Folsom', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'California', 'lat': '38.67796', 'lon': '-121.17606', 'country_code3': 'USA', 'geonameid': '5349705', 'place_name': 'Folsom', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

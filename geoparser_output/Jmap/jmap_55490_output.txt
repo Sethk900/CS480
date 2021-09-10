@@ -1,4 +1,0 @@
-{'word': 'Dartmoor', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.9048774, 'geo': {'admin1': 'Victoria', 'lat': '-37.92225', 'lon': '141.2749', 'country_code3': 'AUS', 'geonameid': '2169349', 'place_name': 'Dartmoor', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
-{'word': 'Scotland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
-{'word': 'Dartmoor', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.9048774, 'geo': {'admin1': 'Victoria', 'lat': '-37.92225', 'lon': '141.2749', 'country_code3': 'AUS', 'geonameid': '2169349', 'place_name': 'Dartmoor', 'feature_class': 'P', 'feature_code': 'PPL'}}

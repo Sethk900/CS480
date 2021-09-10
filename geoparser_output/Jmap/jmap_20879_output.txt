@@ -1,2 +1,0 @@
-{'word': 'mouhoti', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GAB', 'country_conf': 0.5714737}
-{'word': 'mouhoti', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GAB', 'country_conf': 0.5714737}

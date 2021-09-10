@@ -1,4 +1,0 @@
-{'word': 'pyrolyzed', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'pyrolyzed', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'C2H2', 'spans': [{'start': 1, 'end': 5}], 'country_predicted': 'CAN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Quebec', 'lat': '46.81228', 'lon': '-71.21454', 'country_code3': 'CAN', 'geonameid': '6325494', 'place_name': 'Qubec', 'feature_class': 'P', 'feature_code': 'PPLA'}}
-{'word': 'C2H2', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Quebec', 'lat': '46.81228', 'lon': '-71.21454', 'country_code3': 'CAN', 'geonameid': '6325494', 'place_name': 'Qubec', 'feature_class': 'P', 'feature_code': 'PPLA'}}

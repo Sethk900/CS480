@@ -1,1 +1,0 @@
-{'word': 'Philippi', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'West Virginia', 'lat': '39.15232', 'lon': '-80.04036', 'country_code3': 'USA', 'geonameid': '4818074', 'place_name': 'Philippi', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

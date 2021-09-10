@@ -1,2 +1,0 @@
-{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Pursh', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'RUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Sakhalin', 'lat': '50.66244', 'lon': '143.69682', 'country_code3': 'RUS', 'geonameid': '2121763', 'place_name': 'Pursh-Pursh', 'feature_class': 'H', 'feature_code': 'STM'}}

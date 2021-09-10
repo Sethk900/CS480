@@ -1,1 +1,0 @@
-{'word': 'Munich', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.957188, 'geo': {'admin1': 'Bavaria', 'lat': '48.13743', 'lon': '11.57549', 'country_code3': 'DEU', 'geonameid': '2867714', 'place_name': 'Munich', 'feature_class': 'P', 'feature_code': 'PPLA'}}

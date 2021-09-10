@@ -1,4 +1,0 @@
-{'word': 'Sonora', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
-{'word': 'Sonora', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
-{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Hermosillo', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'MEX', 'country_conf': 0.87992215, 'geo': {'admin1': 'Sonora', 'lat': '29.1026', 'lon': '-110.97732', 'country_code3': 'MEX', 'geonameid': '4004898', 'place_name': 'Hermosillo', 'feature_class': 'P', 'feature_code': 'PPLA'}}

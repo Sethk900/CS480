@@ -1,1 +1,0 @@
-{'word': 'BAJA', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'HUN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Bcs-Kiskun', 'lat': '46.18299', 'lon': '18.95307', 'country_code3': 'HUN', 'geonameid': '3055685', 'place_name': 'Baja', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

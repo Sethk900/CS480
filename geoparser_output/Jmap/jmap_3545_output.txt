@@ -1,6 +1,0 @@
-{'word': 'Lassen', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '40.67359', 'lon': '-120.59433', 'country_code3': 'USA', 'geonameid': '5566544', 'place_name': 'Lassen County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'Lassen', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '40.67359', 'lon': '-120.59433', 'country_code3': 'USA', 'geonameid': '5566544', 'place_name': 'Lassen County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

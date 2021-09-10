@@ -1,1 +1,0 @@
-{'word': 'Mazatlan', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MEX', 'country_conf': 0.96374094, 'geo': {'admin1': 'Sinaloa', 'lat': '23.2329', 'lon': '-106.4062', 'country_code3': 'MEX', 'geonameid': '3996322', 'place_name': 'Mazatln', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

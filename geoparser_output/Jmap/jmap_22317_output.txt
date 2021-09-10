@@ -1,2 +1,0 @@
-{'word': 'Konstantinov', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'UKR', 'country_conf': 0.5339668}
-{'word': 'Brazil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-55', 'country_code3': 'BRA', 'geonameid': '3469034', 'place_name': 'Federative Republic of Brazil', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,4 @@
+{'word': 'Kazakhstan', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'KAZ', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '48', 'lon': '68', 'country_code3': 'KAZ', 'geonameid': '1522867', 'place_name': 'Republic of Kazakhstan', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'bacescui', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Romania', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ROU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '25', 'country_code3': 'ROU', 'geonameid': '798549', 'place_name': 'Romnia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Kazakhstan', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'KAZ', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '48', 'lon': '68', 'country_code3': 'KAZ', 'geonameid': '1522867', 'place_name': 'Republic of Kazakhstan', 'feature_class': 'A', 'feature_code': 'PCLI'}}

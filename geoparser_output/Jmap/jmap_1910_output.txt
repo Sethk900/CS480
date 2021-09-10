@@ -1,1 +1,0 @@
-{'word': 'Brazil.</li><li', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': 'CAN', 'country_conf': 0.5339668}

@@ -1,3 +1,0 @@
-{'word': 'Bulgaria', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BGR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '42.66667', 'lon': '25.25', 'country_code3': 'BGR', 'geonameid': '732800', 'place_name': 'Republic of Bulgaria', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Mill', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'Bulgaria', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BGR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '42.66667', 'lon': '25.25', 'country_code3': 'BGR', 'geonameid': '732800', 'place_name': 'Republic of Bulgaria', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,1 +1,0 @@
-{'word': 'RUE', 'spans': [{'start': 1, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.957188, 'geo': {'admin1': 'Hauts-de-France', 'lat': '50.2715', 'lon': '1.67163', 'country_code3': 'FRA', 'geonameid': '2982261', 'place_name': 'Rue', 'feature_class': 'P', 'feature_code': 'PPL'}}

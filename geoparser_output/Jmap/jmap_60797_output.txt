@@ -1,1 +1,0 @@
-{'word': 'Bremen', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.957188, 'geo': {'admin1': 'Bremen', 'lat': '53.08333', 'lon': '8.83333', 'country_code3': 'DEU', 'geonameid': '2944387', 'place_name': 'Bremen', 'feature_class': 'A', 'feature_code': 'ADM1'}}

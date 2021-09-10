@@ -1,4 +1,0 @@
-{'word': 'Paran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
-{'word': 'Paran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
-{'word': 'Porto', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PRT', 'country_conf': 0.957188, 'geo': {'admin1': 'Porto', 'lat': '41.14961', 'lon': '-8.61099', 'country_code3': 'PRT', 'geonameid': '2735943', 'place_name': 'Porto', 'feature_class': 'P', 'feature_code': 'PPLA'}}
-{'word': 'Brazil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-55', 'country_code3': 'BRA', 'geonameid': '3469034', 'place_name': 'Federative Republic of Brazil', 'feature_class': 'A', 'feature_code': 'PCLI'}}

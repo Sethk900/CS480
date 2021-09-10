@@ -1,3 +1,0 @@
-{'word': 'coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
-{'word': 'africanae', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CAF', 'country_conf': 0.92213035, 'geo': {'admin1': 'NA', 'lat': '7', 'lon': '21', 'country_code3': 'CAF', 'geonameid': '239880', 'place_name': 'Central African Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'africanae', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CAF', 'country_conf': 0.92213035, 'geo': {'admin1': 'NA', 'lat': '7', 'lon': '21', 'country_code3': 'CAF', 'geonameid': '239880', 'place_name': 'Central African Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}

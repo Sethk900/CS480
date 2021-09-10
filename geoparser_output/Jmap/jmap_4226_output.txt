@@ -1,1 +1,0 @@
-{'word': 'sympatry', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Tasmania', 'lat': '-43.04132', 'lon': '147.84546', 'country_code3': 'AUS', 'geonameid': '8163008', 'place_name': 'Sympathy Hills Private Nature Reserve', 'feature_class': 'L', 'feature_code': 'RES'}}

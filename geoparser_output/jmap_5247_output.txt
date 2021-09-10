@@ -1,0 +1,4 @@
+{'word': 'brittenae', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'brittenae', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'brittenae', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'brittenae', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}

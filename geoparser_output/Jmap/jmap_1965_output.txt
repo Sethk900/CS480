@@ -1,2 +1,0 @@
-{'word': 'Decatur', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Illinois', 'lat': '39.84031', 'lon': '-88.9548', 'country_code3': 'USA', 'geonameid': '4236895', 'place_name': 'Decatur', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
-{'word': 'kaolinitic', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}

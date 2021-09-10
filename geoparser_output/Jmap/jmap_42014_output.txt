@@ -1,1 +1,0 @@
-{'word': 'Ussr', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'NA', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '60', 'lon': '98', 'country_code3': 'NA', 'geonameid': '8354411', 'place_name': 'Union of Soviet Socialist Republics', 'feature_class': 'A', 'feature_code': 'PCLH'}}

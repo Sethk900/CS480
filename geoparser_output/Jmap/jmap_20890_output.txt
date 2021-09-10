@@ -1,2 +1,0 @@
-{'word': 'North-West', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.28365934}
-{'word': 'Pilbara', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'AUS', 'country_conf': 0.9048774, 'geo': {'admin1': 'Western Australia', 'lat': '-21.61331', 'lon': '123.71368', 'country_code3': 'AUS', 'geonameid': '7839505', 'place_name': 'East Pilbara', 'feature_class': 'A', 'feature_code': 'ADM2'}}

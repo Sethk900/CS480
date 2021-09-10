@@ -1,6 +1,0 @@
-{'word': 'Depreissia', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'decipiens', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Borneo', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IDN', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '1', 'lon': '114', 'country_code3': 'IDN', 'geonameid': '1648148', 'place_name': 'Borneo', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Sabah', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MYS', 'country_conf': 0.28365934}
-{'word': 'Borneo', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IDN', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '1', 'lon': '114', 'country_code3': 'IDN', 'geonameid': '1648148', 'place_name': 'Borneo', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Kinabalu', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MYS', 'country_conf': 0.87992215, 'geo': {'admin1': 'Sabah', 'lat': '5.9749', 'lon': '116.0724', 'country_code3': 'MYS', 'geonameid': '1733432', 'place_name': 'Kota Kinabalu', 'feature_class': 'P', 'feature_code': 'PPLA'}}

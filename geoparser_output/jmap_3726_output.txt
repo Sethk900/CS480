@@ -1,0 +1,2 @@
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'AZ', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}

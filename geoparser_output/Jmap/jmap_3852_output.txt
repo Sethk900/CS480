@@ -1,1 +1,0 @@
-{'word': 'Terre', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GLP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Guadeloupe', 'lat': '16.16667', 'lon': '-61.66667', 'country_code3': 'GLP', 'geonameid': '3579731', 'place_name': 'Arrondissement de la Basse-Terre', 'feature_class': 'A', 'feature_code': 'ADM3'}}

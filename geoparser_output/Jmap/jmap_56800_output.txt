@@ -1,5 +1,0 @@
-{'word': 'colluvia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Okinawa', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'JPN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Okinawa', 'lat': '26.5', 'lon': '127.93333', 'country_code3': 'JPN', 'geonameid': '1854345', 'place_name': 'Okinawa', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'colluvia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'colluvia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Nc', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IND', 'country_conf': 0.9048774, 'geo': {'admin1': 'Assam', 'lat': '27.29429', 'lon': '94.20387', 'country_code3': 'IND', 'geonameid': '9035240', 'place_name': 'Salikipara NC', 'feature_class': 'P', 'feature_code': 'PPL'}}

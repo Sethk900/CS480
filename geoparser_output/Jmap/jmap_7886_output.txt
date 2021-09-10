@@ -1,1 +1,0 @@
-{'word': 'poplar', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Montana', 'lat': '48.11307', 'lon': '-105.19831', 'country_code3': 'USA', 'geonameid': '5672096', 'place_name': 'Poplar', 'feature_class': 'P', 'feature_code': 'PPL'}}

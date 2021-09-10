@@ -1,3 +1,0 @@
-{'word': 'glacierized', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Bishkek', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KGZ', 'country_conf': 0.96374094, 'geo': {'admin1': 'Bishkek', 'lat': '42.87', 'lon': '74.59', 'country_code3': 'KGZ', 'geonameid': '1528675', 'place_name': 'Bishkek', 'feature_class': 'P', 'feature_code': 'PPLC'}}
-{'word': 'Almaty', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'KAZ', 'country_conf': 0.96374094, 'geo': {'admin1': 'Almaty Qalasy', 'lat': '43.25667', 'lon': '76.92861', 'country_code3': 'KAZ', 'geonameid': '1526384', 'place_name': 'Almaty', 'feature_class': 'P', 'feature_code': 'PPLA'}}

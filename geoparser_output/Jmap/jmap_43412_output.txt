@@ -1,2 +1,0 @@
-{'word': 'Crete', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GRC', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '35.34194', 'lon': '25.14238', 'country_code3': 'GRC', 'geonameid': '258763', 'place_name': 'Crete', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Greece', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'GRC', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '39', 'lon': '22', 'country_code3': 'GRC', 'geonameid': '390903', 'place_name': 'Hellenic Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}

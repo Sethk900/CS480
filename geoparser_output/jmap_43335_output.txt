@@ -1,0 +1,1 @@
+{'word': 'Nicaragua', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NIC', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '13', 'lon': '-85', 'country_code3': 'NIC', 'geonameid': '3617476', 'place_name': 'Republic of Nicaragua', 'feature_class': 'A', 'feature_code': 'PCLI'}}

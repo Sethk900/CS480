@@ -1,4 +1,0 @@
-{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
-{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
-{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
-{'word': 'Charlotte', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'North Carolina', 'lat': '35.22709', 'lon': '-80.84313', 'country_code3': 'USA', 'geonameid': '4460243', 'place_name': 'Charlotte', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

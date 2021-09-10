@@ -1,1 +1,0 @@
-{'word': 'Morocco', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MAR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '32', 'lon': '-6', 'country_code3': 'MAR', 'geonameid': '2542007', 'place_name': 'Kingdom of Morocco', 'feature_class': 'A', 'feature_code': 'PCLI'}}

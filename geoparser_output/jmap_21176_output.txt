@@ -1,0 +1,1 @@
+{'word': 'Edinburgh', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GBR', 'country_conf': 0.96374094, 'geo': {'admin1': 'Scotland', 'lat': '55.94973', 'lon': '-3.19333', 'country_code3': 'GBR', 'geonameid': '3333229', 'place_name': 'City of Edinburgh', 'feature_class': 'A', 'feature_code': 'ADM2'}}

@@ -1,1 +1,0 @@
-{'word': 'Linden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GUY', 'country_conf': 0.87992215, 'geo': {'admin1': 'Upper Demerara-Berbice', 'lat': '6.00809', 'lon': '-58.30714', 'country_code3': 'GUY', 'geonameid': '3377408', 'place_name': 'Linden', 'feature_class': 'P', 'feature_code': 'PPLA'}}

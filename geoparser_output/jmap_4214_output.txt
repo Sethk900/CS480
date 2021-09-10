@@ -1,0 +1,1 @@
+{'word': 'Brull', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}

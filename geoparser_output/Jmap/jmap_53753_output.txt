@@ -1,2 +1,0 @@
-{'word': 'Ladakh', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IND', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '34.09712', 'lon': '77.34688', 'country_code3': 'IND', 'geonameid': '12096464', 'place_name': 'Ladakh', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Ladakh', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IND', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '34.09712', 'lon': '77.34688', 'country_code3': 'IND', 'geonameid': '12096464', 'place_name': 'Ladakh', 'feature_class': 'A', 'feature_code': 'ADM1'}}

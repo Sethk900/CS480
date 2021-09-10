@@ -1,3 +1,0 @@
-{'word': 'Herczek', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'HRV', 'country_conf': 0.9528109, 'geo': {'admin1': 'Osjeko-Baranjska', 'lat': '45.84111', 'lon': '18.76944', 'country_code3': 'HRV', 'geonameid': '3200750', 'place_name': 'Gaji', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Baltic', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
-{'word': 'Baltic', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}

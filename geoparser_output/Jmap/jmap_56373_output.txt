@@ -1,4 +1,0 @@
-{'word': 'Everglades', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Florida', 'lat': '25.8601', 'lon': '-81.38036', 'country_code3': 'USA', 'geonameid': '4154657', 'place_name': 'Everglades City', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
-{'word': 'Everglades', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Florida', 'lat': '25.8601', 'lon': '-81.38036', 'country_code3': 'USA', 'geonameid': '4154657', 'place_name': 'Everglades City', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}

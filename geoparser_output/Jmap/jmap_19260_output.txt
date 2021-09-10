@@ -1,1 +1,0 @@
-{'word': 'Giza', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'EGY', 'country_conf': 0.96374094, 'geo': {'admin1': 'Giza', 'lat': '29.99776', 'lon': '31.05286', 'country_code3': 'EGY', 'geonameid': '360997', 'place_name': 'Mufazat al Jzah', 'feature_class': 'A', 'feature_code': 'ADM1'}}

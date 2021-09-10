@@ -1,2 +1,0 @@
-{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
-{'word': 'Tampa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Florida', 'lat': '27.94752', 'lon': '-82.45843', 'country_code3': 'USA', 'geonameid': '4174757', 'place_name': 'Tampa', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

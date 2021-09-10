@@ -1,3 +1,0 @@
-{'word': 'glandulosa', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NER', 'country_conf': 0.24821267}
-{'word': 'Plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}

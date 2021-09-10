@@ -1,0 +1,1 @@
+{'word': 'Mombasa', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KEN', 'country_conf': 0.96374094, 'geo': {'admin1': 'Mombasa', 'lat': '-4.02', 'lon': '39.66667', 'country_code3': 'KEN', 'geonameid': '186298', 'place_name': 'Mombasa', 'feature_class': 'A', 'feature_code': 'ADM1'}}

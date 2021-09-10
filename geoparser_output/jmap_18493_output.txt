@@ -1,0 +1,6 @@
+{'word': 'piedmont', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'California', 'lat': '37.82437', 'lon': '-122.23163', 'country_code3': 'USA', 'geonameid': '5382514', 'place_name': 'Piedmont', 'feature_class': 'P', 'feature_code': 'PPLX'}}
+{'word': 'brevifolia', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NIU', 'country_conf': 0.24821267}
+{'word': 'Helictotrichon', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Nitraria', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Phragmites', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'South Dakota', 'lat': '45.42146', 'lon': '-97.34724', 'country_code3': 'USA', 'geonameid': '5230407', 'place_name': 'Phragmites Pond', 'feature_class': 'H', 'feature_code': 'LK'}}
+{'word': 'piedmont', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'California', 'lat': '37.82437', 'lon': '-122.23163', 'country_code3': 'USA', 'geonameid': '5382514', 'place_name': 'Piedmont', 'feature_class': 'P', 'feature_code': 'PPLX'}}

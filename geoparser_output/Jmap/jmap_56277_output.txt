@@ -1,3 +1,0 @@
-{'word': 'South-East', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.28365934}
-{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Pa-F', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'BEL', 'country_conf': 0.9048774, 'geo': {'admin1': 'Wallonia', 'lat': '50.44474', 'lon': '5.96837', 'country_code3': 'BEL', 'geonameid': '7535477', 'place_name': 'Circuit de Spa-Francorchamps', 'feature_class': 'S', 'feature_code': 'RECR'}}

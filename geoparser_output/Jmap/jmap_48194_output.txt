@@ -1,5 +1,0 @@
-{'word': 'Virginia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.19161284}
-{'word': 'Maryland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Maryland', 'lat': '39.00039', 'lon': '-76.74997', 'country_code3': 'USA', 'geonameid': '4361885', 'place_name': 'Maryland', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Pennsylvania', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Pennsylvania', 'lat': '40.8', 'lon': '-77.7', 'country_code3': 'USA', 'geonameid': '6254927', 'place_name': 'Pennsylvania', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Maryland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Maryland', 'lat': '39.00039', 'lon': '-76.74997', 'country_code3': 'USA', 'geonameid': '4361885', 'place_name': 'Maryland', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Creek', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CYM', 'country_conf': 0.28868946}

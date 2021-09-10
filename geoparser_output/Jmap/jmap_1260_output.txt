@@ -1,2 +1,0 @@
-{'word': 'Ayr', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'GBR', 'country_conf': 0.957188, 'geo': {'admin1': 'Scotland', 'lat': '55.69694', 'lon': '-4.73373', 'country_code3': 'GBR', 'geonameid': '3333232', 'place_name': 'North Ayrshire', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Scotland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}

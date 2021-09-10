@@ -1,1 +1,0 @@
-{'word': 'Peru', 'spans': [{'start': 1, 'end': 5}], 'country_predicted': 'PER', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-75.25', 'country_code3': 'PER', 'geonameid': '3932488', 'place_name': 'Republic of Peru', 'feature_class': 'A', 'feature_code': 'PCLI'}}

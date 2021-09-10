@@ -1,7 +1,0 @@
-{'word': 'Musaceae', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.9528109, 'geo': {'admin1': 'So Paulo', 'lat': '-24.25', 'lon': '-47.33333', 'country_code3': 'BRA', 'geonameid': '3456472', 'place_name': 'Muscea', 'feature_class': 'S', 'feature_code': 'RSTN'}}
-{'word': 'Costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
-{'word': 'histrionica', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'longiflora', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'crotalifera', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'histrionica', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}

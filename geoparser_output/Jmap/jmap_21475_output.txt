@@ -1,3 +1,0 @@
-{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'Beddard', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CAN', 'country_conf': 0.5714737}

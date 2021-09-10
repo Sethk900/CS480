@@ -1,3 +1,0 @@
-{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'longula', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'COD', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '-6.02122', 'lon': '24.99667', 'country_code3': 'COD', 'geonameid': '216770', 'place_name': 'Elangula', 'feature_class': 'P', 'feature_code': 'PPL'}}

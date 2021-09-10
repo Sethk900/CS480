@@ -1,3 +1,0 @@
-{'word': 'Brazil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-55', 'country_code3': 'BRA', 'geonameid': '3469034', 'place_name': 'Federative Republic of Brazil', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Norte', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ESP', 'country_conf': 0.28365934}
-{'word': 'Puerto', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GTM', 'country_conf': 0.87992215, 'geo': {'admin1': 'Izabal', 'lat': '15.72778', 'lon': '-88.59444', 'country_code3': 'GTM', 'geonameid': '3591062', 'place_name': 'Puerto Barrios', 'feature_class': 'P', 'feature_code': 'PPLA'}}

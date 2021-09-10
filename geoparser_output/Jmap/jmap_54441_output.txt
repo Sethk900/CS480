@@ -1,3 +1,0 @@
-{'word': 'Belgium', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BEL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '50.75', 'lon': '4.5', 'country_code3': 'BEL', 'geonameid': '2802361', 'place_name': 'Kingdom of Belgium', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'oaks', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '34.15112', 'lon': '-118.44925', 'country_code3': 'USA', 'geonameid': '5395244', 'place_name': 'Sherman Oaks', 'feature_class': 'P', 'feature_code': 'PPLX'}}
-{'word': 'pines', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}

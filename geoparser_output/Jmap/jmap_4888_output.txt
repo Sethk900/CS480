@@ -1,1 +1,0 @@
-{'word': 'lampas', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PRT', 'country_conf': 0.5339668}

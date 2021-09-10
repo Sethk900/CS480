@@ -1,3 +1,0 @@
-{'word': 'Jabal', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IRN', 'country_conf': 0.28868946}
-{'word': 'Emirates', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ARE', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '23.75', 'lon': '54.5', 'country_code3': 'ARE', 'geonameid': '290557', 'place_name': 'United Arab Emirates', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'UAE', 'spans': [{'start': 1, 'end': 4}], 'country_predicted': 'ARE', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '23.75', 'lon': '54.5', 'country_code3': 'ARE', 'geonameid': '290557', 'place_name': 'United Arab Emirates', 'feature_class': 'A', 'feature_code': 'PCLI'}}

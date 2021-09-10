@@ -1,1 +1,0 @@
-{'word': 'Yamaguti', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'JPN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Yamaguchi', 'lat': '34.2', 'lon': '131.56667', 'country_code3': 'JPN', 'geonameid': '1848681', 'place_name': 'Yamaguchi', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,2 +1,0 @@
-{'word': 'Oregon', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Oregon', 'lat': '44.00013', 'lon': '-120.50139', 'country_code3': 'USA', 'geonameid': '5744337', 'place_name': 'Oregon', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Creek', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CYM', 'country_conf': 0.28868946}

@@ -1,5 +1,0 @@
-{'word': 'Westwood', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Massachusetts', 'lat': '42.21399', 'lon': '-71.2245', 'country_code3': 'USA', 'geonameid': '4955317', 'place_name': 'Westwood', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'minuscula', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CAN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Quebec', 'lat': '46.38729', 'lon': '-74.57284', 'country_code3': 'CAN', 'geonameid': '5950031', 'place_name': 'tang Minuscule', 'feature_class': 'H', 'feature_code': 'PND'}}

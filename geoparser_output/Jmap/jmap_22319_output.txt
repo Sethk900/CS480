@@ -1,2 +1,0 @@
-{'word': 'Polynesia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'PYF', 'country_conf': 0.6353264, 'geo': {'admin1': 'NA', 'lat': '-15', 'lon': '-140', 'country_code3': 'PYF', 'geonameid': '4030656', 'place_name': 'French Polynesia', 'feature_class': 'A', 'feature_code': 'PCLD'}}
-{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}

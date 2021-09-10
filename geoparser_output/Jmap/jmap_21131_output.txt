@@ -1,1 +1,0 @@
-{'word': 'Cancun', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.957188, 'geo': {'admin1': 'Quintana Roo', 'lat': '21.17429', 'lon': '-86.84656', 'country_code3': 'MEX', 'geonameid': '3531673', 'place_name': 'Cancn', 'feature_class': 'P', 'feature_code': 'PPL'}}

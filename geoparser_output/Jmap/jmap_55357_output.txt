@@ -1,4 +1,0 @@
-{'word': 'granodioritic', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
-{'word': 'corestones', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'MEX', 'country_conf': 0.9528109, 'geo': {'admin1': 'Baja California Sur', 'lat': '23.35414', 'lon': '-110.13087', 'country_code3': 'MEX', 'geonameid': '8928187', 'place_name': 'Los Crestones', 'feature_class': 'P', 'feature_code': 'PPL'}}

@@ -1,0 +1,7 @@
+{'word': 'Britain', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '54.75844', 'lon': '-2.69531', 'country_code3': 'GBR', 'geonameid': '2635167', 'place_name': 'United Kingdom of Great Britain and Northern Ireland', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Wales', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'mid-Wales', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GBR', 'country_conf': 0.96374094, 'geo': {'admin1': 'Wales', 'lat': '52.62895', 'lon': '-3.15284', 'country_code3': 'GBR', 'geonameid': '8532055', 'place_name': 'Welshpool Airport', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Wales', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'pyrenaica', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'LBY', 'country_conf': 0.5714737}
+{'word': 'lobata', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PRT', 'country_conf': 0.28868946}
+{'word': 'lobata', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PRT', 'country_conf': 0.28868946}

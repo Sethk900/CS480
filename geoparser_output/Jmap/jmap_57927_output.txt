@@ -1,1 +1,0 @@
-{'word': 'Iraq', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IRQ', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '33', 'lon': '44', 'country_code3': 'IRQ', 'geonameid': '99237', 'place_name': 'Republic of Iraq', 'feature_class': 'A', 'feature_code': 'PCLI'}}

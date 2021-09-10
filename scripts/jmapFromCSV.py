@@ -14,7 +14,7 @@ input_files = (
     ('jmap_articles.csv','article'),
     ('jmap_locations.csv','location')
 )
-output_folder = 'processed_files'
+output_folder = 'processed_files/Jmap'
 output_file = 'jmap_data.json'
 
 os.chdir('./'+input_folder)

@@ -1,1 +1,0 @@
-{'word': 'hillcrest', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9048774, 'geo': {'admin1': 'Queensland', 'lat': '-27.66857', 'lon': '153.02614', 'country_code3': 'AUS', 'geonameid': '8348280', 'place_name': 'Hillcrest', 'feature_class': 'P', 'feature_code': 'PPLX'}}

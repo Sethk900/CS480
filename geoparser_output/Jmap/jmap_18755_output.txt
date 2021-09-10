@@ -1,1 +1,0 @@
-{'word': 'degreeC', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BGD', 'country_conf': 0.5714737}

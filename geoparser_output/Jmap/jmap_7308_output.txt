@@ -1,2 +1,0 @@
-{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
-{'word': 'Piemonte', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '45', 'lon': '8', 'country_code3': 'ITA', 'geonameid': '3170831', 'place_name': 'Piemonte', 'feature_class': 'A', 'feature_code': 'ADM1'}}

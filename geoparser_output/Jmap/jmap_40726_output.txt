@@ -1,1 +1,0 @@
-{'word': 'nexila', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9528109, 'geo': {'admin1': 'Oaxaca', 'lat': '16.63429', 'lon': '-96.8503', 'country_code3': 'MEX', 'geonameid': '3801846', 'place_name': 'Santa Cruz Nexila', 'feature_class': 'P', 'feature_code': 'PPL'}}

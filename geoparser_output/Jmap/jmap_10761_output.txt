@@ -1,3 +1,0 @@
-{'word': 'Springfield', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'IRL', 'country_conf': 0.28365934}
-{'word': 'S.D.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Georgia', 'lat': '33.63955', 'lon': '-84.47021', 'country_code3': 'USA', 'geonameid': '4220238', 'place_name': 'S.D. Sid Truitt 4-H Camp', 'feature_class': 'S', 'feature_code': 'CMP'}}
-{'word': 'Mississippi', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Mississippi', 'lat': '32.75041', 'lon': '-89.75036', 'country_code3': 'USA', 'geonameid': '4436296', 'place_name': 'Mississippi', 'feature_class': 'A', 'feature_code': 'ADM1'}}

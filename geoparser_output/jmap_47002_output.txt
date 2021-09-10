@@ -1,0 +1,1 @@
+{'word': 'Subsp', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GBR', 'country_conf': 0.5714737}

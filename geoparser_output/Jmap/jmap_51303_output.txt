@@ -1,2 +1,0 @@
-{'word': 'rheophila', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Borneo', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IDN', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '1', 'lon': '114', 'country_code3': 'IDN', 'geonameid': '1648148', 'place_name': 'Borneo', 'feature_class': 'T', 'feature_code': 'ISL'}}

@@ -1,1 +1,0 @@
-{'word': 'Ovule', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CAN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Quebec', 'lat': '47.26683', 'lon': '-75.79929', 'country_code3': 'CAN', 'geonameid': '6036111', 'place_name': 'Lac Ovule', 'feature_class': 'H', 'feature_code': 'PND'}}

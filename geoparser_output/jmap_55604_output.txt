@@ -1,0 +1,2 @@
+{'word': 'syringic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Sweden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'SWE', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '62', 'lon': '15', 'country_code3': 'SWE', 'geonameid': '2661886', 'place_name': 'Kingdom of Sweden', 'feature_class': 'A', 'feature_code': 'PCLI'}}

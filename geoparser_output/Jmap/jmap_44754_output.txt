@@ -1,1 +1,0 @@
-{'word': 'Pitcairn', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'PCN', 'country_conf': 0.6353264, 'geo': {'admin1': 'NA', 'lat': '-25.06667', 'lon': '-130.1', 'country_code3': 'PCN', 'geonameid': '4030699', 'place_name': 'Pitcairn, Henderson, Ducie and Oeno Islands', 'feature_class': 'A', 'feature_code': 'PCLD'}}

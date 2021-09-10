@@ -1,1 +1,0 @@
-{'word': 'seedbeds', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Northern Territory', 'lat': '-12.48935', 'lon': '130.98619', 'country_code3': 'AUS', 'geonameid': '8159637', 'place_name': 'Reedbeds Park', 'feature_class': 'L', 'feature_code': 'PRK'}}

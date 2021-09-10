@@ -1,1 +1,0 @@
-{'word': 'Tugela', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ZAF', 'country_conf': 0.5714737}

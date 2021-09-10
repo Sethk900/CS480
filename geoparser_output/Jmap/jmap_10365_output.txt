@@ -1,5 +1,0 @@
-{'word': 'Yellowstone', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Montana', 'lat': '45.93725', 'lon': '-108.27435', 'country_code3': 'USA', 'geonameid': '5687489', 'place_name': 'Yellowstone County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Yellowstone', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Montana', 'lat': '45.93725', 'lon': '-108.27435', 'country_code3': 'USA', 'geonameid': '5687489', 'place_name': 'Yellowstone County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'dash1994', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Yellowstone', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Montana', 'lat': '45.93725', 'lon': '-108.27435', 'country_code3': 'USA', 'geonameid': '5687489', 'place_name': 'Yellowstone County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'ROC', 'spans': [{'start': 1, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.28365934}

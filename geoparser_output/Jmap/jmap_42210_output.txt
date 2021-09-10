@@ -1,1 +1,0 @@
-{'word': 'Saluda', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'South Carolina', 'lat': '34.00614', 'lon': '-81.72692', 'country_code3': 'USA', 'geonameid': '4594698', 'place_name': 'Saluda County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

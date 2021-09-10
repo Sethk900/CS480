@@ -1,0 +1,5 @@
+{'word': 'North-East', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'Canaria', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ESP', 'country_conf': 0.957188, 'geo': {'admin1': 'Canary Islands', 'lat': '28', 'lon': '-15.5', 'country_code3': 'ESP', 'geonameid': '2593110', 'place_name': 'Canary Islands', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Canaria', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ESP', 'country_conf': 0.957188, 'geo': {'admin1': 'Canary Islands', 'lat': '28', 'lon': '-15.5', 'country_code3': 'ESP', 'geonameid': '2593110', 'place_name': 'Canary Islands', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Canaria', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ESP', 'country_conf': 0.957188, 'geo': {'admin1': 'Canary Islands', 'lat': '28', 'lon': '-15.5', 'country_code3': 'ESP', 'geonameid': '2593110', 'place_name': 'Canary Islands', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'palygorskite', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}

@@ -1,2 +1,0 @@
-{'word': 'JAPAN', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'JPN', 'country_conf': 0.96374094, 'geo': {'admin1': 'NA', 'lat': '35.68536', 'lon': '139.75309', 'country_code3': 'JPN', 'geonameid': '1861060', 'place_name': 'Japan', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'JAPAN', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'JPN', 'country_conf': 0.96374094, 'geo': {'admin1': 'NA', 'lat': '35.68536', 'lon': '139.75309', 'country_code3': 'JPN', 'geonameid': '1861060', 'place_name': 'Japan', 'feature_class': 'A', 'feature_code': 'PCLI'}}

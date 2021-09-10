@@ -1,0 +1,2 @@
+{'word': 'Altamont', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Oregon', 'lat': '42.20681', 'lon': '-121.73722', 'country_code3': 'USA', 'geonameid': '5711149', 'place_name': 'Altamont', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

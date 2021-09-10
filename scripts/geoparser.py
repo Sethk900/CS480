@@ -13,7 +13,7 @@ for inputfile in os.listdir("../processed_files/jmap"): # Only processing jmap r
 	outfilename = name + "_output.txt"
 	inputfile = "../processed_files/jmap/" + inputfile
 	print("Outfile name: "+outfilename)
-	if xmlfile.match(inputfile) and outfilename not in os.listdir("../geoparser_output"): # Only process XML files
+	if xmlfile.match(inputfile) and outfilename not in os.listdir("../geoparser_output/jmap"): # Only process XML files
 		#geo = Geoparser()
 		with open(inputfile, "r", encoding="utf-8") as infile:
 			print("Processing data from " + inputfile + "...")

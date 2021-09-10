@@ -1,3 +1,0 @@
-{'word': 'county', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'Henan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Heilongjiang', 'lat': '47.9658', 'lon': '126.01958', 'country_code3': 'CHN', 'geonameid': '8508304', 'place_name': 'Henan', 'feature_class': 'P', 'feature_code': 'PPLA4'}}
-{'word': 'China', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.68758196, 'geo': {'admin1': 'Hubei', 'lat': '30.52047', 'lon': '114.39637', 'country_code3': 'CHN', 'geonameid': '6620465', 'place_name': 'China University of Geosciences', 'feature_class': 'S', 'feature_code': 'SCHC'}}

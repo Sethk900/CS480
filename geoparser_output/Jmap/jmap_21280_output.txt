@@ -1,1 +1,0 @@
-{'word': 'Croatia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'HRV', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '45.16667', 'lon': '15.5', 'country_code3': 'HRV', 'geonameid': '3202326', 'place_name': 'Republic of Croatia', 'feature_class': 'A', 'feature_code': 'PCLI'}}

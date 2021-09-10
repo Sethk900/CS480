@@ -1,1 +1,0 @@
-{'word': 'Queensland', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'AUS', 'country_conf': 0.957188, 'geo': {'admin1': 'Queensland', 'lat': '-20', 'lon': '145', 'country_code3': 'AUS', 'geonameid': '2152274', 'place_name': 'State of Queensland', 'feature_class': 'A', 'feature_code': 'ADM1'}}

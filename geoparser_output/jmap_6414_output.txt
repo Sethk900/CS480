@@ -1,0 +1,3 @@
+{'word': 'grootteverspreiding', 'spans': [{'start': 0, 'end': 19}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'peil', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CZE', 'country_conf': 0.92213035, 'geo': {'admin1': 'Plzesk', 'lat': '49.74747', 'lon': '13.37759', 'country_code3': 'CZE', 'geonameid': '3068160', 'place_name': 'Pilsen', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'knolkwaliteit', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}

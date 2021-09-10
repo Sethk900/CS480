@@ -1,1 +1,0 @@
-{'word': 'Sodosol', 'spans': [{'start': 1, 'end': 8}], 'country_predicted': 'KOR', 'country_conf': 0.9528109, 'geo': {'admin1': 'Jeollanam-do', 'lat': '34.4102', 'lon': '126.30788', 'country_code3': 'KOR', 'geonameid': '6306192', 'place_name': 'Dohang', 'feature_class': 'P', 'feature_code': 'PPL'}}

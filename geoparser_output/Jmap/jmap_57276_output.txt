@@ -1,1 +1,0 @@
-{'word': 'n=20', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Idaho', 'lat': '42.69886', 'lon': '-114.54246', 'country_code3': 'USA', 'geonameid': '7253697', 'place_name': 'Lateral N-20', 'feature_class': 'H', 'feature_code': 'CNL'}}

@@ -1,2 +1,0 @@
-{'word': 'monsoon', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
-{'word': 'Cagayan', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'PHL', 'country_conf': 0.96374094, 'geo': {'admin1': 'Cagayan Valley', 'lat': '17.65667', 'lon': '121.73333', 'country_code3': 'PHL', 'geonameid': '7521297', 'place_name': 'Cagayan Valley', 'feature_class': 'A', 'feature_code': 'ADM1'}}

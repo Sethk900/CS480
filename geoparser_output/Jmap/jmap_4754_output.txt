@@ -1,1 +1,0 @@
-{'word': 'Murmansk', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'RUS', 'country_conf': 0.9048774, 'geo': {'admin1': 'Murmansk', 'lat': '68', 'lon': '34', 'country_code3': 'RUS', 'geonameid': '524304', 'place_name': 'Murmansk Oblast', 'feature_class': 'A', 'feature_code': 'ADM1'}}

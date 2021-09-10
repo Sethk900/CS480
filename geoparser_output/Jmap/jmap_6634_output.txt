@@ -1,1 +1,0 @@
-{'word': 'St', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'JAM', 'country_conf': 0.28365934}

@@ -1,4 +1,0 @@
-{'word': 'Beaufort', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MYS', 'country_conf': 0.28365934}
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'Carolina', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maranho', 'lat': '-7.50794', 'lon': '-47.14907', 'country_code3': 'BRA', 'geonameid': '6319678', 'place_name': 'Carolina', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'oaks', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '34.15112', 'lon': '-118.44925', 'country_code3': 'USA', 'geonameid': '5395244', 'place_name': 'Sherman Oaks', 'feature_class': 'P', 'feature_code': 'PPLX'}}

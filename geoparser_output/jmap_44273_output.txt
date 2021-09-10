@@ -1,0 +1,2 @@
+{'word': 'Miocene', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'British Columbia', 'lat': '52.23361', 'lon': '-121.69972', 'country_code3': 'CAN', 'geonameid': '6075049', 'place_name': 'Miocene Lake', 'feature_class': 'H', 'feature_code': 'LK'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}

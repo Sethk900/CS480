@@ -1,1 +1,0 @@
-{'word': 'citrange', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'FRA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Pays de la Loire', 'lat': '48.02667', 'lon': '0.11111', 'country_code3': 'FRA', 'geonameid': '6442762', 'place_name': 'Trang', 'feature_class': 'A', 'feature_code': 'ADM4'}}

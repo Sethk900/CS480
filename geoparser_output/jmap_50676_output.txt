@@ -1,0 +1,1 @@
+{'word': 'Guwahati', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'IND', 'country_conf': 0.9048774, 'geo': {'admin1': 'Assam', 'lat': '26.1844', 'lon': '91.7458', 'country_code3': 'IND', 'geonameid': '1271476', 'place_name': 'Guwahati', 'feature_class': 'P', 'feature_code': 'PPL'}}

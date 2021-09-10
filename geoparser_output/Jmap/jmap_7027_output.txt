@@ -1,3 +1,0 @@
-{'word': 'Colombia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'COL', 'country_conf': 0.9516948, 'geo': {'admin1': 'Atlntico', 'lat': '11.00854', 'lon': '-74.90887', 'country_code3': 'COL', 'geonameid': '3671506', 'place_name': 'Puerto Colombia', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'bogotensis', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Williston', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'North Dakota', 'lat': '48.14697', 'lon': '-103.61797', 'country_code3': 'USA', 'geonameid': '5692947', 'place_name': 'Williston', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

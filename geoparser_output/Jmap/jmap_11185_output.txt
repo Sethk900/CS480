@@ -1,1 +1,0 @@
-{'word': 'Malacca', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MYS', 'country_conf': 0.87992215, 'geo': {'admin1': 'Melaka', 'lat': '2.25', 'lon': '102.25', 'country_code3': 'MYS', 'geonameid': '1733035', 'place_name': 'Melaka', 'feature_class': 'A', 'feature_code': 'ADM1'}}

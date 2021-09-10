@@ -1,3 +1,0 @@
-{'word': 'Highlands', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'California', 'lat': '38.68574', 'lon': '-121.37217', 'country_code3': 'USA', 'geonameid': '5377640', 'place_name': 'North Highlands', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'highlands', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'California', 'lat': '38.68574', 'lon': '-121.37217', 'country_code3': 'USA', 'geonameid': '5377640', 'place_name': 'North Highlands', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Acacia', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}

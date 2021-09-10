@@ -1,4 +1,0 @@
-{'word': 'Malaysia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MYS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '2.5', 'lon': '112.5', 'country_code3': 'MYS', 'geonameid': '1733045', 'place_name': 'Malaysia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Scaphium</em', 'spans': [{'start': 4, 'end': 16}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Scaphium</em', 'spans': [{'start': 4, 'end': 16}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Scaphium</em', 'spans': [{'start': 4, 'end': 16}], 'country_predicted': '', 'country_conf': 0}

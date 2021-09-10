@@ -1,3 +1,0 @@
-{'word': 'Auckland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'NZL', 'country_conf': 0.87992215, 'geo': {'admin1': 'Auckland', 'lat': '-36.85', 'lon': '174.78333', 'country_code3': 'NZL', 'geonameid': '2193734', 'place_name': 'Auckland', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'Auckland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'NZL', 'country_conf': 0.87992215, 'geo': {'admin1': 'Auckland', 'lat': '-36.85', 'lon': '174.78333', 'country_code3': 'NZL', 'geonameid': '2193734', 'place_name': 'Auckland', 'feature_class': 'A', 'feature_code': 'ADM1'}}

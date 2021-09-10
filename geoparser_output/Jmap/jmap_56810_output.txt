@@ -1,2 +1,0 @@
-{'word': 'North-eastern', 'spans': [{'start': 1, 'end': 14}], 'country_predicted': 'KEN', 'country_conf': 0.28868946}
-{'word': 'France', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '2', 'country_code3': 'FRA', 'geonameid': '3017382', 'place_name': 'Republic of France', 'feature_class': 'A', 'feature_code': 'PCLI'}}

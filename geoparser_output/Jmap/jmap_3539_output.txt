@@ -1,5 +1,0 @@
-{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
-{'word': 'tajacu', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ROU', 'country_conf': 0.5339668}
-{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
-{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
-{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}

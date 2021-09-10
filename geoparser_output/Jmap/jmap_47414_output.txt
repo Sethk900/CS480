@@ -1,1 +1,0 @@
-{'word': 'Monongahela', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'West Virginia', 'lat': '39.62953', 'lon': '-79.9559', 'country_code3': 'USA', 'geonameid': '4815352', 'place_name': 'Morgantown', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

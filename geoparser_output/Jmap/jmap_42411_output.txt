@@ -1,1 +1,0 @@
-{'word': 'Oman', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'OMN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '21', 'lon': '57', 'country_code3': 'OMN', 'geonameid': '286963', 'place_name': 'Sultanate of Oman', 'feature_class': 'A', 'feature_code': 'PCLI'}}

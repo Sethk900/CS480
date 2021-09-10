@@ -1,1 +1,0 @@
-{'word': 'Cleveland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'Ohio', 'lat': '41.4995', 'lon': '-81.69541', 'country_code3': 'USA', 'geonameid': '5150529', 'place_name': 'Cleveland', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

@@ -1,0 +1,2 @@
+{'word': 'Himalaya', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Himalaya', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}

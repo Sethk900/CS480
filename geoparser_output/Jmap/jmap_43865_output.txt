@@ -1,1 +1,0 @@
-{'word': 'Placentia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ITA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Emilia-Romagna', 'lat': '45.04677', 'lon': '9.69937', 'country_code3': 'ITA', 'geonameid': '6542025', 'place_name': 'Piacenza', 'feature_class': 'A', 'feature_code': 'ADM3'}}

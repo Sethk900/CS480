@@ -1,0 +1,9 @@
+{'word': 'catenatus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Latreille', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Western Australia', 'lat': '-17.83333', 'lon': '122.18333', 'country_code3': 'AUS', 'geonameid': '2067399', 'place_name': 'Cape Latreille', 'feature_class': 'T', 'feature_code': 'PT'}}
+{'word': 'catenatus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Guinea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GIN', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '10.83333', 'lon': '-10.66667', 'country_code3': 'GIN', 'geonameid': '2420477', 'place_name': 'Republic of Guinea', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Indonesia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IDN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-5', 'lon': '120', 'country_code3': 'IDN', 'geonameid': '1643084', 'place_name': 'Republic of Indonesia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
+{'word': 'Guinea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GIN', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '10.83333', 'lon': '-10.66667', 'country_code3': 'GIN', 'geonameid': '2420477', 'place_name': 'Republic of Guinea', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
+{'word': 'Guinea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GIN', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '10.83333', 'lon': '-10.66667', 'country_code3': 'GIN', 'geonameid': '2420477', 'place_name': 'Republic of Guinea', 'feature_class': 'A', 'feature_code': 'PCLI'}}

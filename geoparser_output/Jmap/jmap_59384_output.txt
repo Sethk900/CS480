@@ -1,2 +1,0 @@
-{'word': 'Radea', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Latium', 'lat': '41.60871', 'lon': '12.51938', 'country_code3': 'ITA', 'geonameid': '6542093', 'place_name': 'Ardea', 'feature_class': 'A', 'feature_code': 'ADM3'}}
-{'word': 'Greece', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GRC', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '39', 'lon': '22', 'country_code3': 'GRC', 'geonameid': '390903', 'place_name': 'Hellenic Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}

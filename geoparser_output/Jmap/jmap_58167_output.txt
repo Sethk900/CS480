@@ -1,3 +1,0 @@
-{'word': 'Kriging', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9528109, 'geo': {'admin1': 'Bavaria', 'lat': '47.89258', 'lon': '12.54012', 'country_code3': 'DEU', 'geonameid': '2940127', 'place_name': 'Chieming', 'feature_class': 'P', 'feature_code': 'PPLA4'}}
-{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
-{'word': 'Kriging', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9528109, 'geo': {'admin1': 'Bavaria', 'lat': '47.89258', 'lon': '12.54012', 'country_code3': 'DEU', 'geonameid': '2940127', 'place_name': 'Chieming', 'feature_class': 'P', 'feature_code': 'PPLA4'}}

@@ -1,3 +1,0 @@
-{'word': 'noodsaaklik', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'vererger', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Victoria', 'lat': '-38.91966', 'lon': '146.32137', 'country_code3': 'AUS', 'geonameid': '8855176', 'place_name': 'Vererer Outlook', 'feature_class': 'S', 'feature_code': 'OBPT'}}
-{'word': 'verhoog', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}

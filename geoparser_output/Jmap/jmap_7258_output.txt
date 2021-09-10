@@ -1,2 +1,0 @@
-{'word': 'Angostura', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
-{'word': 'Angostura', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'COL', 'country_conf': 0.28365934}

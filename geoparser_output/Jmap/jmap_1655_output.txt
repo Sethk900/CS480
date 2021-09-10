@@ -1,2 +1,0 @@
-{'word': 'Mongolia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MNG', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '105', 'country_code3': 'MNG', 'geonameid': '2029969', 'place_name': 'Mongolia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Synthesis</em', 'spans': [{'start': 24, 'end': 37}], 'country_predicted': '', 'country_conf': 0}

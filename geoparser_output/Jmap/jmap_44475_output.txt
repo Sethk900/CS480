@@ -1,1 +1,0 @@
-{'word': 'Somalia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'SOM', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '6', 'lon': '48', 'country_code3': 'SOM', 'geonameid': '51537', 'place_name': 'Somalia', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,1 +1,0 @@
-{'word': 'Vitis</em', 'spans': [{'start': 4, 'end': 13}], 'country_predicted': 'HRV', 'country_conf': 0.5339668}

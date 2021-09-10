@@ -1,0 +1,5 @@
+{'word': 'BR</em', 'spans': [{'start': 5, 'end': 11}], 'country_predicted': 'ISR', 'country_conf': 0.5714737}
+{'word': 'BR</em', 'spans': [{'start': 4, 'end': 10}], 'country_predicted': 'ISR', 'country_conf': 0.5714737}
+{'word': 'BR</em', 'spans': [{'start': 4, 'end': 10}], 'country_predicted': 'ISR', 'country_conf': 0.5714737}
+{'word': 'BR</em', 'spans': [{'start': 4, 'end': 10}], 'country_predicted': 'ISR', 'country_conf': 0.5714737}
+{'word': 'BR</em', 'spans': [{'start': 4, 'end': 10}], 'country_predicted': 'ISR', 'country_conf': 0.5714737}

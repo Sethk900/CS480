@@ -1,5 +1,0 @@
-{'word': 'penguins', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Utah', 'lat': '38.61915', 'lon': '-109.6179', 'country_code3': 'USA', 'geonameid': '5548445', 'place_name': 'Three Penguins', 'feature_class': 'T', 'feature_code': 'MT'}}
-{'word': 'Antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'ATA', 'country_conf': 0.3105929}
-{'word': 'Antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'ATA', 'country_conf': 0.3105929}
-{'word': 'Antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'ATA', 'country_conf': 0.3105929}
-{'word': 'taranakite', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}

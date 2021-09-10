@@ -1,1 +1,0 @@
-{'word': 'TX', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Texas', 'lat': '32.7585', 'lon': '-97.8085', 'country_code3': 'USA', 'geonameid': '6480279', 'place_name': 'Ramada Limited Weatherford Tx', 'feature_class': 'S', 'feature_code': 'HTL'}}

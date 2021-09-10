@@ -1,3 +1,0 @@
-{'word': 'Valley', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Alabama', 'lat': '32.81874', 'lon': '-85.17939', 'country_code3': 'USA', 'geonameid': '4095186', 'place_name': 'Valley', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
-{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}

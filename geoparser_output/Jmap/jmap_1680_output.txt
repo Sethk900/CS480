@@ -1,1 +1,0 @@
-{'word': 'level.</li><li', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': 'FRA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Languedoc-Roussillon-Midi-Pyrnes', 'lat': '43.45861', 'lon': '2.00417', 'country_code3': 'FRA', 'geonameid': '6431778', 'place_name': 'Revel', 'feature_class': 'A', 'feature_code': 'ADM4'}}

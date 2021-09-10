@@ -1,0 +1,2 @@
+{'word': 'Bengal', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IND', 'country_conf': 0.87992215, 'geo': {'admin1': 'West Bengal', 'lat': '24', 'lon': '88', 'country_code3': 'IND', 'geonameid': '1252881', 'place_name': 'West Bengal', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'monsoon', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IND', 'country_conf': 0.28868946}

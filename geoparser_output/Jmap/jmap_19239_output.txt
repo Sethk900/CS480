@@ -1,1 +1,0 @@
-{'word': 'clera', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Languedoc-Roussillon-Midi-Pyrnes', 'lat': '42.58528', 'lon': '2.44306', 'country_code3': 'FRA', 'geonameid': '6450528', 'place_name': 'Clara-Villerach', 'feature_class': 'A', 'feature_code': 'ADM4'}}

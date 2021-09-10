@@ -1,0 +1,1 @@
+{'word': 'Chitwan', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NPL', 'country_conf': 0.9048774, 'geo': {'admin1': 'Central Region', 'lat': '27.58333', 'lon': '84.5', 'country_code3': 'NPL', 'geonameid': '1283517', 'place_name': 'Chitawan', 'feature_class': 'A', 'feature_code': 'ADM3H'}}

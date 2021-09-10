@@ -1,5 +1,0 @@
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'NM', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'ESP', 'country_conf': 0.9048774, 'geo': {'admin1': 'Catalonia', 'lat': '41.80772', 'lon': '3.06392', 'country_code3': 'ESP', 'geonameid': '7147462', 'place_name': 'NM SUITES Hotel', 'feature_class': 'S', 'feature_code': 'HTL'}}
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'Williston', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'North Dakota', 'lat': '48.14697', 'lon': '-103.61797', 'country_code3': 'USA', 'geonameid': '5692947', 'place_name': 'Williston', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

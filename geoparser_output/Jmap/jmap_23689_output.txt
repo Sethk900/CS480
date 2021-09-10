@@ -1,3 +1,0 @@
-{'word': 'molokaiensis', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Urera', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MOZ', 'country_conf': 0.5714737}
-{'word': 'Hibiscadelphus', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}

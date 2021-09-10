@@ -1,2 +1,0 @@
-{'word': 'East-', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Washington', 'lat': '46.19678', 'lon': '-123.36679', 'country_code3': 'USA', 'geonameid': '5793114', 'place_name': 'East Cathlamet', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}

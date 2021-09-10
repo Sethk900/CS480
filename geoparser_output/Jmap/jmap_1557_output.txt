@@ -1,1 +1,0 @@
-{'word': 'Brachiaria</em', 'spans': [{'start': 5, 'end': 19}], 'country_predicted': '', 'country_conf': 0}

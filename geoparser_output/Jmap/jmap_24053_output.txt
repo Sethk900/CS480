@@ -1,1 +1,0 @@
-{'word': 'Klamath', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Oregon', 'lat': '42.68634', 'lon': '-121.65013', 'country_code3': 'USA', 'geonameid': '5735237', 'place_name': 'Klamath County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

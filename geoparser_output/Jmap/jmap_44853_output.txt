@@ -1,1 +1,0 @@
-{'word': 'Mizoram', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IND', 'country_conf': 0.9048774, 'geo': {'admin1': 'Mizoram', 'lat': '23', 'lon': '93', 'country_code3': 'IND', 'geonameid': '1262963', 'place_name': 'Mizoram', 'feature_class': 'A', 'feature_code': 'ADM1'}}

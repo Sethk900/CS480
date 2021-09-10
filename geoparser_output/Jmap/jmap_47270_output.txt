@@ -1,1 +1,0 @@
-{'word': 'Bali', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IDN', 'country_conf': 0.7178229, 'geo': {'admin1': 'Bali', 'lat': '-8.33333', 'lon': '115', 'country_code3': 'IDN', 'geonameid': '1650534', 'place_name': 'Bali', 'feature_class': 'T', 'feature_code': 'ISL'}}

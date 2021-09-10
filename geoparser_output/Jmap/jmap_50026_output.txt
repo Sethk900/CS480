@@ -1,2 +1,0 @@
-{'word': 'Tongariro', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NZL', 'country_conf': 0.9048774, 'geo': {'admin1': 'Waikato', 'lat': '-38.99037', 'lon': '175.80837', 'country_code3': 'NZL', 'geonameid': '2180737', 'place_name': 'Turangi', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}

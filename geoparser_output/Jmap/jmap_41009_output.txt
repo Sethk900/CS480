@@ -1,3 +1,0 @@
-{'word': 'Polychaetes', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'Usa', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}

@@ -1,1 +1,0 @@
-{'word': 'SOUTH-ATLANTIC', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'NA', 'lat': '33.91855', 'lon': '-81.28668', 'country_code3': 'USA', 'geonameid': '12110877', 'place_name': 'South Atlantic states', 'feature_class': 'L', 'feature_code': 'RGN'}}

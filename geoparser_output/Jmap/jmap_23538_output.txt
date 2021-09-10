@@ -1,1 +1,0 @@
-{'word': 'mellinum', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ITA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Campania', 'lat': '40.91494', 'lon': '14.79103', 'country_code3': 'ITA', 'geonameid': '3182650', 'place_name': 'Avellino', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

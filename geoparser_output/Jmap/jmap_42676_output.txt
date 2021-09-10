@@ -1,1 +1,0 @@
-{'word': 'Biscay', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ESP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Basque Country', 'lat': '43.25', 'lon': '-2.91667', 'country_code3': 'ESP', 'geonameid': '3104469', 'place_name': 'Bizkaia', 'feature_class': 'A', 'feature_code': 'ADM2'}}

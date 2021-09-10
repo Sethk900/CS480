@@ -1,5 +1,0 @@
-{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
-{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
-{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
-{'word': 'county', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'Nile', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'EGY', 'country_conf': 0.6353264, 'geo': {'admin1': 'Alexandria', 'lat': '31.16546', 'lon': '29.88408', 'country_code3': 'EGY', 'geonameid': '8365059', 'place_name': 'Sharikat an Nl li Tadr al ilt az Ziryah', 'feature_class': 'S', 'feature_code': 'MFG'}}

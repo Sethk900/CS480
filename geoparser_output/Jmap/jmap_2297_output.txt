@@ -1,3 +1,0 @@
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
-{'word': 'redwood', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'California', 'lat': '37.48522', 'lon': '-122.23635', 'country_code3': 'USA', 'geonameid': '5386834', 'place_name': 'Redwood City', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

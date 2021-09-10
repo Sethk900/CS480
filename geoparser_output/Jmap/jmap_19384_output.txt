@@ -1,3 +1,0 @@
-{'word': 'Kalimantan', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'IDN', 'country_conf': 0.96374094, 'geo': {'admin1': 'NA', 'lat': '1', 'lon': '114', 'country_code3': 'IDN', 'geonameid': '1648148', 'place_name': 'Borneo', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Indonesia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IDN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-5', 'lon': '120', 'country_code3': 'IDN', 'geonameid': '1643084', 'place_name': 'Republic of Indonesia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'microtopography', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

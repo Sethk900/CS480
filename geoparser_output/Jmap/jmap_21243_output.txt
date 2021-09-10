@@ -1,2 +1,0 @@
-{'word': 'Liberia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'LBR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '6.5', 'lon': '-9.5', 'country_code3': 'LBR', 'geonameid': '2275384', 'place_name': 'Republic of Liberia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}

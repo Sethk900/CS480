@@ -1,3 +1,0 @@
-{'word': 'NaCI', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FJI', 'country_conf': 0.5714737}
-{'word': 'NaCI', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FJI', 'country_conf': 0.5714737}
-{'word': 'NaCI', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FJI', 'country_conf': 0.5714737}

@@ -1,5 +1,0 @@
-{'word': 'Jeju', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'KOR', 'country_conf': 0.87992215, 'geo': {'admin1': 'Jeju-do', 'lat': '33.40167', 'lon': '126.54611', 'country_code3': 'KOR', 'geonameid': '1846264', 'place_name': 'Jejudo', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Jeju', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'KOR', 'country_conf': 0.87992215, 'geo': {'admin1': 'Jeju-do', 'lat': '33.40167', 'lon': '126.54611', 'country_code3': 'KOR', 'geonameid': '1846264', 'place_name': 'Jejudo', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Korea', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'KOR', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '36.5', 'lon': '127.75', 'country_code3': 'KOR', 'geonameid': '1835841', 'place_name': 'Republic of Korea', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'laophontid', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Jejulaophonte', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}

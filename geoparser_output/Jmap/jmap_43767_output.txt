@@ -1,1 +1,0 @@
-{'word': 'Massy', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'le-de-France', 'lat': '48.73056', 'lon': '2.27639', 'country_code3': 'FRA', 'geonameid': '6454879', 'place_name': 'Massy', 'feature_class': 'A', 'feature_code': 'ADM4'}}

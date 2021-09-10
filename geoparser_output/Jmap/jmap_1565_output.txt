@@ -1,1 +1,0 @@
-{'word': 'Synthesis</em', 'spans': [{'start': 25, 'end': 38}], 'country_predicted': '', 'country_conf': 0}

@@ -1,1 +1,0 @@
-{'word': 'Pampa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Texas', 'lat': '35.53616', 'lon': '-100.95987', 'country_code3': 'USA', 'geonameid': '5527953', 'place_name': 'Pampa', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

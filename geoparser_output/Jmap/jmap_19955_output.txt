@@ -1,2 +1,0 @@
-{'word': 'Earth', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'NA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '0', 'lon': '0', 'country_code3': 'NA', 'geonameid': '6295630', 'place_name': 'Earth', 'feature_class': 'L', 'feature_code': 'AREA'}}
-{'word': 'Mt', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}

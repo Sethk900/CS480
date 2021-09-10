@@ -1,1 +1,0 @@
-{'word': 'Belarus', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BLR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '53', 'lon': '28', 'country_code3': 'BLR', 'geonameid': '630336', 'place_name': 'Republic of Belarus', 'feature_class': 'A', 'feature_code': 'PCLI'}}

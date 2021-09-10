@@ -1,3 +1,0 @@
-{'word': 'Knysna', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ZAF', 'country_conf': 0.9048774, 'geo': {'admin1': 'Western Cape', 'lat': '-34.03627', 'lon': '23.04713', 'country_code3': 'ZAF', 'geonameid': '988698', 'place_name': 'Knysna', 'feature_class': 'P', 'feature_code': 'PPLA3'}}
-{'word': 'citrophthora', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'citrophthora', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}

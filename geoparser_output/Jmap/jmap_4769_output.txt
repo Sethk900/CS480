@@ -1,2 +1,0 @@
-{'word': 'Palaeozoic', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Permian', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'AUS', 'country_conf': 0.9048774, 'geo': {'admin1': 'Queensland', 'lat': '-23.81389', 'lon': '151.24444', 'country_code3': 'AUS', 'geonameid': '2153421', 'place_name': 'Permian Point', 'feature_class': 'T', 'feature_code': 'PT'}}

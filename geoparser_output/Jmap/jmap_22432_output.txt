@@ -1,3 +1,0 @@
-{'word': 'Palau', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PLW', 'country_conf': 0.3105929}
-{'word': 'Palau', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PLW', 'country_conf': 0.3105929}
-{'word': 'typhoon', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}

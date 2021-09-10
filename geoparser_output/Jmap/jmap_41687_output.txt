@@ -1,1 +1,0 @@
-{'word': 'Satsuma', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'JPN', 'country_conf': 0.28868946}

@@ -1,1 +1,0 @@
-{'word': 'Humboldt', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Nevada', 'lat': '41.40684', 'lon': '-118.11197', 'country_code3': 'USA', 'geonameid': '5704974', 'place_name': 'Humboldt County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

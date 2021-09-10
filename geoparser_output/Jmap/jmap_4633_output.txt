@@ -1,1 +1,0 @@
-{'word': 'CaCI2', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PRT', 'country_conf': 0.5339668}

@@ -1,0 +1,1 @@
+{'word': 'Punjab', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PAK', 'country_conf': 0.7178229, 'geo': {'admin1': 'Punjab', 'lat': '30.85', 'lon': '72.31667', 'country_code3': 'PAK', 'geonameid': '1167710', 'place_name': 'Punjab Province', 'feature_class': 'A', 'feature_code': 'ADM1'}}

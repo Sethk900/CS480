@@ -1,3 +1,0 @@
-{'word': 'Ahmedabad', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.96374094, 'geo': {'admin1': 'Gujarat', 'lat': '23.03', 'lon': '72.58', 'country_code3': 'IND', 'geonameid': '1279234', 'place_name': 'Ahmadbd', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'India', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IND', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '79', 'country_code3': 'IND', 'geonameid': '1269750', 'place_name': 'Republic of India', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'monsoon', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IND', 'country_conf': 0.28868946}

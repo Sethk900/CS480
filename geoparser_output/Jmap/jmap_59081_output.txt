@@ -1,3 +1,0 @@
-{'word': 'Riyadh', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'SAU', 'country_conf': 0.96374094, 'geo': {'admin1': 'Ar Riy', 'lat': '23.05', 'lon': '45.55', 'country_code3': 'SAU', 'geonameid': '108411', 'place_name': 'Riyadh Region', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Kingdom', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.28868946}
-{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}

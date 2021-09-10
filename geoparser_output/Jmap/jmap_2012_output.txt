@@ -1,1 +1,0 @@
-{'word': 'm</em', 'spans': [{'start': 4, 'end': 9}], 'country_predicted': 'MAR', 'country_conf': 0.5339668}

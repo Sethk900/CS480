@@ -1,1 +1,0 @@
-{'word': 'Jeekel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Georgia', 'lat': '31.07021', 'lon': '-81.42272', 'country_code3': 'USA', 'geonameid': '4202705', 'place_name': 'Jekyll Island', 'feature_class': 'P', 'feature_code': 'PPL'}}

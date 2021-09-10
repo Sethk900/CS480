@@ -1,1 +1,0 @@
-{'word': 'Chrysomela', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GRC', 'country_conf': 0.9528109, 'geo': {'admin1': 'Thessaly', 'lat': '39.60749', 'lon': '21.50133', 'country_code3': 'GRC', 'geonameid': '259863', 'place_name': 'Chrysomili', 'feature_class': 'P', 'feature_code': 'PPL'}}

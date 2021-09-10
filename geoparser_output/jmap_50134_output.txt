@@ -1,0 +1,4 @@
+{'word': 'Greece', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GRC', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '39', 'lon': '22', 'country_code3': 'GRC', 'geonameid': '390903', 'place_name': 'Hellenic Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Levant', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '34', 'lon': '36', 'country_code3': 'NA', 'geonameid': '305104', 'place_name': 'Levant', 'feature_class': 'L', 'feature_code': 'RGN'}}
+{'word': 'valley', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Alabama', 'lat': '32.81874', 'lon': '-85.17939', 'country_code3': 'USA', 'geonameid': '4095186', 'place_name': 'Valley', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Marmara', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'TUR', 'country_conf': 0.28365934}

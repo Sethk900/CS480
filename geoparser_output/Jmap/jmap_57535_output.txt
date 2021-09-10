@@ -1,1 +1,0 @@
-{'word': 'Nebraska', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Nebraska', 'lat': '41.50028', 'lon': '-99.75067', 'country_code3': 'USA', 'geonameid': '5073708', 'place_name': 'Nebraska', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,2 +1,0 @@
-{'word': 'soortgelyk', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'veel', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Alsace-Champagne-Ardenne-Lorraine', 'lat': '48.78333', 'lon': '5.13333', 'country_code3': 'FRA', 'geonameid': '3019125', 'place_name': 'Fains-Vel', 'feature_class': 'P', 'feature_code': 'PPL'}}

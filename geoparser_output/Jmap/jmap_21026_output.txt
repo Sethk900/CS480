@@ -1,8 +1,0 @@
-{'word': 'barackobamai', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'satleri', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ITA', 'country_conf': 0.5339668}
-{'word': 'lucerne', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHE', 'country_conf': 0.6353264, 'geo': {'admin1': 'Lucerne', 'lat': '47.16667', 'lon': '8.16667', 'country_code3': 'CHE', 'geonameid': '2659810', 'place_name': 'Kanton Luzern', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'bonoi', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.9528109, 'geo': {'admin1': 'North Maluku', 'lat': '0.31883', 'lon': '128.74669', 'country_code3': 'IDN', 'geonameid': '1648192', 'place_name': 'Ake Bonoi', 'feature_class': 'H', 'feature_code': 'STM'}}
-{'word': 'huntington', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '33.6603', 'lon': '-117.99923', 'country_code3': 'USA', 'geonameid': '5358705', 'place_name': 'Huntington Beach', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'Province', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AGO', 'country_conf': 0.28365934}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

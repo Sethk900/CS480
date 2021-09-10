@@ -1,1 +1,0 @@
-{'word': 'F(1,36', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'South Carolina', 'lat': '33.95181', 'lon': '-81.37316', 'country_code3': 'USA', 'geonameid': '4596785', 'place_name': 'South Carolina Noname 32051 D-1006 Dam', 'feature_class': 'S', 'feature_code': 'DAM'}}

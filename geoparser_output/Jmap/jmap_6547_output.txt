@@ -1,4 +1,0 @@
-{'word': 'Daarna', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'SWE', 'country_conf': 0.87992215, 'geo': {'admin1': 'Dalarna', 'lat': '61', 'lon': '14.5', 'country_code3': 'SWE', 'geonameid': '2699767', 'place_name': 'Dalarna County', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'beduidende', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'veselkwaliteit', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'gehad', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}

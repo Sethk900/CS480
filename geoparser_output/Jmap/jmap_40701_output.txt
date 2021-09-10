@@ -1,1 +1,0 @@
-{'word': 'Mller,1890', 'spans': [{'start': 1, 'end': 12}], 'country_predicted': '', 'country_conf': 0}

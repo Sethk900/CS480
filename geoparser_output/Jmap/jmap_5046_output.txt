@@ -1,1 +1,0 @@
-{'word': 'praeputium', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}

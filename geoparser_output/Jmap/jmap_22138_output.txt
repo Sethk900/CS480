@@ -1,1 +1,0 @@
-{'word': 'warreni', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Michigan', 'lat': '42.49044', 'lon': '-83.01304', 'country_code3': 'USA', 'geonameid': '5014051', 'place_name': 'Warren', 'feature_class': 'P', 'feature_code': 'PPL'}}

@@ -1,0 +1,2 @@
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Denmark', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DNK', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '56', 'lon': '10', 'country_code3': 'DNK', 'geonameid': '2623032', 'place_name': 'Kingdom of Denmark', 'feature_class': 'A', 'feature_code': 'PCLI'}}

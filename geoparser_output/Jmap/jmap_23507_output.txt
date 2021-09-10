@@ -1,3 +1,0 @@
-{'word': 'Latreille', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Western Australia', 'lat': '-17.83333', 'lon': '122.18333', 'country_code3': 'AUS', 'geonameid': '2067399', 'place_name': 'Cape Latreille', 'feature_class': 'T', 'feature_code': 'PT'}}
-{'word': 'Mongolia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MNG', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '105', 'country_code3': 'MNG', 'geonameid': '2029969', 'place_name': 'Mongolia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}

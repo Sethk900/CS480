@@ -1,0 +1,1 @@
+{'word': 'WIs', 'spans': [{'start': 1, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'New York', 'lat': '42.63701', 'lon': '-76.17882', 'country_code3': 'USA', 'geonameid': '5121169', 'place_name': 'Homer', 'feature_class': 'P', 'feature_code': 'PPL'}}

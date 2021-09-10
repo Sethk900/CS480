@@ -1,1 +1,0 @@
-{'word': 'Northland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NZL', 'country_conf': 0.87992215, 'geo': {'admin1': 'Northland Region', 'lat': '-35.5', 'lon': '174', 'country_code3': 'NZL', 'geonameid': '2185978', 'place_name': 'Northland', 'feature_class': 'A', 'feature_code': 'ADM1'}}

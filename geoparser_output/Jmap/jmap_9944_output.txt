@@ -1,1 +1,0 @@
-{'word': 'Dover', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'Delaware', 'lat': '39.15817', 'lon': '-75.52437', 'country_code3': 'USA', 'geonameid': '4142290', 'place_name': 'Dover', 'feature_class': 'P', 'feature_code': 'PPLA'}}

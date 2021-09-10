@@ -1,3 +1,0 @@
-{'word': 'Gainesville', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Florida', 'lat': '29.65163', 'lon': '-82.32483', 'country_code3': 'USA', 'geonameid': '4156404', 'place_name': 'Gainesville', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
-{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
-{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}

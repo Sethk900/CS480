@@ -1,2 +1,0 @@
-{'word': 'Seshachar', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Annandale', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Virginia', 'lat': '38.83039', 'lon': '-77.19637', 'country_code3': 'USA', 'geonameid': '4744468', 'place_name': 'Annandale', 'feature_class': 'P', 'feature_code': 'PPL'}}

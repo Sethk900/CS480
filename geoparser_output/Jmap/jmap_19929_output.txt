@@ -1,1 +1,0 @@
-{'word': 'Yenisei', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'RUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'Tyva', 'lat': '51.72745', 'lon': '94.46045', 'country_code3': 'RUS', 'geonameid': '1499451', 'place_name': ' ', 'feature_class': 'H', 'feature_code': 'STM'}}

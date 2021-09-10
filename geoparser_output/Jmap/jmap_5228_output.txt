@@ -1,5 +1,0 @@
-{'word': 'South-East', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.28365934}
-{'word': 'South-East', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.28365934}
-{'word': 'Malaysia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MYS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '2.5', 'lon': '112.5', 'country_code3': 'MYS', 'geonameid': '1733045', 'place_name': 'Malaysia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Thailand', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'THA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '15.5', 'lon': '101', 'country_code3': 'THA', 'geonameid': '1605651', 'place_name': 'Kingdom of Thailand', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Vietnam', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'VNM', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '16.16667', 'lon': '107.83333', 'country_code3': 'VNM', 'geonameid': '1562822', 'place_name': 'Socialist Republic of Vietnam', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,1 +1,0 @@
-{'word': 'Aden', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'YEM', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '12.79891', 'lon': '45.03313', 'country_code3': 'YEM', 'geonameid': '8505034', 'place_name': 'Yemen, Democratic', 'feature_class': 'A', 'feature_code': 'PCLH'}}

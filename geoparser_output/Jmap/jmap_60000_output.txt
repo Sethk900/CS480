@@ -1,1 +1,0 @@
-{'word': 'Shanghai', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CHN', 'country_conf': 0.96374094, 'geo': {'admin1': 'Shanghai', 'lat': '31.22222', 'lon': '121.45806', 'country_code3': 'CHN', 'geonameid': '1796236', 'place_name': 'Shanghai', 'feature_class': 'P', 'feature_code': 'PPLA'}}

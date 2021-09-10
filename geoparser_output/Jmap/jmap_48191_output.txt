@@ -1,1 +1,0 @@
-{'word': 'Meghalaya', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.9048774, 'geo': {'admin1': 'Meghalaya', 'lat': '25.5', 'lon': '91.33333', 'country_code3': 'IND', 'geonameid': '1263207', 'place_name': 'Meghlaya', 'feature_class': 'A', 'feature_code': 'ADM1'}}

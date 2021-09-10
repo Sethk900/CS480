@@ -1,1 +1,0 @@
-{'word': 'Howland', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Ohio', 'lat': '41.25117', 'lon': '-80.74536', 'country_code3': 'USA', 'geonameid': '5158123', 'place_name': 'Howland Center', 'feature_class': 'P', 'feature_code': 'PPL'}}

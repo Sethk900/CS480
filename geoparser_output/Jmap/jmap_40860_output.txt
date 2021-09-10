@@ -1,1 +1,0 @@
-{'word': 'Palau', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PLW', 'country_conf': 0.3105929}

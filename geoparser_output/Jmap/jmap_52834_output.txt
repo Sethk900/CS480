@@ -1,4 +1,0 @@
-{'word': 'Rodentia)Paulina', 'spans': [{'start': 0, 'end': 16}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
-{'word': 'Indochina', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'KHM', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '14.64504', 'lon': '107.5462', 'country_code3': 'KHM', 'geonameid': '11612758', 'place_name': 'Indochine', 'feature_class': 'A', 'feature_code': 'PCLH'}}
-{'word': 'Vietnam', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'VNM', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '16.16667', 'lon': '107.83333', 'country_code3': 'VNM', 'geonameid': '1562822', 'place_name': 'Socialist Republic of Vietnam', 'feature_class': 'A', 'feature_code': 'PCLI'}}

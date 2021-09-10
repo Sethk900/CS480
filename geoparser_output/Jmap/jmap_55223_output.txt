@@ -1,1 +1,0 @@
-{'word': 'turkey', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}

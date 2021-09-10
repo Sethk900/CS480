@@ -1,1 +1,0 @@
-{'word': 'Paulo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.7178229, 'geo': {'admin1': 'So Paulo', 'lat': '-22', 'lon': '-49', 'country_code3': 'BRA', 'geonameid': '3448433', 'place_name': 'So Paulo', 'feature_class': 'A', 'feature_code': 'ADM1'}}

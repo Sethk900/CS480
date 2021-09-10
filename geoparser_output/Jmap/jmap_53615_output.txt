@@ -1,1 +1,0 @@
-{'word': 'Australasia', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'MYS', 'country_conf': 0.9048774, 'geo': {'admin1': 'Negeri Sembilan', 'lat': '2.6894', 'lon': '101.8977', 'country_code3': 'MYS', 'geonameid': '1783378', 'place_name': 'Ladang Aik Hwa Australasia', 'feature_class': 'S', 'feature_code': 'EST'}}

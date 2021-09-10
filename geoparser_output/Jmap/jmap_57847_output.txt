@@ -1,5 +1,0 @@
-{'word': 'Plateau', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.28868946}
-{'word': 'Guelph', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Ontario', 'lat': '43.54594', 'lon': '-80.25599', 'country_code3': 'CAN', 'geonameid': '5967629', 'place_name': 'Guelph', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Ks', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'USA', 'country_conf': 0.7178229, 'geo': {'admin1': 'Kansas', 'lat': '38.50029', 'lon': '-98.50063', 'country_code3': 'USA', 'geonameid': '4273857', 'place_name': 'Kansas', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Ks', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'USA', 'country_conf': 0.7178229, 'geo': {'admin1': 'Kansas', 'lat': '38.50029', 'lon': '-98.50063', 'country_code3': 'USA', 'geonameid': '4273857', 'place_name': 'Kansas', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Plateau', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.28868946}

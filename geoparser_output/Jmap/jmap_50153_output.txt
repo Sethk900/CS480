@@ -1,1 +1,0 @@
-{'word': 'Jalava', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'TUR', 'country_conf': 0.9528109, 'geo': {'admin1': 'Yalova', 'lat': '40.58333', 'lon': '29.16667', 'country_code3': 'TUR', 'geonameid': '862469', 'place_name': 'Yalova', 'feature_class': 'A', 'feature_code': 'ADM1'}}

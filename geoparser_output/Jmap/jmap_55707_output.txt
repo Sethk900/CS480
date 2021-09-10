@@ -1,2 +1,0 @@
-{'word': 'Benin', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BEN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '9.5', 'lon': '2.25', 'country_code3': 'BEN', 'geonameid': '2395170', 'place_name': 'Republic of Benin', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Benin', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BEN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '9.5', 'lon': '2.25', 'country_code3': 'BEN', 'geonameid': '2395170', 'place_name': 'Republic of Benin', 'feature_class': 'A', 'feature_code': 'PCLI'}}

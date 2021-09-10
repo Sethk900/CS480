@@ -1,3 +1,0 @@
-{'word': 'Alleghany', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Virginia', 'lat': '37.7876', 'lon': '-80.00699', 'country_code3': 'USA', 'geonameid': '4744139', 'place_name': 'Alleghany County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Virginia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.19161284}
-{'word': 'Virginia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.19161284}

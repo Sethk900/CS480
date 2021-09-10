@@ -1,4 +1,0 @@
-{'word': 'Chicago', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Illinois', 'lat': '41.85003', 'lon': '-87.65005', 'country_code3': 'USA', 'geonameid': '4887398', 'place_name': 'Chicago', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
-{'word': 'county', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'McHenry', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Illinois', 'lat': '42.32439', 'lon': '-88.45245', 'country_code3': 'USA', 'geonameid': '4901666', 'place_name': 'McHenry County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}

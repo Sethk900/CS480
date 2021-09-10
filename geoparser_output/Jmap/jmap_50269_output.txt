@@ -1,3 +1,0 @@
-{'word': 'Aegean', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GRC', 'country_conf': 0.6617832, 'geo': {'admin1': 'South Aegean', 'lat': '36.16726', 'lon': '27.90603', 'country_code3': 'GRC', 'geonameid': '6697808', 'place_name': 'South Aegean', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Mersin', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'TUR', 'country_conf': 0.9048774, 'geo': {'admin1': 'Mersin', 'lat': '36.86204', 'lon': '34.65088', 'country_code3': 'TUR', 'geonameid': '311728', 'place_name': 'Mersin', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Gibraltar', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GIB', 'country_conf': 0.3105929}

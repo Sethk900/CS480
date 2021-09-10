@@ -1,4 +1,0 @@
-{'word': '', 'spans': [{'start': 3, 'end': 4}], 'country_predicted': 'KIR', 'country_conf': 0.24821267}
-{'word': 'Ribera', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Sicily', 'lat': '37.49844', 'lon': '13.26415', 'country_code3': 'ITA', 'geonameid': '6539174', 'place_name': 'Ribera', 'feature_class': 'A', 'feature_code': 'ADM3'}}
-{'word': 'suturellus', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'suturellus', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}

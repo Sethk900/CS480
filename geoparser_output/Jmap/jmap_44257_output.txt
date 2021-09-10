@@ -1,1 +1,0 @@
-{'word': 'gahi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'WLF', 'country_conf': 0.5339668}

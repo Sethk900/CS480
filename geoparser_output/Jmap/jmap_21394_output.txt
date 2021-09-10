@@ -1,4 +1,0 @@
-{'word': 'Hoggellula', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'singularis', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Kury', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'RUS', 'country_conf': 0.5714737}
-{'word': 'Piza', 'spans': [{'start': 1, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Tuscany', 'lat': '43.71084', 'lon': '10.4137', 'country_code3': 'ITA', 'geonameid': '6542122', 'place_name': 'Pisa', 'feature_class': 'A', 'feature_code': 'ADM3'}}

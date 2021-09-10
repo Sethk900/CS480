@@ -1,3 +1,0 @@
-{'word': 'Senegal', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'SEN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '14.5', 'lon': '-14.25', 'country_code3': 'SEN', 'geonameid': '2245662', 'place_name': 'Republic of Senegal', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Del.', 'spans': [{'start': 1, 'end': 5}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
-{'word': 'Senegal', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'SEN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '14.5', 'lon': '-14.25', 'country_code3': 'SEN', 'geonameid': '2245662', 'place_name': 'Republic of Senegal', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,1 +1,0 @@
-{'word': 'CHILE', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHL', 'country_conf': 0.7178229, 'geo': {'admin1': 'NA', 'lat': '-30', 'lon': '-71', 'country_code3': 'CHL', 'geonameid': '3895114', 'place_name': 'Republic of Chile', 'feature_class': 'A', 'feature_code': 'PCLI'}}

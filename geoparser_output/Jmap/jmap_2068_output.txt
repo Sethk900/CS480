@@ -1,2 +1,0 @@
-{'word': 'n</em>=17', 'spans': [{'start': 4, 'end': 13}], 'country_predicted': 'VNM', 'country_conf': 0.5714737}
-{'word': 'n</em>=17', 'spans': [{'start': 4, 'end': 13}], 'country_predicted': 'VNM', 'country_conf': 0.5714737}

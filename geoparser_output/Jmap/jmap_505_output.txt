@@ -1,5 +1,0 @@
-{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'Hijaz', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IRQ', 'country_conf': 0.5714737}
-{'word': 'Sarawat', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'THA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Suphan Buri', 'lat': '14.35436', 'lon': '99.88383', 'country_code3': 'THA', 'geonameid': '8666342', 'place_name': 'Rongrian Wat Prathum Sarawat', 'feature_class': 'S', 'feature_code': 'SCH'}}

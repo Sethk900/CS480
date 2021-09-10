@@ -1,1 +1,0 @@
-{'word': 'Acmaea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GRC', 'country_conf': 0.9528109, 'geo': {'admin1': 'West Greece', 'lat': '38', 'lon': '22', 'country_code3': 'GRC', 'geonameid': '265491', 'place_name': 'Noms Achaas', 'feature_class': 'A', 'feature_code': 'ADM2'}}

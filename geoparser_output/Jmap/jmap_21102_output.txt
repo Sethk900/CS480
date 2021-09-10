@@ -1,1 +1,0 @@
-{'word': 'Berne', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHE', 'country_conf': 0.957188, 'geo': {'admin1': 'Bern', 'lat': '46.87251', 'lon': '7.59563', 'country_code3': 'CHE', 'geonameid': '2661551', 'place_name': 'Canton de Berne', 'feature_class': 'A', 'feature_code': 'ADM1'}}

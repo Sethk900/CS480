@@ -1,0 +1,3 @@
+{'word': 'Guam', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GUM', 'country_conf': 0.3105929}
+{'word': 'Guam', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GUM', 'country_conf': 0.3105929}
+{'word': 'Guam', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GUM', 'country_conf': 0.3105929}

@@ -1,4 +1,0 @@
-{'word': 'Kavkaz', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GEO', 'country_conf': 0.6353264, 'geo': {'admin1': 'NA', 'lat': '42.5', 'lon': '45', 'country_code3': 'GEO', 'geonameid': '573081', 'place_name': 'Caucasus Mountains', 'feature_class': 'T', 'feature_code': 'MTS'}}
-{'word': 'Kavkaz', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GEO', 'country_conf': 0.6353264, 'geo': {'admin1': 'NA', 'lat': '42.5', 'lon': '45', 'country_code3': 'GEO', 'geonameid': '573081', 'place_name': 'Caucasus Mountains', 'feature_class': 'T', 'feature_code': 'MTS'}}
-{'word': 'Kavkaz', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GEO', 'country_conf': 0.6353264, 'geo': {'admin1': 'NA', 'lat': '42.5', 'lon': '45', 'country_code3': 'GEO', 'geonameid': '573081', 'place_name': 'Caucasus Mountains', 'feature_class': 'T', 'feature_code': 'MTS'}}
-{'word': 'Tugela', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ZAF', 'country_conf': 0.5714737}

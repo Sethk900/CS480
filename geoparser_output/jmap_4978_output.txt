@@ -1,0 +1,2 @@
+{'word': 'dianibrunneigena', 'spans': [{'start': 0, 'end': 16}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'dianibrunneigena', 'spans': [{'start': 0, 'end': 16}], 'country_predicted': '', 'country_conf': 0}

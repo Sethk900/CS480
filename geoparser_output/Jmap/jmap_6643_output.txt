@@ -1,1 +1,0 @@
-{'word': 'Bloemfontein', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'ZAF', 'country_conf': 0.9048774, 'geo': {'admin1': 'Orange Free State', 'lat': '-29.12107', 'lon': '26.214', 'country_code3': 'ZAF', 'geonameid': '1018725', 'place_name': 'Bloemfontein', 'feature_class': 'P', 'feature_code': 'PPLA'}}

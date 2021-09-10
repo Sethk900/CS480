@@ -1,3 +1,0 @@
-{'word': 'Atlanta', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Georgia', 'lat': '33.749', 'lon': '-84.38798', 'country_code3': 'USA', 'geonameid': '4180439', 'place_name': 'Atlanta', 'feature_class': 'P', 'feature_code': 'PPLA'}}
-{'word': 'atlantid', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ZAF', 'country_conf': 0.5339668}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

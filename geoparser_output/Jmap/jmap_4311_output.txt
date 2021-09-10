@@ -1,5 +1,0 @@
-{'word': 'Ecuador', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ECU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-1.25', 'lon': '-78.25', 'country_code3': 'ECU', 'geonameid': '3658394', 'place_name': 'Republic of Ecuador', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Ecuador', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ECU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-1.25', 'lon': '-78.25', 'country_code3': 'ECU', 'geonameid': '3658394', 'place_name': 'Republic of Ecuador', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Binda', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.5339668}
-{'word': 'Binda', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.5339668}

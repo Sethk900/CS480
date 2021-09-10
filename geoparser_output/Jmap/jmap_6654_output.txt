@@ -1,5 +1,0 @@
-{'word': 'Arcadia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'JAM', 'country_conf': 0.28868946}
-{'word': 'Arcadia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'JAM', 'country_conf': 0.28868946}
-{'word': 'kaliumbemesting', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'ontvang', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NOR', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '62.51716', 'lon': '11.22103', 'country_code3': 'NOR', 'geonameid': '9823047', 'place_name': 'stvang ytre', 'feature_class': 'S', 'feature_code': 'FRM'}}
-{'word': 'veel', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Alsace-Champagne-Ardenne-Lorraine', 'lat': '48.78333', 'lon': '5.13333', 'country_code3': 'FRA', 'geonameid': '3019125', 'place_name': 'Fains-Vel', 'feature_class': 'P', 'feature_code': 'PPL'}}

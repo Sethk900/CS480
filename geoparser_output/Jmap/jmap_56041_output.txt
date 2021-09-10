@@ -1,9 +1,0 @@
-{'word': 'Talang', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PHL', 'country_conf': 0.5339668}
-{'word': 'Sumatra', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IDN', 'country_conf': 0.96374094, 'geo': {'admin1': 'NA', 'lat': '0', 'lon': '102', 'country_code3': 'IDN', 'geonameid': '1626198', 'place_name': 'Sumatra', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
-{'word': 'Talang', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PHL', 'country_conf': 0.5339668}
-{'word': 'basalto', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GRL', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '74.33456', 'lon': '-20.38127', 'country_code3': 'GRL', 'geonameid': '3424309', 'place_name': 'Basalt', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Sumatra', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IDN', 'country_conf': 0.96374094, 'geo': {'admin1': 'NA', 'lat': '0', 'lon': '102', 'country_code3': 'IDN', 'geonameid': '1626198', 'place_name': 'Sumatra', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Indonesia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IDN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-5', 'lon': '120', 'country_code3': 'IDN', 'geonameid': '1643084', 'place_name': 'Republic of Indonesia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
-{'word': 'Talang', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PHL', 'country_conf': 0.5339668}

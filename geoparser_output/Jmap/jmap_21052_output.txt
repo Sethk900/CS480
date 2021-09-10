@@ -1,3 +1,0 @@
-{'word': 'Taiwan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'TWN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '24', 'lon': '121', 'country_code3': 'TWN', 'geonameid': '1668284', 'place_name': 'Taiwan', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Succinea', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Taiwan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'TWN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '24', 'lon': '121', 'country_code3': 'TWN', 'geonameid': '1668284', 'place_name': 'Taiwan', 'feature_class': 'A', 'feature_code': 'PCLI'}}

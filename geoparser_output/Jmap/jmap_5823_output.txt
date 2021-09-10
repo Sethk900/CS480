@@ -1,3 +1,0 @@
-{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
-{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
-{'word': 'city', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'New Jersey', 'lat': '40.71162', 'lon': '-74.06482', 'country_code3': 'USA', 'geonameid': '5099835', 'place_name': 'City of Jersey City', 'feature_class': 'A', 'feature_code': 'ADM3'}}

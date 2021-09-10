@@ -1,3 +1,0 @@
-{'word': 'Martinique', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'MTQ', 'country_conf': 0.3105929}
-{'word': 'Martinique', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'MTQ', 'country_conf': 0.3105929}
-{'word': 'Antilles', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'NA', 'country_conf': 0.28365934}

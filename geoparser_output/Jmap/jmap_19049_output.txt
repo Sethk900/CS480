@@ -1,2 +1,0 @@
-{'word': 'Ny-Alesund', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'SJM', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '78.92383', 'lon': '11.98126', 'country_code3': 'SJM', 'geonameid': '2729457', 'place_name': 'Ny-lesund', 'feature_class': 'S', 'feature_code': 'STNB'}}
-{'word': 'Ny', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'SWE', 'country_conf': 0.28365934}

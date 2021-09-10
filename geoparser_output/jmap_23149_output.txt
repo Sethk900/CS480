@@ -1,0 +1,16 @@
+{'word': 'Costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
+{'word': 'Costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
+{'word': 'Costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
+{'word': 'angelicae', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'BRA', 'country_conf': 0.5339668}
+{'word': 'azofeifai', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'carolinae', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CZE', 'country_conf': 0.9528109, 'geo': {'admin1': 'Karlovarsk', 'lat': '50.23271', 'lon': '12.87117', 'country_code3': 'CZE', 'geonameid': '3073803', 'place_name': 'Karlovy Vary', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'corcovado', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'PRI', 'country_conf': 0.28365934}
+{'word': 'guanacastensis', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'monteverde', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Campania', 'lat': '40.99858', 'lon': '15.53361', 'country_code3': 'ITA', 'geonameid': '3172716', 'place_name': 'Monteverde', 'feature_class': 'P', 'feature_code': 'PPLA3'}}
+{'word': 'paloverde', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.92213035, 'geo': {'admin1': 'California', 'lat': '33.43281', 'lon': '-114.73218', 'country_code3': 'USA', 'geonameid': '5380784', 'place_name': 'Palo Verde', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'santarosensis', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'sinuatus', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'warreni', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Michigan', 'lat': '42.49044', 'lon': '-83.01304', 'country_code3': 'USA', 'geonameid': '5014051', 'place_name': 'Warren', 'feature_class': 'P', 'feature_code': 'PPL'}}
