@@ -1,0 +1,3 @@
+{'word': 'Steinheil', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'ATA', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '-64.85483', 'lon': '-62.66564', 'country_code3': 'ATA', 'geonameid': '6626014', 'place_name': 'Steinheil, punta', 'feature_class': 'T', 'feature_code': 'CAPE'}}
+{'word': 'Dytiscidae', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Steinheil', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'ATA', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '-64.85483', 'lon': '-62.66564', 'country_code3': 'ATA', 'geonameid': '6626014', 'place_name': 'Steinheil, punta', 'feature_class': 'T', 'feature_code': 'CAPE'}}

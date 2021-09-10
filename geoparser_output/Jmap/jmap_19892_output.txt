@@ -1,0 +1,2 @@
+{'word': 'Adirondack', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'New York', 'lat': '43.19282', 'lon': '-74.52058', 'country_code3': 'USA', 'geonameid': '8082419', 'place_name': 'Southern Adirondack Pines Campground and Cabins', 'feature_class': 'S', 'feature_code': 'CMP'}}
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}

@@ -1,0 +1,1 @@
+{'word': 'Lembos', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CYP', 'country_conf': 0.9528109, 'geo': {'admin1': 'Ammochostos', 'lat': '35.62259', 'lon': '34.34677', 'country_code3': 'CYP', 'geonameid': '146389', 'place_name': 'Lmpos', 'feature_class': 'T', 'feature_code': 'PT'}}

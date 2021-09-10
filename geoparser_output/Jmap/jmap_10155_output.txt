@@ -1,0 +1,2 @@
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'U.S.A.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '39.76', 'lon': '-98.5', 'country_code3': 'USA', 'geonameid': '6252001', 'place_name': 'United States', 'feature_class': 'A', 'feature_code': 'PCLI'}}

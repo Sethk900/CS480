@@ -1,0 +1,1 @@
+{'word': 'New-Caledonia', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'NCL', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '-21.5', 'lon': '165.5', 'country_code3': 'NCL', 'geonameid': '2139685', 'place_name': 'New Caledonia', 'feature_class': 'A', 'feature_code': 'PCLD'}}

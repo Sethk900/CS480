@@ -1,0 +1,5 @@
+{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Kalahari', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BWA', 'country_conf': 0.6353264, 'geo': {'admin1': 'Ghanzi', 'lat': '-21.14717', 'lon': '23.95788', 'country_code3': 'BWA', 'geonameid': '11961480', 'place_name': 'Deception Valley, desert du Kalahari', 'feature_class': 'T', 'feature_code': 'VAL'}}
+{'word': 'Botswana', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BWA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-22', 'lon': '24', 'country_code3': 'BWA', 'geonameid': '933860', 'place_name': 'Republic of Botswana', 'feature_class': 'A', 'feature_code': 'PCLI'}}

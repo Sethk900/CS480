@@ -1,0 +1,10 @@
+{'word': 'Sinai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'saba', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
+{'word': 'Sinai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'Yemen', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'YEM', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '15.5', 'lon': '47.5', 'country_code3': 'YEM', 'geonameid': '69543', 'place_name': 'Republic of Yemen', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'saba', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
+{'word': 'mc1r', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GTM', 'country_conf': 0.5339668}
+{'word': 'Sinai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Yemen', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'YEM', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '15.5', 'lon': '47.5', 'country_code3': 'YEM', 'geonameid': '69543', 'place_name': 'Republic of Yemen', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'saba', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}

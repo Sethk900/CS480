@@ -1,0 +1,1 @@
+{'word': 'Bc', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'CAN', 'country_conf': 0.957188, 'geo': {'admin1': 'British Columbia', 'lat': '53.99983', 'lon': '-125.0032', 'country_code3': 'CAN', 'geonameid': '5909050', 'place_name': 'British Columbia', 'feature_class': 'A', 'feature_code': 'ADM1'}}

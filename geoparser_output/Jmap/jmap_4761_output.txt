@@ -1,0 +1,5 @@
+{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
+{'word': 'Papua', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}
+{'word': 'Monogenea', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Digenea', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NOR', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '60.20659', 'lon': '11.64156', 'country_code3': 'NOR', 'geonameid': '3159218', 'place_name': 'Disen', 'feature_class': 'P', 'feature_code': 'PPLL'}}
+{'word': 'monas', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}

@@ -1,0 +1,1 @@
+{'word': 'Humphreys', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Tennessee', 'lat': '36.04082', 'lon': '-87.77563', 'country_code3': 'USA', 'geonameid': '4631309', 'place_name': 'Humphreys County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

@@ -1,0 +1,1 @@
+{'word': 'carolina', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maranho', 'lat': '-7.50794', 'lon': '-47.14907', 'country_code3': 'BRA', 'geonameid': '6319678', 'place_name': 'Carolina', 'feature_class': 'A', 'feature_code': 'ADM2'}}

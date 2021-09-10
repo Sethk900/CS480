@@ -1,0 +1,1 @@
+{'word': 'Terengganu', 'spans': [{'start': 1, 'end': 11}], 'country_predicted': 'MYS', 'country_conf': 0.96374094, 'geo': {'admin1': 'Terengganu', 'lat': '5', 'lon': '103', 'country_code3': 'MYS', 'geonameid': '1733036', 'place_name': 'Terengganu', 'feature_class': 'A', 'feature_code': 'ADM1'}}

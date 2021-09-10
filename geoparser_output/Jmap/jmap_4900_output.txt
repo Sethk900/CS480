@@ -1,0 +1,6 @@
+{'word': 'Congo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
+{'word': 'Congo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
+{'word': 'squalostoma', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'squalostoma', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Congo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
+{'word': 'squalostoma', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}

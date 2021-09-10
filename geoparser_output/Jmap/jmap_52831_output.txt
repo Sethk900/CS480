@@ -1,0 +1,1 @@
+{'word': 'Karnataka', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.96374094, 'geo': {'admin1': 'Karnataka', 'lat': '14.66667', 'lon': '75.83333', 'country_code3': 'IND', 'geonameid': '1267701', 'place_name': 'State of Karnataka', 'feature_class': 'A', 'feature_code': 'ADM1'}}

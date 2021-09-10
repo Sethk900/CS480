@@ -1,0 +1,1 @@
+{'word': 'Maldives', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MDV', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '3.2', 'lon': '73', 'country_code3': 'MDV', 'geonameid': '1282028', 'place_name': 'Republic of Maldives', 'feature_class': 'A', 'feature_code': 'PCLI'}}

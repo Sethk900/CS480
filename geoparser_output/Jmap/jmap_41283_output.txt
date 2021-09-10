@@ -1,0 +1,1 @@
+{'word': '-Park', 'spans': [{'start': 6, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '33.05671', 'lon': '-117.26559', 'country_code3': 'USA', 'geonameid': '5381168', 'place_name': 'Park Encinitas Trailer Park', 'feature_class': 'S', 'feature_code': 'HSE'}}

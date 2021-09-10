@@ -1,0 +1,1 @@
+{'word': 'Turkestan', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'KAZ', 'country_conf': 0.28868946}

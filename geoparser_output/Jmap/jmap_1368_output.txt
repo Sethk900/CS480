@@ -1,0 +1,10 @@
+{'word': 'U.S.A.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '39.76', 'lon': '-98.5', 'country_code3': 'USA', 'geonameid': '6252001', 'place_name': 'United States', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Eurasia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'RUS', 'country_conf': 0.28868946}
+{'word': 'Ar', 'spans': [{'start': 4, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.28868946}
+{'word': 'Ar', 'spans': [{'start': 4, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.28868946}
+{'word': 'Ar', 'spans': [{'start': 4, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.28868946}
+{'word': 'Ar', 'spans': [{'start': 4, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.28868946}
+{'word': 'Ar', 'spans': [{'start': 4, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.28868946}
+{'word': 'Ar', 'spans': [{'start': 4, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.28868946}
+{'word': 'Ar', 'spans': [{'start': 4, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.28868946}
+{'word': 'Ar', 'spans': [{'start': 4, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.28868946}

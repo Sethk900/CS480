@@ -1,0 +1,1 @@
+{'word': 'glandulosa', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NER', 'country_conf': 0.24821267}

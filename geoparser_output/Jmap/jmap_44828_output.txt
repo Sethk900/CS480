@@ -1,0 +1,1 @@
+{'word': 'Mutisia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KEN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Makueni', 'lat': '-1.68333', 'lon': '37.26667', 'country_code3': 'KEN', 'geonameid': '185317', 'place_name': 'Mutisya Number Three Dam', 'feature_class': 'H', 'feature_code': 'PND'}}

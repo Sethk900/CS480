@@ -1,0 +1,1 @@
+{'word': 'Duzee', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}

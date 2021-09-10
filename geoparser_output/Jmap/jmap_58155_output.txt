@@ -1,0 +1,1 @@
+{'word': 'Jinping', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Chongqing', 'lat': '31.20842', 'lon': '109.93537', 'country_code3': 'CHN', 'geonameid': '8398674', 'place_name': 'Jinping', 'feature_class': 'P', 'feature_code': 'PPLA4'}}

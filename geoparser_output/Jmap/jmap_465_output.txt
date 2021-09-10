@@ -1,0 +1,1 @@
+{'word': 'Schultes', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Alabama', 'lat': '33.0408', 'lon': '-87.1248', 'country_code3': 'USA', 'geonameid': '9208637', 'place_name': 'Little Schultes Creek Headwaters', 'feature_class': 'H', 'feature_code': 'STMH'}}

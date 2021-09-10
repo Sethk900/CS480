@@ -1,0 +1,1 @@
+{'word': 'OCO-2', 'spans': [{'start': 1, 'end': 6}], 'country_predicted': 'ESP', 'country_conf': 0.5339668}

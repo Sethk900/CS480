@@ -1,0 +1,10 @@
+{'word': 'Guam', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GUM', 'country_conf': 0.3105929}
+{'word': 'Saipan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MNP', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saipan', 'lat': '15.19434', 'lon': '145.74829', 'country_code3': 'MNP', 'geonameid': '4041550', 'place_name': 'Saipan Island', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Saipan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MNP', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saipan', 'lat': '15.19434', 'lon': '145.74829', 'country_code3': 'MNP', 'geonameid': '4041550', 'place_name': 'Saipan Island', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Guam', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GUM', 'country_conf': 0.3105929}
+{'word': 'Guam', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GUM', 'country_conf': 0.3105929}
+{'word': 'Saipan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MNP', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saipan', 'lat': '15.19434', 'lon': '145.74829', 'country_code3': 'MNP', 'geonameid': '4041550', 'place_name': 'Saipan Island', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Guam', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GUM', 'country_conf': 0.3105929}
+{'word': 'Saipan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MNP', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saipan', 'lat': '15.19434', 'lon': '145.74829', 'country_code3': 'MNP', 'geonameid': '4041550', 'place_name': 'Saipan Island', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Saipan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MNP', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saipan', 'lat': '15.19434', 'lon': '145.74829', 'country_code3': 'MNP', 'geonameid': '4041550', 'place_name': 'Saipan Island', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Guam', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GUM', 'country_conf': 0.3105929}

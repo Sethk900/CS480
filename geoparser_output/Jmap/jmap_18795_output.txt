@@ -1,0 +1,2 @@
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'cm(-2', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'LAO', 'country_conf': 0.9528109, 'geo': {'admin1': 'Savannahkht', 'lat': '16.51667', 'lon': '106.56667', 'country_code3': 'LAO', 'geonameid': '1657343', 'place_name': 'Ha Shin Co (2)', 'feature_class': 'P', 'feature_code': 'PPLW'}}

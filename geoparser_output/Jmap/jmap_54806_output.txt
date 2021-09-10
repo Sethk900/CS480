@@ -1,0 +1,2 @@
+{'word': 'Martinique', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'MTQ', 'country_conf': 0.3105929}
+{'word': 'soil1', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Texas', 'lat': '31.63605', 'lon': '-100.24332', 'country_code3': 'USA', 'geonameid': '5531225', 'place_name': 'Soil Conservation Service Site Number 1 Reservoir', 'feature_class': 'H', 'feature_code': 'RSV'}}

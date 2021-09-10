@@ -1,0 +1,7 @@
+{'word': 'Baja', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'HUN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Bcs-Kiskun', 'lat': '46.18299', 'lon': '18.95307', 'country_code3': 'HUN', 'geonameid': '3055685', 'place_name': 'Baja', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Baja', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'HUN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Bcs-Kiskun', 'lat': '46.18299', 'lon': '18.95307', 'country_code3': 'HUN', 'geonameid': '3055685', 'place_name': 'Baja', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Verticordiidae', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}

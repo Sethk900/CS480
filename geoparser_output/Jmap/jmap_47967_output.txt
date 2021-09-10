@@ -1,0 +1,4 @@
+{'word': 'Wales', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'highland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GBR', 'country_conf': 0.957188, 'geo': {'admin1': 'Scotland', 'lat': '57.5', 'lon': '-5', 'country_code3': 'GBR', 'geonameid': '2646944', 'place_name': 'Highland', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Wales', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'Australia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-25', 'lon': '135', 'country_code3': 'AUS', 'geonameid': '2077456', 'place_name': 'Commonwealth of Australia', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,5 @@
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Earth', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'NA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '0', 'lon': '0', 'country_code3': 'NA', 'geonameid': '6295630', 'place_name': 'Earth', 'feature_class': 'L', 'feature_code': 'AREA'}}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Colombia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'COL', 'country_conf': 0.9516948, 'geo': {'admin1': 'Atlntico', 'lat': '11.00854', 'lon': '-74.90887', 'country_code3': 'COL', 'geonameid': '3671506', 'place_name': 'Puerto Colombia', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}

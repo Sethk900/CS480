@@ -1,0 +1,2 @@
+{'word': 'Himalayan', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
+{'word': '72', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.9528109, 'geo': {'admin1': 'Mayorality of Baghdad', 'lat': '33.40743', 'lon': '44.46604', 'country_code3': 'IRQ', 'geonameid': '9887697', 'place_name': 'Sector 72', 'feature_class': 'P', 'feature_code': 'PPLX'}}

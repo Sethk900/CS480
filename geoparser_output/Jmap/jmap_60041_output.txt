@@ -1,0 +1,6 @@
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Butte', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Montana', 'lat': '46.00382', 'lon': '-112.53474', 'country_code3': 'USA', 'geonameid': '5642934', 'place_name': 'Butte', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'Creek', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CYM', 'country_conf': 0.28868946}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Butte', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Montana', 'lat': '46.00382', 'lon': '-112.53474', 'country_code3': 'USA', 'geonameid': '5642934', 'place_name': 'Butte', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

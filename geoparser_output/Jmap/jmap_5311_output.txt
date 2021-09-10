@@ -1,0 +1,1 @@
+{'word': 'japi', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'BRA', 'country_conf': 0.5339668}

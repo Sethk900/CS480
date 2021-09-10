@@ -1,0 +1,1 @@
+{'word': 'Fiordland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NZL', 'country_conf': 0.9048774, 'geo': {'admin1': 'Southland', 'lat': '-45.4179', 'lon': '167.7214', 'country_code3': 'NZL', 'geonameid': '6469090', 'place_name': 'Comfort Hotel Fiordland', 'feature_class': 'S', 'feature_code': 'HTL'}}

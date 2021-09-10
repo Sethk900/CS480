@@ -1,0 +1,9 @@
+{'word': 'Colombia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'COL', 'country_conf': 0.9516948, 'geo': {'admin1': 'Atlntico', 'lat': '11.00854', 'lon': '-74.90887', 'country_code3': 'COL', 'geonameid': '3671506', 'place_name': 'Puerto Colombia', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Ecuador', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ECU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-1.25', 'lon': '-78.25', 'country_code3': 'ECU', 'geonameid': '3658394', 'place_name': 'Republic of Ecuador', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'arcabuco', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'COL', 'country_conf': 0.9528109, 'geo': {'admin1': 'Boyac', 'lat': '5.72389', 'lon': '-73.46781', 'country_code3': 'COL', 'geonameid': '3689690', 'place_name': 'Arcabuco', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'choco', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PAN', 'country_conf': 0.28365934}
+{'word': 'mindo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ECU', 'country_conf': 0.5714737}
+{'word': 'Ziga', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.5339668}
+{'word': 'Ziga', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.5339668}
+{'word': 'Ziga', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.5339668}
+{'word': 'jewetti', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Texas', 'lat': '31.36157', 'lon': '-96.14413', 'country_code3': 'USA', 'geonameid': '4701046', 'place_name': 'Jewett', 'feature_class': 'P', 'feature_code': 'PPL'}}

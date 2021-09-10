@@ -1,0 +1,1 @@
+{'word': 'mg1', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Colorado', 'lat': '38.465', 'lon': '-105.15388', 'country_code3': 'USA', 'geonameid': '5432134', 'place_name': 'Mud Gulch Detention MG-1 Reservoir', 'feature_class': 'H', 'feature_code': 'RSV'}}

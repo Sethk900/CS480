@@ -1,0 +1,8 @@
+{'word': 'Microtomus', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Microtomus', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Microtomus', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Drury', 'spans': [{'start': 1, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'Microtomus', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Microtomus', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Microtomus', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Microtomus', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}

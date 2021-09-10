@@ -1,0 +1,1 @@
+{'word': 'Mn', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Minnesota', 'lat': '44.98043', 'lon': '-93.46116', 'country_code3': 'USA', 'geonameid': '10942549', 'place_name': 'Country Inn & Suites By Carlson, Minneapolis West, MN', 'feature_class': 'S', 'feature_code': 'HTL'}}

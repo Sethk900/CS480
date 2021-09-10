@@ -1,0 +1,1 @@
+{'word': 'Portsmouth', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.9048774, 'geo': {'admin1': 'England', 'lat': '50.8', 'lon': '-1.06667', 'country_code3': 'GBR', 'geonameid': '3333183', 'place_name': 'Portsmouth', 'feature_class': 'A', 'feature_code': 'ADM2'}}

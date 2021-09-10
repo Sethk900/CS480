@@ -1,0 +1,2 @@
+{'word': 'Sawfly', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'POL', 'country_conf': 0.5714737}
+{'word': 'Kingdom', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.28868946}

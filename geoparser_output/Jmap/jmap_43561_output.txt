@@ -1,0 +1,1 @@
+{'word': 'Salta', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ARG', 'country_conf': 0.957188, 'geo': {'admin1': 'Salta Province', 'lat': '-24.75806', 'lon': '-65.43457', 'country_code3': 'ARG', 'geonameid': '3838231', 'place_name': 'Salta Province', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,0 +1,14 @@
+{'word': 'Iceland', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ISL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '65', 'lon': '-18', 'country_code3': 'ISL', 'geonameid': '2629691', 'place_name': 'Republic of Iceland', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'riestchi', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Indonesia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IDN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-5', 'lon': '120', 'country_code3': 'IDN', 'geonameid': '1643084', 'place_name': 'Republic of Indonesia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Oregon', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Oregon', 'lat': '44.00013', 'lon': '-120.50139', 'country_code3': 'USA', 'geonameid': '5744337', 'place_name': 'Oregon', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Oregon', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Oregon', 'lat': '44.00013', 'lon': '-120.50139', 'country_code3': 'USA', 'geonameid': '5744337', 'place_name': 'Oregon', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Peru', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PER', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-75.25', 'country_code3': 'PER', 'geonameid': '3932488', 'place_name': 'Republic of Peru', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Oregon', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Oregon', 'lat': '44.00013', 'lon': '-120.50139', 'country_code3': 'USA', 'geonameid': '5744337', 'place_name': 'Oregon', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

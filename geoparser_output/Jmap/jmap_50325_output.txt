@@ -1,0 +1,1 @@
+{'word': 'voga', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'TGO', 'country_conf': 0.5339668}

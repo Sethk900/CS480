@@ -1,0 +1,1 @@
+{'word': 'myrtle', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'Oregon', 'lat': '43.02012', 'lon': '-123.29312', 'country_code3': 'USA', 'geonameid': '5742332', 'place_name': 'Myrtle Creek', 'feature_class': 'P', 'feature_code': 'PPL'}}

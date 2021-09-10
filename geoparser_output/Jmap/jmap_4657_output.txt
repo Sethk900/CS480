@@ -1,0 +1,1 @@
+{'word': 'NaCI', 'spans': [{'start': 1, 'end': 5}], 'country_predicted': 'FJI', 'country_conf': 0.5714737}

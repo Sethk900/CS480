@@ -1,0 +1,1 @@
+{'word': 'Letaba', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Limpopo', 'lat': '-23.51165', 'lon': '30.2746', 'country_code3': 'ZAF', 'geonameid': '8347602', 'place_name': 'Greater Letaba', 'feature_class': 'A', 'feature_code': 'ADM3'}}

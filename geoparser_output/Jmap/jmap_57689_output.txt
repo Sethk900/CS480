@@ -1,0 +1,4 @@
+{'word': 'Malaysia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MYS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '2.5', 'lon': '112.5', 'country_code3': 'MYS', 'geonameid': '1733045', 'place_name': 'Malaysia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Johor', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MYS', 'country_conf': 0.957188, 'geo': {'admin1': 'Johor', 'lat': '2', 'lon': '103.5', 'country_code3': 'MYS', 'geonameid': '1733049', 'place_name': 'Johor', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'eastcoast', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'WSM', 'country_conf': 0.24821267}
+{'word': 'eastcoast', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'WSM', 'country_conf': 0.24821267}

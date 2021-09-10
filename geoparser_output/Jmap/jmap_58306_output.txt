@@ -1,0 +1,2 @@
+{'word': 'Blacksburg', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Virginia', 'lat': '37.22957', 'lon': '-80.41394', 'country_code3': 'USA', 'geonameid': '4747845', 'place_name': 'Blacksburg', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Virginia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.19161284}

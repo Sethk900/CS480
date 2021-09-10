@@ -1,0 +1,2 @@
+{'word': 'Sweden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'SWE', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '62', 'lon': '15', 'country_code3': 'SWE', 'geonameid': '2661886', 'place_name': 'Kingdom of Sweden', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Finland', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FIN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '64', 'lon': '26', 'country_code3': 'FIN', 'geonameid': '660013', 'place_name': 'Republic of Finland', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,15 @@
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Tanzania', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'TZA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-6', 'lon': '35', 'country_code3': 'TZA', 'geonameid': '149590', 'place_name': 'United Republic of Tanzania', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'santomensis', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Princip', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'STP', 'country_conf': 0.92213035, 'geo': {'admin1': 'NA', 'lat': '1', 'lon': '7', 'country_code3': 'STP', 'geonameid': '2410758', 'place_name': 'Sao Tome and Principe', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Zaprionus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}

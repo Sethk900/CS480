@@ -1,0 +1,2 @@
+{'word': 'MARIN', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ESP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Galicia', 'lat': '42.39145', 'lon': '-8.70136', 'country_code3': 'ESP', 'geonameid': '3117409', 'place_name': 'Marn', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'CALIFORNIA', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.28365934}

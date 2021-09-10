@@ -1,0 +1,2 @@
+{'word': 'myrmecochores', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'steinergroeveri', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

@@ -1,0 +1,1 @@
+{'word': 'bank.</li><li', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'YEM', 'country_conf': 0.5339668}

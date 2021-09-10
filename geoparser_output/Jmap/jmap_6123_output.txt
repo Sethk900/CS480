@@ -1,0 +1,1 @@
+{'word': 'Petersburg', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Virginia', 'lat': '37.22793', 'lon': '-77.40193', 'country_code3': 'USA', 'geonameid': '4778626', 'place_name': 'Petersburg', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

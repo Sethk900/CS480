@@ -1,0 +1,1 @@
+{'word': 'USEPA', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'VEN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Gurico', 'lat': '9.72715', 'lon': '-67.38086', 'country_code3': 'VEN', 'geonameid': '3774417', 'place_name': 'Quebrada de Usepa', 'feature_class': 'H', 'feature_code': 'STM'}}

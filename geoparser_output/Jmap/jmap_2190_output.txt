@@ -1,0 +1,1 @@
+{'word': 'Ripley', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'Tennessee', 'lat': '35.74536', 'lon': '-89.5298', 'country_code3': 'USA', 'geonameid': '4653228', 'place_name': 'Ripley', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

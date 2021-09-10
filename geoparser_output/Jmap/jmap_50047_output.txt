@@ -1,0 +1,1 @@
+{'word': 'Macquarie', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9048774, 'geo': {'admin1': 'New South Wales', 'lat': '-31.43084', 'lon': '152.90894', 'country_code3': 'AUS', 'geonameid': '2152659', 'place_name': 'Port Macquarie', 'feature_class': 'P', 'feature_code': 'PPL'}}

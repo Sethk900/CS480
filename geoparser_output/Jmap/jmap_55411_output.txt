@@ -1,0 +1,1 @@
+{'word': 'akdown', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'KAZ', 'country_conf': 0.5714737}

@@ -1,0 +1,3 @@
+{'word': 'Kosovo', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'XKX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '42.58333', 'lon': '20.91667', 'country_code3': 'XKX', 'geonameid': '831053', 'place_name': 'Republic of Kosovo', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Yugoslavia', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'SCG', 'country_conf': 0.28365934}
+{'word': 'mobile', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Alabama', 'lat': '30.68515', 'lon': '-88.19753', 'country_code3': 'USA', 'geonameid': '4076607', 'place_name': 'Mobile County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

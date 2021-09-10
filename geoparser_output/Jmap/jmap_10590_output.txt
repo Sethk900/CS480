@@ -1,0 +1,2 @@
+{'word': 'Kissimmee', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Florida', 'lat': '28.30468', 'lon': '-81.41667', 'country_code3': 'USA', 'geonameid': '4160983', 'place_name': 'Kissimmee', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'cordata', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.28868946}

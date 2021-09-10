@@ -1,0 +1,1 @@
+{'word': 'Kuwait', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'KWT', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '29.5', 'lon': '47.75', 'country_code3': 'KWT', 'geonameid': '285570', 'place_name': 'State of Kuwait', 'feature_class': 'A', 'feature_code': 'PCLI'}}

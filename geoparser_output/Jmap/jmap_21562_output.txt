@@ -1,0 +1,1 @@
+{'word': 'Bohemia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'New York', 'lat': '40.76926', 'lon': '-73.11511', 'country_code3': 'USA', 'geonameid': '5109694', 'place_name': 'Bohemia', 'feature_class': 'P', 'feature_code': 'PPL'}}

@@ -1,0 +1,3 @@
+{'word': 'Sumatra', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'IDN', 'country_conf': 0.96374094, 'geo': {'admin1': 'NA', 'lat': '0', 'lon': '102', 'country_code3': 'IDN', 'geonameid': '1626198', 'place_name': 'Sumatra', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Soldn', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PER', 'country_conf': 0.5714737}
+{'word': 'Taiwan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'TWN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '24', 'lon': '121', 'country_code3': 'TWN', 'geonameid': '1668284', 'place_name': 'Taiwan', 'feature_class': 'A', 'feature_code': 'PCLI'}}

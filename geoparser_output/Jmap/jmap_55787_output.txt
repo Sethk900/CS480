@@ -1,0 +1,2 @@
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}

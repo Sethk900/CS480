@@ -1,0 +1,5 @@
+{'word': 'valley', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Alabama', 'lat': '32.81874', 'lon': '-85.17939', 'country_code3': 'USA', 'geonameid': '4095186', 'place_name': 'Valley', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'valley', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Alabama', 'lat': '32.81874', 'lon': '-85.17939', 'country_code3': 'USA', 'geonameid': '4095186', 'place_name': 'Valley', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Syria', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'SYR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '35', 'lon': '38', 'country_code3': 'SYR', 'geonameid': '163843', 'place_name': 'Syrian Arab Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Jebel', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ROU', 'country_conf': 0.28365934}
+{'word': 'Jebel', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ROU', 'country_conf': 0.28365934}

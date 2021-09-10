@@ -1,0 +1,6 @@
+{'word': 'Chile', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-30', 'lon': '-71', 'country_code3': 'CHL', 'geonameid': '3895114', 'place_name': 'Republic of Chile', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Antofagasta', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'CHL', 'country_conf': 0.96374094, 'geo': {'admin1': 'Antofagasta', 'lat': '-23.5', 'lon': '-69', 'country_code3': 'CHL', 'geonameid': '3899537', 'place_name': 'Regin de Antofagasta', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Valparaiso', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'CHL', 'country_conf': 0.87992215, 'geo': {'admin1': 'Valparaso', 'lat': '-32.75', 'lon': '-71.33333', 'country_code3': 'CHL', 'geonameid': '3868621', 'place_name': 'Regin de Valparaso', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Rosa', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}
+{'word': 'Rosa', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}
+{'word': 'Rosa', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}

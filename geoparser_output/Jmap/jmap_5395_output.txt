@@ -1,0 +1,4 @@
+{'word': 'Hypersymbioses', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Pinnotherinae', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'hypersymbioses', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'hypersymbioses', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}

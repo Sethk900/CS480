@@ -1,0 +1,1 @@
+{'word': 'parvulus', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'PRI', 'country_conf': 0.9528109, 'geo': {'admin1': 'San Juan', 'lat': '18.468', 'lon': '-66.11489', 'country_code3': 'PRI', 'geonameid': '4563858', 'place_name': 'Colegio de Parvulos', 'feature_class': 'S', 'feature_code': 'SCH'}}

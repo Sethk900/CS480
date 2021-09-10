@@ -1,0 +1,2 @@
+{'word': 'Massena', 'spans': [{'start': 1, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'New York', 'lat': '44.96092', 'lon': '-74.83388', 'country_code3': 'USA', 'geonameid': '5126204', 'place_name': 'Town of Massena', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}

@@ -1,0 +1,3 @@
+{'word': 'interlayering', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Poland', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'POL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '52', 'lon': '20', 'country_code3': 'POL', 'geonameid': '798544', 'place_name': 'Republic of Poland', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Poland', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'POL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '52', 'lon': '20', 'country_code3': 'POL', 'geonameid': '798544', 'place_name': 'Republic of Poland', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,1 @@
+{'word': 'Potosi', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BOL', 'country_conf': 0.957188, 'geo': {'admin1': 'Potos', 'lat': '-20.66667', 'lon': '-67', 'country_code3': 'BOL', 'geonameid': '3907580', 'place_name': 'Departamento de Potos', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,0 +1,2 @@
+{'word': 'Martinique', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'MTQ', 'country_conf': 0.3105929}
+{'word': 'Honduras', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '15', 'lon': '-86.5', 'country_code3': 'HND', 'geonameid': '3608932', 'place_name': 'Republic of Honduras', 'feature_class': 'A', 'feature_code': 'PCLI'}}

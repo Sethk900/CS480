@@ -1,0 +1,2 @@
+{'word': 'Zukunft', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saxony-Anhalt', 'lat': '51.50928', 'lon': '11.99814', 'country_code3': 'DEU', 'geonameid': '11609898', 'place_name': 'Frohe Zukunft', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}

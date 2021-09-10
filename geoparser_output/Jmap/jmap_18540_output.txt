@@ -1,0 +1,1 @@
+{'word': 'Krasnoyarsk', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'RUS', 'country_conf': 0.92213035, 'geo': {'admin1': 'Krasnoyarskiy', 'lat': '58', 'lon': '93', 'country_code3': 'RUS', 'geonameid': '1502020', 'place_name': 'Krasnoyarskiy Kray', 'feature_class': 'A', 'feature_code': 'ADM1'}}

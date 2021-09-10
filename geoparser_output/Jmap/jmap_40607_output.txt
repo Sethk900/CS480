@@ -1,0 +1,2 @@
+{'word': 'poco', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'HTI', 'country_conf': 0.28868946}
+{'word': 'Colombia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'COL', 'country_conf': 0.9516948, 'geo': {'admin1': 'Atlntico', 'lat': '11.00854', 'lon': '-74.90887', 'country_code3': 'COL', 'geonameid': '3671506', 'place_name': 'Puerto Colombia', 'feature_class': 'A', 'feature_code': 'ADM2'}}

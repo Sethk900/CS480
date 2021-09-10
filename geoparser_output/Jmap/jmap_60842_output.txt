@@ -1,0 +1,3 @@
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Francisco', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Suisun', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'California', 'lat': '38.23825', 'lon': '-122.04024', 'country_code3': 'USA', 'geonameid': '5399629', 'place_name': 'Suisun', 'feature_class': 'P', 'feature_code': 'PPL'}}

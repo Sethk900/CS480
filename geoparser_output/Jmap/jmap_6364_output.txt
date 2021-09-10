@@ -1,0 +1,2 @@
+{'word': 'Bioassays', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'SWK001', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': '', 'country_conf': 0}

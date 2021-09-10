@@ -1,0 +1,6 @@
+{'word': 'antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
+{'word': 'AZ', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'antarctica', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'NA', 'country_conf': 0.28365934}

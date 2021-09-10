@@ -1,0 +1,2 @@
+{'word': 'Santo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}
+{'word': 'phylogeographic', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

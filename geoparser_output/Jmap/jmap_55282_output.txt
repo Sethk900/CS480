@@ -1,0 +1,2 @@
+{'word': 'Amazonia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
+{'word': 'microaggregates', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

@@ -1,0 +1,1 @@
+{'word': 'Orange', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'California', 'lat': '33.67691', 'lon': '-117.77617', 'country_code3': 'USA', 'geonameid': '5379524', 'place_name': 'Orange County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

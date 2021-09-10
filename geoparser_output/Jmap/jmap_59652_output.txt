@@ -1,0 +1,2 @@
+{'word': 'Kajiado', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KEN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Kajiado', 'lat': '-2.131', 'lon': '36.878', 'country_code3': 'KEN', 'geonameid': '7667657', 'place_name': 'Kajiado', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Kenya', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'KEN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '1', 'lon': '38', 'country_code3': 'KEN', 'geonameid': '192950', 'place_name': 'Republic of Kenya', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,1 @@
+{'word': 'Kiwengoma', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'TZA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Zanzibar North', 'lat': '-5.98957', 'lon': '39.3768', 'country_code3': 'TZA', 'geonameid': '156636', 'place_name': 'Kiwengwa', 'feature_class': 'P', 'feature_code': 'PPL'}}

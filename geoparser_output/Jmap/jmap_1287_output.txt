@@ -1,0 +1,5 @@
+{'word': 'NH', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Sicily', 'lat': '37.4881', 'lon': '15.0838', 'country_code3': 'ITA', 'geonameid': '6502841', 'place_name': 'NH Parco degli Aragonesi', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Acacia', 'spans': [{'start': 4, 'end': 10}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Acacia', 'spans': [{'start': 4, 'end': 10}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Goa', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IND', 'country_conf': 0.957188, 'geo': {'admin1': 'Goa', 'lat': '15.33333', 'lon': '74.08333', 'country_code3': 'IND', 'geonameid': '1271157', 'place_name': 'Goa', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'India', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IND', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '79', 'country_code3': 'IND', 'geonameid': '1269750', 'place_name': 'Republic of India', 'feature_class': 'A', 'feature_code': 'PCLI'}}

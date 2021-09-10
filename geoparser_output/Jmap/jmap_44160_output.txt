@@ -1,0 +1,1 @@
+{'word': 'NORTH-CAROLINA', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'North Carolina', 'lat': '35.50069', 'lon': '-80.00032', 'country_code3': 'USA', 'geonameid': '4482348', 'place_name': 'North Carolina', 'feature_class': 'A', 'feature_code': 'ADM1'}}

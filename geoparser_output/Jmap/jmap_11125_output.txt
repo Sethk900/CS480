@@ -1,0 +1,2 @@
+{'word': 'Tahiti', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PYF', 'country_conf': 0.87992215, 'geo': {'admin1': 'les du Vent', 'lat': '-17.5', 'lon': '-149.5', 'country_code3': 'PYF', 'geonameid': '4034365', 'place_name': 'les du Vent', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}

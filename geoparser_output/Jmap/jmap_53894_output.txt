@@ -1,0 +1,5 @@
+{'word': 'Spilomelinae', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Iran', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IRN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '32', 'lon': '53', 'country_code3': 'IRN', 'geonameid': '130758', 'place_name': 'Islamic Republic of Iran', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Iran', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IRN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '32', 'lon': '53', 'country_code3': 'IRN', 'geonameid': '130758', 'place_name': 'Islamic Republic of Iran', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Spilomelinae', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Iran', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IRN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '32', 'lon': '53', 'country_code3': 'IRN', 'geonameid': '130758', 'place_name': 'Islamic Republic of Iran', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,1 @@
+{'word': 'Lismore', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'AUS', 'country_conf': 0.87992215, 'geo': {'admin1': 'New South Wales', 'lat': '-28.8', 'lon': '153.26667', 'country_code3': 'AUS', 'geonameid': '2160061', 'place_name': 'Lismore Municipality', 'feature_class': 'A', 'feature_code': 'ADM2'}}

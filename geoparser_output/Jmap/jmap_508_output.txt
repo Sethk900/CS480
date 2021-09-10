@@ -1,0 +1,1 @@
+{'word': 'Ellesmere', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GBR', 'country_conf': 0.9048774, 'geo': {'admin1': 'England', 'lat': '53.27875', 'lon': '-2.90134', 'country_code3': 'GBR', 'geonameid': '2650096', 'place_name': 'Ellesmere Port', 'feature_class': 'P', 'feature_code': 'PPL'}}

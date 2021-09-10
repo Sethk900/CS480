@@ -1,0 +1,1 @@
+{'word': 'Kenya', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'KEN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '1', 'lon': '38', 'country_code3': 'KEN', 'geonameid': '192950', 'place_name': 'Republic of Kenya', 'feature_class': 'A', 'feature_code': 'PCLI'}}

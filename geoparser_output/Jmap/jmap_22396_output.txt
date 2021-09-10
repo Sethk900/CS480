@@ -1,0 +1,4 @@
+{'word': 'Altai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'RUS', 'country_conf': 0.28868946}
+{'word': 'Russia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'RUS', 'country_conf': 0.7756362, 'geo': {'admin1': 'NA', 'lat': '60', 'lon': '100', 'country_code3': 'RUS', 'geonameid': '2017370', 'place_name': 'Russian Federation', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Altai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'RUS', 'country_conf': 0.28868946}
+{'word': 'Russia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'RUS', 'country_conf': 0.7756362, 'geo': {'admin1': 'NA', 'lat': '60', 'lon': '100', 'country_code3': 'RUS', 'geonameid': '2017370', 'place_name': 'Russian Federation', 'feature_class': 'A', 'feature_code': 'PCLI'}}

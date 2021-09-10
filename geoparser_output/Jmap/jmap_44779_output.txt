@@ -1,0 +1,2 @@
+{'word': 'Mackinac', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Michigan', 'lat': '45.87184', 'lon': '-84.76227', 'country_code3': 'USA', 'geonameid': '5000447', 'place_name': 'Mackinac County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}

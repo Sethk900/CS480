@@ -1,0 +1,8 @@
+{'word': 'sublineatus', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Lanka', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'LKA', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '7.75', 'lon': '80.75', 'country_code3': 'LKA', 'geonameid': '1227603', 'place_name': 'Democratic Socialist Republic of Sri Lanka', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'sublineatus', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Paris', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.957188, 'geo': {'admin1': 'le-de-France', 'lat': '48.85339', 'lon': '2.34864', 'country_code3': 'FRA', 'geonameid': '2988506', 'place_name': 'Paris', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Philippines', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'PHL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '13', 'lon': '122', 'country_code3': 'PHL', 'geonameid': '1694008', 'place_name': 'Republic of the Philippines', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Lanka', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'LKA', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '7.75', 'lon': '80.75', 'country_code3': 'LKA', 'geonameid': '1227603', 'place_name': 'Democratic Socialist Republic of Sri Lanka', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'sublineatus', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'sublineatus', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}

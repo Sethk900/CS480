@@ -1,0 +1,1 @@
+{'word': 'Tsavo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'KEN', 'country_conf': 0.96374094, 'geo': {'admin1': 'Taita Taveta', 'lat': '-2.83417', 'lon': '38.26283', 'country_code3': 'KEN', 'geonameid': '179048', 'place_name': 'Tsavo West National Park', 'feature_class': 'L', 'feature_code': 'PRK'}}

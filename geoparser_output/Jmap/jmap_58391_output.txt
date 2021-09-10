@@ -1,0 +1,8 @@
+{'word': 'Lima', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Lima', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Lima', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Cuba', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CUB', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '-79.5', 'country_code3': 'CUB', 'geonameid': '3562981', 'place_name': 'Republic of Cuba', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Jamaica', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'JAM', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '18.17717', 'lon': '-77.37122', 'country_code3': 'JAM', 'geonameid': '3489941', 'place_name': 'Jamaica', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Lima', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Cuba', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CUB', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '-79.5', 'country_code3': 'CUB', 'geonameid': '3562981', 'place_name': 'Republic of Cuba', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Jamaica', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'JAM', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '18.17717', 'lon': '-77.37122', 'country_code3': 'JAM', 'geonameid': '3489941', 'place_name': 'Jamaica', 'feature_class': 'T', 'feature_code': 'ISL'}}

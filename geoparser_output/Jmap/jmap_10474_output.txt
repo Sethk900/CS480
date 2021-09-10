@@ -1,0 +1,1 @@
+{'word': 'to\\r', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'THA', 'country_conf': 0.5714737}

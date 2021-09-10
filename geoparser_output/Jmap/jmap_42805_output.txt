@@ -1,0 +1,1 @@
+{'word': 'Monterey', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '36.23977', 'lon': '-121.3089', 'country_code3': 'USA', 'geonameid': '5374376', 'place_name': 'Monterey County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

@@ -1,0 +1,1 @@
+{'word': 'Caledonia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Vermont', 'lat': '44.46472', 'lon': '-72.10219', 'country_code3': 'USA', 'geonameid': '5234484', 'place_name': 'Caledonia County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

@@ -1,0 +1,1 @@
+{'word': 'P</em>=0.06', 'spans': [{'start': 4, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

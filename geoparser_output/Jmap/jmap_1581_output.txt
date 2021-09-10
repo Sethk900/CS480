@@ -1,0 +1,1 @@
+{'word': 'Roost', 'spans': [{'start': 16, 'end': 21}], 'country_predicted': 'FRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Hauts-de-France', 'lat': '50.42028', 'lon': '3.10556', 'country_code3': 'FRA', 'geonameid': '6438451', 'place_name': 'Roost-Warendin', 'feature_class': 'A', 'feature_code': 'ADM4'}}

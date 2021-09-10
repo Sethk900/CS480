@@ -1,0 +1,1 @@
+{'word': 'ALEXANDRIA', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'EGY', 'country_conf': 0.87992215, 'geo': {'admin1': 'Alexandria', 'lat': '31.20176', 'lon': '29.91582', 'country_code3': 'EGY', 'geonameid': '361058', 'place_name': 'Alexandria', 'feature_class': 'P', 'feature_code': 'PPLA'}}

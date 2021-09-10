@@ -1,0 +1,3 @@
+{'word': 'Elko', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Nevada', 'lat': '41.14583', 'lon': '-115.35776', 'country_code3': 'USA', 'geonameid': '5703673', 'place_name': 'Elko County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'Nevada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Nevada', 'lat': '39.25021', 'lon': '-116.75119', 'country_code3': 'USA', 'geonameid': '5509151', 'place_name': 'Nevada', 'feature_class': 'A', 'feature_code': 'ADM1'}}

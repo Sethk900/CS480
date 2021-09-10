@@ -1,0 +1,5 @@
+{'word': 'graansorghum', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'verbou', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
+{'word': 'versadig', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'FRA', 'country_conf': 0.9528109, 'geo': {'admin1': 'le-de-France', 'lat': '48.80359', 'lon': '2.13424', 'country_code3': 'FRA', 'geonameid': '2969679', 'place_name': 'Versailles', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'volumeverskille', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'feitlik', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}

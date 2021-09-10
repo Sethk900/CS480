@@ -1,0 +1,9 @@
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'arboviruses', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}

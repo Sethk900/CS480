@@ -1,0 +1,3 @@
+{'word': 'Hatteras', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9048774, 'geo': {'admin1': 'North Carolina', 'lat': '35.21934', 'lon': '-75.69016', 'country_code3': 'USA', 'geonameid': '4470225', 'place_name': 'Hatteras', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}

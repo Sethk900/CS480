@@ -1,0 +1,1 @@
+{'word': 'Hong', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'HKG', 'country_conf': 0.957188, 'geo': {'admin1': 'Central and Western', 'lat': '22.27832', 'lon': '114.17469', 'country_code3': 'HKG', 'geonameid': '1819729', 'place_name': 'Hong Kong', 'feature_class': 'P', 'feature_code': 'PPLC'}}

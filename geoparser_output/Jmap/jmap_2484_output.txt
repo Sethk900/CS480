@@ -1,0 +1,3 @@
+{'word': 'Hypogymnia</em', 'spans': [{'start': 4, 'end': 18}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Hypogymnia</em', 'spans': [{'start': 4, 'end': 18}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Hypogymnia</em', 'spans': [{'start': 4, 'end': 18}], 'country_predicted': '', 'country_conf': 0}

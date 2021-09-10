@@ -1,0 +1,1 @@
+{'word': 'Gower', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.28365934}

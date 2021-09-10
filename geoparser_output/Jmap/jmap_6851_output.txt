@@ -1,0 +1,3 @@
+{'word': 'Meuschen', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'DEU', 'country_conf': 0.9528109, 'geo': {'admin1': 'Baden-Wrttemberg', 'lat': '47.73333', 'lon': '9.65', 'country_code3': 'DEU', 'geonameid': '2871449', 'place_name': 'Meuschen', 'feature_class': 'S', 'feature_code': 'FRM'}}
+{'word': 'Meuschen', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'DEU', 'country_conf': 0.9528109, 'geo': {'admin1': 'Baden-Wrttemberg', 'lat': '47.73333', 'lon': '9.65', 'country_code3': 'DEU', 'geonameid': '2871449', 'place_name': 'Meuschen', 'feature_class': 'S', 'feature_code': 'FRM'}}
+{'word': 'aleatriamente', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}

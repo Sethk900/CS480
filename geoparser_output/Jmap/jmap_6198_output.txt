@@ -1,0 +1,1 @@
+{'word': 'Pretoria', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ZAF', 'country_conf': 0.87992215, 'geo': {'admin1': 'Gauteng', 'lat': '-26.08333', 'lon': '28.25', 'country_code3': 'ZAF', 'geonameid': '1085594', 'place_name': 'Gauteng', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,0 +1,11 @@
+{'word': 'klimaat', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CYP', 'country_conf': 0.9528109, 'geo': {'admin1': 'Pafos', 'lat': '34.84114', 'lon': '32.46888', 'country_code3': 'CYP', 'geonameid': '12060437', 'place_name': 'Klimakas Kiosk', 'feature_class': 'S', 'feature_code': 'MKT'}}
+{'word': 'klimaat', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CYP', 'country_conf': 0.9528109, 'geo': {'admin1': 'Pafos', 'lat': '34.84114', 'lon': '32.46888', 'country_code3': 'CYP', 'geonameid': '12060437', 'place_name': 'Klimakas Kiosk', 'feature_class': 'S', 'feature_code': 'MKT'}}
+{'word': 'opeenvolgende', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'saaitye', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Saaitye', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'klimaat', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CYP', 'country_conf': 0.9528109, 'geo': {'admin1': 'Pafos', 'lat': '34.84114', 'lon': '32.46888', 'country_code3': 'CYP', 'geonameid': '12060437', 'place_name': 'Klimakas Kiosk', 'feature_class': 'S', 'feature_code': 'MKT'}}
+{'word': 'saaitye', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'verband', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}
+{'word': 'Palmiet', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Western Cape', 'lat': '-33.09693', 'lon': '20.7085', 'country_code3': 'ZAF', 'geonameid': '966453', 'place_name': 'Palmiet Fontein Vlakte', 'feature_class': 'S', 'feature_code': 'FRM'}}
+{'word': 'verhoog', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'saaitye', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}

@@ -1,0 +1,2 @@
+{'word': 'macroecological', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'macroecological', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

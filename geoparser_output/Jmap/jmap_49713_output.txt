@@ -1,0 +1,1 @@
+{'word': 'Taupo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'NZL', 'country_conf': 0.9048774, 'geo': {'admin1': 'Waikato', 'lat': '-38.68333', 'lon': '176.08333', 'country_code3': 'NZL', 'geonameid': '2181742', 'place_name': 'Taupo', 'feature_class': 'P', 'feature_code': 'PPL'}}

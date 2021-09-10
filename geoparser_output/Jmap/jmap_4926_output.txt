@@ -1,0 +1,4 @@
+{'word': 'Kawakatsu', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'JPN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Gifu', 'lat': '35.36667', 'lon': '136.76667', 'country_code3': 'JPN', 'geonameid': '1859998', 'place_name': 'Kasamatsuch', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Tricladida', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'bogotensis', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'bogotensis', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}

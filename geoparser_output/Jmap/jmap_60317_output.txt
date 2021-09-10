@@ -1,0 +1,3 @@
+{'word': 'Pinellas', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Florida', 'lat': '27.90268', 'lon': '-82.73955', 'country_code3': 'USA', 'geonameid': '4168618', 'place_name': 'Pinellas County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}

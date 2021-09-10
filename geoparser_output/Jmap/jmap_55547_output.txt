@@ -1,0 +1,1 @@
+{'word': 'Missouri', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Missouri', 'lat': '38.25031', 'lon': '-92.50046', 'country_code3': 'USA', 'geonameid': '4398678', 'place_name': 'Missouri', 'feature_class': 'A', 'feature_code': 'ADM1'}}

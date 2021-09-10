@@ -1,0 +1,2 @@
+{'word': 'clara', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IRL', 'country_conf': 0.87992215, 'geo': {'admin1': 'Leinster', 'lat': '53.3425', 'lon': '-7.61389', 'country_code3': 'IRL', 'geonameid': '2965482', 'place_name': 'Clara', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Tringa', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.5714737}

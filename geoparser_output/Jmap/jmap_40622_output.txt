@@ -1,0 +1,2 @@
+{'word': 'Brownea', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KNA', 'country_conf': 0.5714737}
+{'word': 'capitella', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ITA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Lombardy', 'lat': '45.0875', 'lon': '10.60632', 'country_code3': 'ITA', 'geonameid': '3181004', 'place_name': 'Campitello', 'feature_class': 'P', 'feature_code': 'PPL'}}

@@ -1,0 +1,7 @@
+{'word': 'Altai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'RUS', 'country_conf': 0.28868946}
+{'word': 'Altai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'RUS', 'country_conf': 0.28868946}
+{'word': 'bioclimatic', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'New York', 'lat': '42.4473', 'lon': '-76.4604', 'country_code3': 'USA', 'geonameid': '7185937', 'place_name': 'Guterman Bioclimatic Laboratory', 'feature_class': 'S', 'feature_code': 'BLDG'}}
+{'word': 'paleoclimates', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'UK', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'GBR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '54.75844', 'lon': '-2.69531', 'country_code3': 'GBR', 'geonameid': '2635167', 'place_name': 'United Kingdom of Great Britain and Northern Ireland', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Altai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'RUS', 'country_conf': 0.28868946}
+{'word': 'Siberia', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'RUS', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '55.01565', 'lon': '82.96276', 'country_code3': 'RUS', 'geonameid': '11961345', 'place_name': 'Siberia', 'feature_class': 'L', 'feature_code': 'RGN'}}

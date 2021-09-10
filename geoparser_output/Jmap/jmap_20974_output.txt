@@ -1,0 +1,1 @@
+{'word': 'vespera', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'HRV', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '44.52067', 'lon': '14.45965', 'country_code3': 'HRV', 'geonameid': '9255040', 'place_name': 'Family Hotel Vespera', 'feature_class': 'S', 'feature_code': 'HTL'}}

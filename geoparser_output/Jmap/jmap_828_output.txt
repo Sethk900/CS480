@@ -1,0 +1,6 @@
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Utah', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Utah', 'lat': '39.25024', 'lon': '-111.75103', 'country_code3': 'USA', 'geonameid': '5549030', 'place_name': 'Utah', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}

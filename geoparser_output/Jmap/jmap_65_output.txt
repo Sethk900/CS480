@@ -1,0 +1,2 @@
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'redwood', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'California', 'lat': '37.48522', 'lon': '-122.23635', 'country_code3': 'USA', 'geonameid': '5386834', 'place_name': 'Redwood City', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

@@ -1,0 +1,1 @@
+{'word': 'Serbia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'SRB', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '44.81892', 'lon': '20.45998', 'country_code3': 'SRB', 'geonameid': '6290252', 'place_name': 'Serbia', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,1 @@
+{'word': 'mobile', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Alabama', 'lat': '30.68515', 'lon': '-88.19753', 'country_code3': 'USA', 'geonameid': '4076607', 'place_name': 'Mobile County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

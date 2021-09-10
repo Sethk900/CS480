@@ -1,0 +1,1 @@
+{'word': 'predation.<br><br', 'spans': [{'start': 0, 'end': 17}], 'country_predicted': '', 'country_conf': 0}

@@ -1,0 +1,2 @@
+{'word': 'Oaxaca', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.87992215, 'geo': {'admin1': 'Oaxaca', 'lat': '17', 'lon': '-96.5', 'country_code3': 'MEX', 'geonameid': '3522509', 'place_name': 'Estado de Oaxaca', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,2 @@
+{'word': 'amianta', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ITA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Calabria', 'lat': '39.13319', 'lon': '16.07459', 'country_code3': 'ITA', 'geonameid': '6539845', 'place_name': 'Amantea', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,2 @@
+{'word': 'Cerro', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CUB', 'country_conf': 0.28365934}
+{'word': 'Venezuela', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'VEN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '8', 'lon': '-66', 'country_code3': 'VEN', 'geonameid': '3625428', 'place_name': 'Bolivarian Republic of Venezuela', 'feature_class': 'A', 'feature_code': 'PCLI'}}

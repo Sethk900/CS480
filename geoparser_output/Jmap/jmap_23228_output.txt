@@ -1,0 +1,2 @@
+{'word': '-Asia', 'spans': [{'start': 7, 'end': 12}], 'country_predicted': 'NA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '29.84064', 'lon': '89.29688', 'country_code3': 'NA', 'geonameid': '6255147', 'place_name': 'Asia', 'feature_class': 'L', 'feature_code': 'CONT'}}
+{'word': 'subgeneric', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}

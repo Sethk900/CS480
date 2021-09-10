@@ -1,0 +1,4 @@
+{'word': 'groei', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ROU', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maramure', 'lat': '47.61667', 'lon': '23.61667', 'country_code3': 'ROU', 'geonameid': '676653', 'place_name': 'Groi', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'groei', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ROU', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maramure', 'lat': '47.61667', 'lon': '23.61667', 'country_code3': 'ROU', 'geonameid': '676653', 'place_name': 'Groi', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'betekenisvolle', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'vervang', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'AUT', 'country_conf': 0.5339668}

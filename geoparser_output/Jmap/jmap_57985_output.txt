@@ -1,0 +1,1 @@
+{'word': 'Shaanxi', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Shaanxi', 'lat': '36', 'lon': '109', 'country_code3': 'CHN', 'geonameid': '1796480', 'place_name': 'Shaanxi', 'feature_class': 'A', 'feature_code': 'ADM1'}}

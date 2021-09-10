@@ -1,0 +1,3 @@
+{'word': 'RV', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
+{'word': 'Kiritimati', 'spans': [{'start': 1, 'end': 11}], 'country_predicted': 'KIR', 'country_conf': 0.9528109, 'geo': {'admin1': 'Line Islands', 'lat': '1.94', 'lon': '-157.475', 'country_code3': 'KIR', 'geonameid': '7521593', 'place_name': 'Kiritimati', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Kiribati', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'KIR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '1.421', 'lon': '172.984', 'country_code3': 'KIR', 'geonameid': '4030945', 'place_name': 'Republic of Kiribati', 'feature_class': 'A', 'feature_code': 'PCLI'}}

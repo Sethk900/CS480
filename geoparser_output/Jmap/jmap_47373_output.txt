@@ -1,0 +1,1 @@
+{'word': 'SEYCHELLES', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'SYC', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '-4.58333', 'lon': '55.66667', 'country_code3': 'SYC', 'geonameid': '241170', 'place_name': 'Republic of Seychelles', 'feature_class': 'A', 'feature_code': 'PCLI'}}

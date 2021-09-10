@@ -1,0 +1,1 @@
+{'word': 'Grenada', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GRD', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '12.11667', 'lon': '-61.66667', 'country_code3': 'GRD', 'geonameid': '3580239', 'place_name': 'Grenada', 'feature_class': 'A', 'feature_code': 'PCLI'}}

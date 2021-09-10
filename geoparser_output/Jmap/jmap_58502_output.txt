@@ -1,0 +1,2 @@
+{'word': 'Israel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Earth', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'NA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '0', 'lon': '0', 'country_code3': 'NA', 'geonameid': '6295630', 'place_name': 'Earth', 'feature_class': 'L', 'feature_code': 'AREA'}}

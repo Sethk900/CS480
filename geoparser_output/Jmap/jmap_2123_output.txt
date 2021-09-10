@@ -1,0 +1,1 @@
+{'word': 'Aleppo', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'SYR', 'country_conf': 0.957188, 'geo': {'admin1': 'Aleppo', 'lat': '36.25', 'lon': '37.61667', 'country_code3': 'SYR', 'geonameid': '170062', 'place_name': 'Aleppo Governorate', 'feature_class': 'A', 'feature_code': 'ADM1'}}

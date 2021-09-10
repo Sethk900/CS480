@@ -1,0 +1,3 @@
+{'word': 'aangeplant', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Streek', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.5714737}
+{'word': 'verhoog', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}

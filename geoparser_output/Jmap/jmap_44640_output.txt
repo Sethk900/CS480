@@ -1,0 +1,1 @@
+{'word': 'Blanford', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Indiana', 'lat': '39.66504', 'lon': '-87.52058', 'country_code3': 'USA', 'geonameid': '4254658', 'place_name': 'Blanford', 'feature_class': 'P', 'feature_code': 'PPL'}}

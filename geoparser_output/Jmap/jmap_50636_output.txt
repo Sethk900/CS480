@@ -1,0 +1,2 @@
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Panama', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '9', 'lon': '-80', 'country_code3': 'PAN', 'geonameid': '3703430', 'place_name': 'Republic of Panama', 'feature_class': 'A', 'feature_code': 'PCLI'}}

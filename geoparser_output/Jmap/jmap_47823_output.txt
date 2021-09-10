@@ -1,0 +1,1 @@
+{'word': 'Harrisburg', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '40.2737', 'lon': '-76.88442', 'country_code3': 'USA', 'geonameid': '5192726', 'place_name': 'Harrisburg', 'feature_class': 'P', 'feature_code': 'PPLA'}}

@@ -1,0 +1,4 @@
+{'word': 'betekenisvol', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'verbou', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
+{'word': 'betekenisvol', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'gehad', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}

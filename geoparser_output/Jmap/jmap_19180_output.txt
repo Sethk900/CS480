@@ -1,0 +1,5 @@
+{'word': 'Linville', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.28868946}
+{'word': 'Carolina', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maranho', 'lat': '-7.50794', 'lon': '-47.14907', 'country_code3': 'BRA', 'geonameid': '6319678', 'place_name': 'Carolina', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Linville', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.28868946}
+{'word': 'Carolina', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Maranho', 'lat': '-7.50794', 'lon': '-47.14907', 'country_code3': 'BRA', 'geonameid': '6319678', 'place_name': 'Carolina', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Paulownia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CAN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Quebec', 'lat': '47.42556', 'lon': '-77.42556', 'country_code3': 'CAN', 'geonameid': '6036819', 'place_name': 'Lac Paulownia', 'feature_class': 'H', 'feature_code': 'LK'}}

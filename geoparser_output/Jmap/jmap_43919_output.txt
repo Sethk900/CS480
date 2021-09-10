@@ -1,0 +1,1 @@
+{'word': 'Bismarck', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.7178229, 'geo': {'admin1': 'North Dakota', 'lat': '46.80833', 'lon': '-100.78374', 'country_code3': 'USA', 'geonameid': '5688025', 'place_name': 'Bismarck', 'feature_class': 'P', 'feature_code': 'PPLA'}}

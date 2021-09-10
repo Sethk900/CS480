@@ -1,0 +1,2 @@
+{'word': 'ontvang', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NOR', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '62.51716', 'lon': '11.22103', 'country_code3': 'NOR', 'geonameid': '9823047', 'place_name': 'stvang ytre', 'feature_class': 'S', 'feature_code': 'FRM'}}
+{'word': 'blaaroppervlakteduurte', 'spans': [{'start': 0, 'end': 22}], 'country_predicted': '', 'country_conf': 0}

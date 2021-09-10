@@ -1,0 +1,4 @@
+{'word': 'arboviruses', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Jersey', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'JEY', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '49.2167', 'lon': '-2.13753', 'country_code3': 'JEY', 'geonameid': '3042143', 'place_name': 'Jersey', 'feature_class': 'T', 'feature_code': 'ISL'}}
+{'word': 'Virginia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.19161284}
+{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}

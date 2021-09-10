@@ -1,0 +1,1 @@
+{'word': 'Pisgah', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'Alabama', 'lat': '34.68092', 'lon': '-85.84775', 'country_code3': 'USA', 'geonameid': '4083725', 'place_name': 'Pisgah', 'feature_class': 'P', 'feature_code': 'PPL'}}

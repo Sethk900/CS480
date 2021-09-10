@@ -1,0 +1,2 @@
+{'word': 'Spodoptera', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Antigua', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ATG', 'country_conf': 0.7178229, 'geo': {'admin1': 'NA', 'lat': '17.05', 'lon': '-61.8', 'country_code3': 'ATG', 'geonameid': '3576396', 'place_name': 'Antigua and Barbuda', 'feature_class': 'A', 'feature_code': 'PCLI'}}

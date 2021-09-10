@@ -1,0 +1,1 @@
+{'word': 'Kyoto', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'JPN', 'country_conf': 0.96374094, 'geo': {'admin1': 'Kyoto', 'lat': '35.25', 'lon': '135.43333', 'country_code3': 'JPN', 'geonameid': '1857907', 'place_name': 'Kyoto Prefecture', 'feature_class': 'A', 'feature_code': 'ADM1'}}

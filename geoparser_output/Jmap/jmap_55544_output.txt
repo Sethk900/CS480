@@ -1,0 +1,1 @@
+{'word': 'gallers', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Minnesota', 'lat': '44.18714', 'lon': '-93.70944', 'country_code3': 'USA', 'geonameid': '5027645', 'place_name': "Galler's Airport", 'feature_class': 'S', 'feature_code': 'AIRP'}}

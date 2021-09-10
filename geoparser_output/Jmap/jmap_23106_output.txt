@@ -1,0 +1,2 @@
+{'word': 'Barynotus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Heckel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Eastern Cape', 'lat': '-32.44878', 'lon': '27.53948', 'country_code3': 'ZAF', 'geonameid': '997122', 'place_name': 'Hekel', 'feature_class': 'S', 'feature_code': 'FRM'}}

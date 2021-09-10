@@ -1,0 +1,1 @@
+{'word': 'd.w.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'NZL', 'country_conf': 0.9048774, 'geo': {'admin1': 'Canterbury', 'lat': '-42.39829', 'lon': '172.74015', 'country_code3': 'NZL', 'geonameid': '6219433', 'place_name': 'D.W. Stream', 'feature_class': 'H', 'feature_code': 'STM'}}

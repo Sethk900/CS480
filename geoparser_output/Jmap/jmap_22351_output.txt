@@ -1,0 +1,1 @@
+{'word': 'Lecanoromycetes', 'spans': [{'start': 1, 'end': 16}], 'country_predicted': '', 'country_conf': 0}

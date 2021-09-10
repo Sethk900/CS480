@@ -1,0 +1,2 @@
+{'word': 'Cuba', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CUB', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '-79.5', 'country_code3': 'CUB', 'geonameid': '3562981', 'place_name': 'Republic of Cuba', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Cuba', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CUB', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '-79.5', 'country_code3': 'CUB', 'geonameid': '3562981', 'place_name': 'Republic of Cuba', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,4 @@
+{'word': 'Kentucky', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Kentucky', 'lat': '38.20042', 'lon': '-84.87762', 'country_code3': 'USA', 'geonameid': '6254925', 'place_name': 'Kentucky', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Louisiana', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Louisiana', 'lat': '31.00047', 'lon': '-92.0004', 'country_code3': 'USA', 'geonameid': '4331987', 'place_name': 'Louisiana', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'motacilla', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CUB', 'country_conf': 0.5714737}
+{'word': 'mustelina', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}

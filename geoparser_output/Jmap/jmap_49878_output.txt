@@ -1,0 +1,1 @@
+{'word': 'Lakeland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Florida', 'lat': '28.03947', 'lon': '-81.9498', 'country_code3': 'USA', 'geonameid': '4161438', 'place_name': 'Lakeland', 'feature_class': 'P', 'feature_code': 'PPL'}}

@@ -1,0 +1,1 @@
+{'word': 'Cameroon', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CMR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '6', 'lon': '12.5', 'country_code3': 'CMR', 'geonameid': '2233387', 'place_name': 'Republic of Cameroon', 'feature_class': 'A', 'feature_code': 'PCLI'}}

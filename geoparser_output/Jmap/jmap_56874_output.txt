@@ -1,0 +1,11 @@
+{'word': 'Liverpool', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GBR', 'country_conf': 0.96374094, 'geo': {'admin1': 'England', 'lat': '53.41058', 'lon': '-2.97794', 'country_code3': 'GBR', 'geonameid': '2644210', 'place_name': 'Liverpool', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
+{'word': 'Plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'NSW', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'AUS', 'country_conf': 0.6840588, 'geo': {'admin1': 'New South Wales', 'lat': '-33', 'lon': '146', 'country_code3': 'AUS', 'geonameid': '2155400', 'place_name': 'State of New South Wales', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'plains', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Pennsylvania', 'lat': '41.27536', 'lon': '-75.8502', 'country_code3': 'USA', 'geonameid': '5206422', 'place_name': 'Plains', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'NSW', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'AUS', 'country_conf': 0.6840588, 'geo': {'admin1': 'New South Wales', 'lat': '-33', 'lon': '146', 'country_code3': 'AUS', 'geonameid': '2155400', 'place_name': 'State of New South Wales', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Mt', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}

@@ -1,0 +1,2 @@
+{'word': 'CALIFORNIA', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
+{'word': 'MISSISSIPPI', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Mississippi', 'lat': '32.75041', 'lon': '-89.75036', 'country_code3': 'USA', 'geonameid': '4436296', 'place_name': 'Mississippi', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,0 +1,2 @@
+{'word': 'Hanoi', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'VNM', 'country_conf': 0.957188, 'geo': {'admin1': 'Ha Ni', 'lat': '21', 'lon': '105.75', 'country_code3': 'VNM', 'geonameid': '1581129', 'place_name': 'Hanoi', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Hoa', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IND', 'country_conf': 0.28868946}

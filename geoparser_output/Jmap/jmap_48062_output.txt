@@ -1,0 +1,1 @@
+{'word': 'opercle', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Idaho', 'lat': '46.32676', 'lon': '-116.75024', 'country_code3': 'USA', 'geonameid': '5602115', 'place_name': 'Nez Perce County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

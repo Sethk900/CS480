@@ -1,0 +1,1 @@
+{'word': 'Belgium', 'spans': [{'start': 1, 'end': 8}], 'country_predicted': 'BEL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '50.75', 'lon': '4.5', 'country_code3': 'BEL', 'geonameid': '2802361', 'place_name': 'Kingdom of Belgium', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,5 @@
+{'word': 'Sacramento', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Minas Gerais', 'lat': '-19.88039', 'lon': '-47.226', 'country_code3': 'BRA', 'geonameid': '6321740', 'place_name': 'Sacramento', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Valley', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Alabama', 'lat': '32.81874', 'lon': '-85.17939', 'country_code3': 'USA', 'geonameid': '4095186', 'place_name': 'Valley', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'U.S.A.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '39.76', 'lon': '-98.5', 'country_code3': 'USA', 'geonameid': '6252001', 'place_name': 'United States', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

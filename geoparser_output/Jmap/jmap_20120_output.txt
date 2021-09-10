@@ -1,0 +1,7 @@
+{'word': 'Himalayan', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
+{'word': 'Himalayas', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NA', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '28', 'lon': '84', 'country_code3': 'NA', 'geonameid': '1252558', 'place_name': 'Himalayas', 'feature_class': 'T', 'feature_code': 'MTS'}}
+{'word': 'Himalayas', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NA', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '28', 'lon': '84', 'country_code3': 'NA', 'geonameid': '1252558', 'place_name': 'Himalayas', 'feature_class': 'T', 'feature_code': 'MTS'}}
+{'word': 'Himalayas', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NA', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '28', 'lon': '84', 'country_code3': 'NA', 'geonameid': '1252558', 'place_name': 'Himalayas', 'feature_class': 'T', 'feature_code': 'MTS'}}
+{'word': 'Himalayan', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
+{'word': 'Himalayan', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
+{'word': 'Himalayan', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.28868946}

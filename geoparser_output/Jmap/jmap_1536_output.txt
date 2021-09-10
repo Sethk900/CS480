@@ -1,0 +1,4 @@
+{'word': 'Norway', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NOR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '62', 'lon': '10', 'country_code3': 'NOR', 'geonameid': '3144096', 'place_name': 'Kingdom of Norway', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Norway', 'spans': [{'start': 20, 'end': 26}], 'country_predicted': 'NOR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '62', 'lon': '10', 'country_code3': 'NOR', 'geonameid': '3144096', 'place_name': 'Kingdom of Norway', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Norway', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NOR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '62', 'lon': '10', 'country_code3': 'NOR', 'geonameid': '3144096', 'place_name': 'Kingdom of Norway', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}

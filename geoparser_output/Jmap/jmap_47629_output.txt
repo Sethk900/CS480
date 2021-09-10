@@ -1,0 +1,1 @@
+{'word': 'Fiji', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FJI', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-18', 'lon': '178', 'country_code3': 'FJI', 'geonameid': '2205218', 'place_name': 'Republic of Fiji', 'feature_class': 'A', 'feature_code': 'PCLI'}}

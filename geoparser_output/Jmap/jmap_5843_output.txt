@@ -1,0 +1,5 @@
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'FL', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}

@@ -1,0 +1,1 @@
+{'word': 'Salvador', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Bahia', 'lat': '-12.97111', 'lon': '-38.51083', 'country_code3': 'BRA', 'geonameid': '3450554', 'place_name': 'Salvador', 'feature_class': 'P', 'feature_code': 'PPLA'}}

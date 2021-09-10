@@ -1,0 +1,1 @@
+{'word': 'Quebec', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Quebec', 'lat': '52.00017', 'lon': '-71.99907', 'country_code3': 'CAN', 'geonameid': '6115047', 'place_name': 'Qubec', 'feature_class': 'A', 'feature_code': 'ADM1'}}

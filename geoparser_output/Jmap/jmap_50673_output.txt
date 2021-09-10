@@ -1,0 +1,1 @@
+{'word': 'salinas', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ECU', 'country_conf': 0.87992215, 'geo': {'admin1': 'Santa Elena', 'lat': '-2.21452', 'lon': '-80.95151', 'country_code3': 'ECU', 'geonameid': '3652100', 'place_name': 'Salinas', 'feature_class': 'P', 'feature_code': 'PPL'}}

@@ -1,0 +1,1 @@
+{'word': 'attwateri', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'California', 'lat': '37.34772', 'lon': '-120.60908', 'country_code3': 'USA', 'geonameid': '5325187', 'place_name': 'Atwater', 'feature_class': 'P', 'feature_code': 'PPL'}}

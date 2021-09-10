@@ -1,0 +1,1 @@
+{'word': 'Ribera', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Sicily', 'lat': '37.49844', 'lon': '13.26415', 'country_code3': 'ITA', 'geonameid': '6539174', 'place_name': 'Ribera', 'feature_class': 'A', 'feature_code': 'ADM3'}}

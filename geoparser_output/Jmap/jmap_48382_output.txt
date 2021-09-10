@@ -1,0 +1,1 @@
+{'word': 'Stuttgart', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'DEU', 'country_conf': 0.96374094, 'geo': {'admin1': 'Baden-Wrttemberg', 'lat': '49.08333', 'lon': '9.66667', 'country_code3': 'DEU', 'geonameid': '3214105', 'place_name': 'Regierungsbezirk Stuttgart', 'feature_class': 'A', 'feature_code': 'ADM2'}}

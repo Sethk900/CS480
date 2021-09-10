@@ -1,0 +1,1 @@
+{'word': 'Nadu', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IND', 'country_conf': 0.957188, 'geo': {'admin1': 'Tamil Nadu', 'lat': '11', 'lon': '78.33333', 'country_code3': 'IND', 'geonameid': '1255053', 'place_name': 'State of Tamil Ndu', 'feature_class': 'A', 'feature_code': 'ADM1'}}

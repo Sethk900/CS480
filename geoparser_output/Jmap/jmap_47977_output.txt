@@ -1,0 +1,5 @@
+{'word': 'Phylacomantis', 'spans': [{'start': 1, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Plateau', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.28868946}
+{'word': 'Madagascar', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'MDG', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-20', 'lon': '47', 'country_code3': 'MDG', 'geonameid': '1062947', 'place_name': 'Republic of Madagascar', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Phylacomantis', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'pseudoasper', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}

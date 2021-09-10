@@ -1,0 +1,2 @@
+{'word': 'bewys', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.92213035, 'geo': {'admin1': 'le-de-France', 'lat': '48.85341', 'lon': '2.3488', 'country_code3': 'FRA', 'geonameid': '2988507', 'place_name': 'Paris', 'feature_class': 'P', 'feature_code': 'PPLC'}}
+{'word': 'verband', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}

@@ -1,0 +1,2 @@
+{'word': 'Umgebung', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CHE', 'country_conf': 0.5339668}
+{'word': 'Manaus', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Amazonas', 'lat': '-3.04361', 'lon': '-60.01282', 'country_code3': 'BRA', 'geonameid': '6319328', 'place_name': 'Manaus', 'feature_class': 'A', 'feature_code': 'ADM2'}}

@@ -1,0 +1,4 @@
+{'word': 'Melichar', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'RUS', 'country_conf': 0.5714737}
+{'word': 'Madagascar', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'MDG', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-20', 'lon': '47', 'country_code3': 'MDG', 'geonameid': '1062947', 'place_name': 'Republic of Madagascar', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Melichar', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'RUS', 'country_conf': 0.5714737}
+{'word': 'Melichar', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'RUS', 'country_conf': 0.5714737}

@@ -1,0 +1,1 @@
+{'word': 'west', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '51.52604', 'lon': '-131.16073', 'country_code3': 'USA', 'geonameid': '11887751', 'place_name': 'West', 'feature_class': 'L', 'feature_code': 'RGN'}}

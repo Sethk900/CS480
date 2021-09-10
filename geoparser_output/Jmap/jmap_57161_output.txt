@@ -1,0 +1,1 @@
+{'word': 'Singapore', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'SGP', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '1.36667', 'lon': '103.8', 'country_code3': 'SGP', 'geonameid': '1880251', 'place_name': 'Republic of Singapore', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,4 @@
+{'word': 'coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
+{'word': 'macroinvertebrates', 'spans': [{'start': 0, 'end': 18}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Merced', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '37.19186', 'lon': '-120.71767', 'country_code3': 'USA', 'geonameid': '5372259', 'place_name': 'Merced County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

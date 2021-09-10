@@ -1,0 +1,5 @@
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
+{'word': 'Mexico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '23', 'lon': '-102', 'country_code3': 'MEX', 'geonameid': '3996063', 'place_name': 'Mexico', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
+{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}

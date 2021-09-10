@@ -1,0 +1,1 @@
+{'word': 'Acacia', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}

@@ -1,0 +1,8 @@
+{'word': 'Santiago', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'Estero', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Florida', 'lat': '26.43814', 'lon': '-81.80675', 'country_code3': 'USA', 'geonameid': '4154568', 'place_name': 'Estero', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Province', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AGO', 'country_conf': 0.28365934}
+{'word': 'indet.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MMR', 'country_conf': 0.9048774, 'geo': {'admin1': 'Sagain', 'lat': '23.80588', 'lon': '95.86913', 'country_code3': 'MMR', 'geonameid': '1322161', 'place_name': 'Indet', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Santiago', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'Estero', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Florida', 'lat': '26.43814', 'lon': '-81.80675', 'country_code3': 'USA', 'geonameid': '4154568', 'place_name': 'Estero', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Province', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AGO', 'country_conf': 0.28365934}
+{'word': 'Argentina', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ARG', 'country_conf': 0.9516948, 'geo': {'admin1': 'Santa Fe Province', 'lat': '-32.92616', 'lon': '-60.73918', 'country_code3': 'ARG', 'geonameid': '6269145', 'place_name': 'Centro Cultural Antrtida Argentina', 'feature_class': 'S', 'feature_code': 'RSTNQ'}}

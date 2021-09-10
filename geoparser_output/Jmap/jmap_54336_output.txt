@@ -1,0 +1,3 @@
+{'word': 'Salamanca', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Salamanca', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}
+{'word': 'Spain', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ESP', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '40', 'lon': '-4', 'country_code3': 'ESP', 'geonameid': '2510769', 'place_name': 'Kingdom of Spain', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,0 +1,7 @@
+{'word': 'Macrodasyida', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Macrodasyida', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Cyprus', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'CYP', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '35', 'lon': '33', 'country_code3': 'CYP', 'geonameid': '146669', 'place_name': 'Republic of Cyprus', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Egypt', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'EGY', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '27', 'lon': '30', 'country_code3': 'EGY', 'geonameid': '357994', 'place_name': 'Arab Republic of Egypt', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Israel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Cephalodasys', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Cephalodasys', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}

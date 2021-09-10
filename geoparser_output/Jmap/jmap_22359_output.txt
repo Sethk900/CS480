@@ -1,0 +1,1 @@
+{'word': 'porterii', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ROU', 'country_conf': 0.92213035, 'geo': {'admin1': 'Gorj', 'lat': '45.17309', 'lon': '23.348', 'country_code3': 'ROU', 'geonameid': '676897', 'place_name': 'Gorncel', 'feature_class': 'P', 'feature_code': 'PPL'}}

@@ -1,0 +1,2 @@
+{'word': 'Piruwa', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IND', 'country_conf': 0.5339668}
+{'word': 'Piruwa', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'IND', 'country_conf': 0.5339668}

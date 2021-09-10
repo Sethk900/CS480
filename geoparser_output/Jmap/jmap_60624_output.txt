@@ -1,0 +1,3 @@
+{'word': 'Tahoe', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'California', 'lat': '38.93324', 'lon': '-119.98435', 'country_code3': 'USA', 'geonameid': '5397664', 'place_name': 'South Lake Tahoe', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'Tibet', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Tibet Autonomous Region', 'lat': '31.66667', 'lon': '88', 'country_code3': 'CHN', 'geonameid': '1279685', 'place_name': 'Tibet Autonomous Region', 'feature_class': 'A', 'feature_code': 'ADM1'}}

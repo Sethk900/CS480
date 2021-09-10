@@ -1,0 +1,1 @@
+{'word': 'aphroditid', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GRC', 'country_conf': 0.9528109, 'geo': {'admin1': 'North Aegean', 'lat': '37.70887', 'lon': '26.677', 'country_code3': 'GRC', 'geonameid': '9261215', 'place_name': 'Aphrodite Hotel & Suites', 'feature_class': 'S', 'feature_code': 'HTL'}}

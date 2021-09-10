@@ -1,0 +1,1 @@
+{'word': 'nablus', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PSE', 'country_conf': 0.957188, 'geo': {'admin1': 'West Bank', 'lat': '32.24056', 'lon': '35.28708', 'country_code3': 'PSE', 'geonameid': '7870555', 'place_name': 'Nablus', 'feature_class': 'A', 'feature_code': 'ADM2'}}

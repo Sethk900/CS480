@@ -1,0 +1,2 @@
+{'word': 'p.a.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.28868946}
+{'word': 'p.a.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.28868946}

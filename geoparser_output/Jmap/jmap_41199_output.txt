@@ -1,0 +1,2 @@
+{'word': 'Polychaetes', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Pacific-Ocean', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'NA', 'country_conf': 0.9048774, 'geo': {'admin1': 'NA', 'lat': '-45', 'lon': '-130', 'country_code3': 'NA', 'geonameid': '4030483', 'place_name': 'South Pacific Ocean', 'feature_class': 'H', 'feature_code': 'OCN'}}

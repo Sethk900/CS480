@@ -1,0 +1,5 @@
+{'word': 'India', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IND', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '79', 'country_code3': 'IND', 'geonameid': '1269750', 'place_name': 'Republic of India', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Kingdom', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.28868946}
+{'word': 'France', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '2', 'country_code3': 'FRA', 'geonameid': '3017382', 'place_name': 'Republic of France', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Germany', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '51.5', 'lon': '10.5', 'country_code3': 'DEU', 'geonameid': '2921044', 'place_name': 'Federal Republic of Germany', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'disincentivized', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

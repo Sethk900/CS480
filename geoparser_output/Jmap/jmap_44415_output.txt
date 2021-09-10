@@ -1,0 +1,1 @@
+{'word': 'Kampala', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'UGA', 'country_conf': 0.957188, 'geo': {'admin1': 'Central Region', 'lat': '0.31628', 'lon': '32.58219', 'country_code3': 'UGA', 'geonameid': '232422', 'place_name': 'Kampala', 'feature_class': 'P', 'feature_code': 'PPLC'}}

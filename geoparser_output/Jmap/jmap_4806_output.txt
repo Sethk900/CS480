@@ -1,0 +1,2 @@
+{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}
+{'word': 'diceras', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.92213035, 'geo': {'admin1': "Provence-Alpes-Cte d'Azur", 'lat': '43.14962', 'lon': '6.07399', 'country_code3': 'FRA', 'geonameid': '3009791', 'place_name': 'La Crau', 'feature_class': 'P', 'feature_code': 'PPL'}}

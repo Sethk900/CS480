@@ -1,0 +1,1 @@
+{'word': 'molm(-2', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'KAZ', 'country_conf': 0.92213035, 'geo': {'admin1': 'Astana Qalasy', 'lat': '51.1801', 'lon': '71.44598', 'country_code3': 'KAZ', 'geonameid': '1526273', 'place_name': 'Nur-Sultan', 'feature_class': 'P', 'feature_code': 'PPLC'}}

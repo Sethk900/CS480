@@ -1,0 +1,6 @@
+{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Acacia', 'spans': [{'start': 11, 'end': 17}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}

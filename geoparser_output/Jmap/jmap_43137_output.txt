@@ -1,0 +1,1 @@
+{'word': 'MINDORO', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'PHL', 'country_conf': 0.9048774, 'geo': {'admin1': 'Mimaropa', 'lat': '12.9304', 'lon': '121.0947', 'country_code3': 'PHL', 'geonameid': '1699590', 'place_name': 'Mindoro', 'feature_class': 'T', 'feature_code': 'ISL'}}

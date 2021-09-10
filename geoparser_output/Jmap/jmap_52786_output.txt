@@ -1,0 +1,2 @@
+{'word': 'Yazd', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IRN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Yazd', 'lat': '32.5', 'lon': '55.58333', 'country_code3': 'IRN', 'geonameid': '111821', 'place_name': 'Yazd', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Iran', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IRN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '32', 'lon': '53', 'country_code3': 'IRN', 'geonameid': '130758', 'place_name': 'Islamic Republic of Iran', 'feature_class': 'A', 'feature_code': 'PCLI'}}

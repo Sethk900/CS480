@@ -1,0 +1,1 @@
+{'word': 'Beach', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.7178229, 'geo': {'admin1': 'California', 'lat': '33.6603', 'lon': '-117.99923', 'country_code3': 'USA', 'geonameid': '5358705', 'place_name': 'Huntington Beach', 'feature_class': 'P', 'feature_code': 'PPL'}}

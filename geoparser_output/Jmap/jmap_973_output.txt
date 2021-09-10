@@ -1,0 +1,2 @@
+{'word': 'palea', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.5339668}
+{'word': 'palea', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.5339668}

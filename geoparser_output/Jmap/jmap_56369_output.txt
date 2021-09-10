@@ -1,0 +1,1 @@
+{'word': 'microprofile', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}

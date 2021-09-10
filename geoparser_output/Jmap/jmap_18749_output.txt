@@ -1,0 +1,2 @@
+{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'Bonn', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'DEU', 'country_conf': 0.96374094, 'geo': {'admin1': 'North Rhine-Westphalia', 'lat': '50.71583', 'lon': '7.11139', 'country_code3': 'DEU', 'geonameid': '3247450', 'place_name': 'Kreisfreie Stadt Bonn', 'feature_class': 'A', 'feature_code': 'ADM3'}}

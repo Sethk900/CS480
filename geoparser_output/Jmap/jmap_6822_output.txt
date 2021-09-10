@@ -1,0 +1,5 @@
+{'word': 'subterranea', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'BRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Paran', 'lat': '-25.77639', 'lon': '-48.58369', 'country_code3': 'BRA', 'geonameid': '7692082', 'place_name': 'Adutora Subterrnea Companhia de Saneamento do Paran', 'feature_class': 'H', 'feature_code': 'CNLSB'}}
+{'word': 'cajan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GTM', 'country_conf': 0.5714737}
+{'word': 'cajan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GTM', 'country_conf': 0.5714737}
+{'word': 'cajan', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GTM', 'country_conf': 0.5714737}
+{'word': 'subterranea', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'BRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Paran', 'lat': '-25.77639', 'lon': '-48.58369', 'country_code3': 'BRA', 'geonameid': '7692082', 'place_name': 'Adutora Subterrnea Companhia de Saneamento do Paran', 'feature_class': 'H', 'feature_code': 'CNLSB'}}

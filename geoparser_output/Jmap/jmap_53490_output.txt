@@ -1,0 +1,6 @@
+{'word': 'Kauai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Hawaii', 'lat': '22.01108', 'lon': '-159.70544', 'country_code3': 'USA', 'geonameid': '5848514', 'place_name': 'Kauai County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Kauai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Hawaii', 'lat': '22.01108', 'lon': '-159.70544', 'country_code3': 'USA', 'geonameid': '5848514', 'place_name': 'Kauai County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'Kauai', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Hawaii', 'lat': '22.01108', 'lon': '-159.70544', 'country_code3': 'USA', 'geonameid': '5848514', 'place_name': 'Kauai County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'plateau', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.28868946}
+{'word': 'Himalayan', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
+{'word': 'plateau', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.28868946}

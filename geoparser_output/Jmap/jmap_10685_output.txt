@@ -1,0 +1,7 @@
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'Westchester', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'New York', 'lat': '41.15148', 'lon': '-73.75339', 'country_code3': 'USA', 'geonameid': '5144050', 'place_name': 'Westchester County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Westchester', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'New York', 'lat': '41.15148', 'lon': '-73.75339', 'country_code3': 'USA', 'geonameid': '5144050', 'place_name': 'Westchester County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}

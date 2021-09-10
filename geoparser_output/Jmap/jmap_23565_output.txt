@@ -1,0 +1,1 @@
+{'word': 'Turkmenistan', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'TKM', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '39.75', 'lon': '59.66667', 'country_code3': 'TKM', 'geonameid': '1218197', 'place_name': 'Turkmenistan', 'feature_class': 'A', 'feature_code': 'PCLI'}}

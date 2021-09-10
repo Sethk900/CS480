@@ -1,0 +1,6 @@
+{'word': 'Espanola', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Isabela', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Santiago', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
+{'word': 'Isabela', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}

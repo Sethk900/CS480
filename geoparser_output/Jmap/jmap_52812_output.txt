@@ -1,0 +1,4 @@
+{'word': 'Guanacaste', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'CRI', 'country_conf': 0.28365934}
+{'word': 'Costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
+{'word': 'Rica', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.28365934}
+{'word': 'Moraga', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'California', 'lat': '37.83493', 'lon': '-122.12969', 'country_code3': 'USA', 'geonameid': '5374671', 'place_name': 'Moraga', 'feature_class': 'P', 'feature_code': 'PPL'}}

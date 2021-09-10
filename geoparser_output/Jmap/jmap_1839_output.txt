@@ -1,0 +1,1 @@
+{'word': 'ol><li', 'spans': [{'start': 9, 'end': 15}], 'country_predicted': 'KOR', 'country_conf': 0.9528109, 'geo': {'admin1': 'Daejeon', 'lat': '36.35857', 'lon': '127.4412', 'country_code3': 'KOR', 'geonameid': '10870829', 'place_name': 'Dongbu Je-il Gyohoe', 'feature_class': 'S', 'feature_code': 'CH'}}

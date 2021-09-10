@@ -1,0 +1,3 @@
+{'word': 'N.C.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'North Carolina', 'lat': '36.295', 'lon': '-76.247', 'country_code3': 'USA', 'geonameid': '9949125', 'place_name': 'Hampton Inn Elizabeth City, N.C.', 'feature_class': 'S', 'feature_code': 'HTL'}}
+{'word': 'Tallahassee', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Florida', 'lat': '30.43826', 'lon': '-84.28073', 'country_code3': 'USA', 'geonameid': '4174715', 'place_name': 'Tallahassee', 'feature_class': 'P', 'feature_code': 'PPLA'}}
+{'word': 'Florida', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.19161284}

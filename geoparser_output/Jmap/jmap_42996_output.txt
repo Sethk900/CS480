@@ -1,0 +1,1 @@
+{'word': 'Chad', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'TCD', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '15', 'lon': '19', 'country_code3': 'TCD', 'geonameid': '2434508', 'place_name': 'Republic of Chad', 'feature_class': 'A', 'feature_code': 'PCLI'}}

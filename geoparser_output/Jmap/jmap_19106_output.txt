@@ -1,0 +1,1 @@
+{'word': 'Mandan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'North Dakota', 'lat': '46.82666', 'lon': '-100.88958', 'country_code3': 'USA', 'geonameid': '5690366', 'place_name': 'Mandan', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

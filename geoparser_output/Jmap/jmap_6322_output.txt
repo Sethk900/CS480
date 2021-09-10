@@ -1,0 +1,10 @@
+{'word': 'bakkwaliteit', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'bakkwaliteit', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'betekenisvol', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'gehad', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'bakkwaliteit', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Palmiet', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Western Cape', 'lat': '-33.09693', 'lon': '20.7085', 'country_code3': 'ZAF', 'geonameid': '966453', 'place_name': 'Palmiet Fontein Vlakte', 'feature_class': 'S', 'feature_code': 'FRM'}}
+{'word': 'bakkwaliteit', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'verhoog', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'bakkwaliteit', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'kwantiteit', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}

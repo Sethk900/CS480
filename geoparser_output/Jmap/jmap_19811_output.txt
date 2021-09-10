@@ -1,0 +1,1 @@
+{'word': 'Bhutan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BTN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '27.5', 'lon': '90.5', 'country_code3': 'BTN', 'geonameid': '1252634', 'place_name': 'Kingdom of Bhutan', 'feature_class': 'A', 'feature_code': 'PCLI'}}

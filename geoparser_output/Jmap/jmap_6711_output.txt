@@ -1,0 +1,5 @@
+{'word': 'langbraak', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'betekenisvol', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'gehad', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
+{'word': 'waterstoorkapasiteit', 'spans': [{'start': 0, 'end': 20}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'betekenisvol', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}

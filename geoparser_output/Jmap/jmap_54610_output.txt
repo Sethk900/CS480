@@ -1,0 +1,1 @@
+{'word': 'K-0.65', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'South Carolina', 'lat': '34.66347', 'lon': '-81.15314', 'country_code3': 'USA', 'geonameid': '4593313', 'place_name': 'Rocky Creek WCD Dam Number Nine D-0215', 'feature_class': 'S', 'feature_code': 'DAM'}}

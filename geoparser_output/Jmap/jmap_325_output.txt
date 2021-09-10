@@ -1,0 +1,3 @@
+{'word': 'Wyoming', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'AUS', 'country_conf': 0.8529637, 'geo': {'admin1': 'New South Wales', 'lat': '-33.40387', 'lon': '151.36254', 'country_code3': 'AUS', 'geonameid': '8348757', 'place_name': 'Wyoming', 'feature_class': 'P', 'feature_code': 'PPLX'}}
+{'word': 'USA', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Louisiana', 'lat': '29.2605', 'lon': '-89.35478', 'country_code3': 'USA', 'geonameid': '4319780', 'place_name': 'Chevron USA Incorporated Seaplane Base', 'feature_class': 'S', 'feature_code': 'AIRP'}}
+{'word': 'Mayfield', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GBR', 'country_conf': 0.28365934}

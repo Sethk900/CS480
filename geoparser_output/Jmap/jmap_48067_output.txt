@@ -1,0 +1,7 @@
+{'word': 'Paramisophria', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Paramisophria', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Korea', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'KOR', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '36.5', 'lon': '127.75', 'country_code3': 'KOR', 'geonameid': '1835841', 'place_name': 'Republic of Korea', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Paramisophria', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Paramisophria', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Paramisophria', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'ammophila', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}

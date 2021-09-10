@@ -1,0 +1,1 @@
+{'word': 'Staten', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'New York', 'lat': '40.56233', 'lon': '-74.13986', 'country_code3': 'USA', 'geonameid': '5139568', 'place_name': 'Staten Island', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

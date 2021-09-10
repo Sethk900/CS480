@@ -1,0 +1,2 @@
+{'word': 'Israel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.9544747, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Palestine', 'spans': [{'start': 7, 'end': 16}], 'country_predicted': 'PSE', 'country_conf': 0.2883203}

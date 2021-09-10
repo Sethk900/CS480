@@ -1,0 +1,7 @@
+{'word': 'Utah', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Utah', 'lat': '39.25024', 'lon': '-111.75103', 'country_code3': 'USA', 'geonameid': '5549030', 'place_name': 'Utah', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
+{'word': 'Utah', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Utah', 'lat': '39.25024', 'lon': '-111.75103', 'country_code3': 'USA', 'geonameid': '5549030', 'place_name': 'Utah', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Uintah', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Utah', 'lat': '40.12495', 'lon': '-109.51839', 'country_code3': 'USA', 'geonameid': '5783919', 'place_name': 'Uintah County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'Utah', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Utah', 'lat': '39.25024', 'lon': '-111.75103', 'country_code3': 'USA', 'geonameid': '5549030', 'place_name': 'Utah', 'feature_class': 'A', 'feature_code': 'ADM1'}}

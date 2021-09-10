@@ -1,0 +1,1 @@
+{'word': 'bibron', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Quebec', 'lat': '47.85814', 'lon': '-76.6733', 'country_code3': 'CAN', 'geonameid': '6000613', 'place_name': 'Lac Bibron', 'feature_class': 'H', 'feature_code': 'LK'}}

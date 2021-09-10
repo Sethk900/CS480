@@ -1,0 +1,5 @@
+{'word': 'harlingenum', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'madera', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '37.21804', 'lon': '-119.76265', 'country_code3': 'USA', 'geonameid': '5369578', 'place_name': 'Madera County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
+{'word': 'prenticei', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Wisconsin', 'lat': '45.54084', 'lon': '-90.28948', 'country_code3': 'USA', 'geonameid': '5268044', 'place_name': 'Village of Prentice', 'feature_class': 'A', 'feature_code': 'ADM3'}}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
+{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

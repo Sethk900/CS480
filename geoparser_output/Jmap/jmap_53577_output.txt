@@ -1,0 +1,6 @@
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'Italy', 'spans': [{'start': 1, 'end': 6}], 'country_predicted': 'ITA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '42.83333', 'lon': '12.83333', 'country_code3': 'ITA', 'geonameid': '3175395', 'place_name': 'Italian Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
+{'word': 'Piedmont', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'California', 'lat': '37.82437', 'lon': '-122.23163', 'country_code3': 'USA', 'geonameid': '5382514', 'place_name': 'Piedmont', 'feature_class': 'P', 'feature_code': 'PPLX'}}
+{'word': 'Italy', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '42.83333', 'lon': '12.83333', 'country_code3': 'ITA', 'geonameid': '3175395', 'place_name': 'Italian Republic', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}

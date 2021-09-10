@@ -1,0 +1,1 @@
+{'word': 'Midland', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Texas', 'lat': '31.86917', 'lon': '-102.03162', 'country_code3': 'USA', 'geonameid': '5526341', 'place_name': 'Midland County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

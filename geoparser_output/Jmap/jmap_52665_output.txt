@@ -1,0 +1,8 @@
+{'word': 'trans-Atlantic', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': 'USA', 'country_conf': 0.24821267}
+{'word': 'Greenland', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'GRL', 'country_conf': 0.3105929}
+{'word': 'Iceland', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ISL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '65', 'lon': '-18', 'country_code3': 'ISL', 'geonameid': '2629691', 'place_name': 'Republic of Iceland', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'trans-Atlantic', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': 'USA', 'country_conf': 0.24821267}
+{'word': 'Canada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CAN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '60.10867', 'lon': '-113.64258', 'country_code3': 'CAN', 'geonameid': '6251999', 'place_name': 'Canada', 'feature_class': 'A', 'feature_code': 'PCLI'}}
+{'word': 'trans-Atlantic', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': 'USA', 'country_conf': 0.24821267}
+{'word': 'America', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9516948, 'geo': {'admin1': 'Wyoming', 'lat': '41.54357', 'lon': '-109.85903', 'country_code3': 'USA', 'geonameid': '5830444', 'place_name': 'Little America', 'feature_class': 'P', 'feature_code': 'PPL'}}

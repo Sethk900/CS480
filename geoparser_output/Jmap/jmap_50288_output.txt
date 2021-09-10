@@ -1,0 +1,7 @@
+{'word': 'Fulgoroidea', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Mt.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Shaanxi', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Shaanxi', 'lat': '36', 'lon': '109', 'country_code3': 'CHN', 'geonameid': '1796480', 'place_name': 'Shaanxi', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Province', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AGO', 'country_conf': 0.28365934}
+{'word': 'China', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.68758196, 'geo': {'admin1': 'Hubei', 'lat': '30.52047', 'lon': '114.39637', 'country_code3': 'CHN', 'geonameid': '6620465', 'place_name': 'China University of Geosciences', 'feature_class': 'S', 'feature_code': 'SCHC'}}
+{'word': 'montana', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Montana', 'lat': '47.00025', 'lon': '-109.75102', 'country_code3': 'USA', 'geonameid': '5667009', 'place_name': 'Montana', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'China', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.68758196, 'geo': {'admin1': 'Hubei', 'lat': '30.52047', 'lon': '114.39637', 'country_code3': 'CHN', 'geonameid': '6620465', 'place_name': 'China University of Geosciences', 'feature_class': 'S', 'feature_code': 'SCHC'}}

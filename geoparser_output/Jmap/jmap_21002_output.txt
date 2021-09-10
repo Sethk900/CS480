@@ -1,0 +1,5 @@
+{'word': 'Earth', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'NA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '0', 'lon': '0', 'country_code3': 'NA', 'geonameid': '6295630', 'place_name': 'Earth', 'feature_class': 'L', 'feature_code': 'AREA'}}
+{'word': 'Mt', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Mt', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'IDN', 'country_conf': 0.28868946}
+{'word': 'Queensland', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'AUS', 'country_conf': 0.957188, 'geo': {'admin1': 'Queensland', 'lat': '-20', 'lon': '145', 'country_code3': 'AUS', 'geonameid': '2152274', 'place_name': 'State of Queensland', 'feature_class': 'A', 'feature_code': 'ADM1'}}
+{'word': 'Australia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-25', 'lon': '135', 'country_code3': 'AUS', 'geonameid': '2077456', 'place_name': 'Commonwealth of Australia', 'feature_class': 'A', 'feature_code': 'PCLI'}}

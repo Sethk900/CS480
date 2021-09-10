@@ -1,0 +1,2 @@
+{'word': 'North-East', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
+{'word': 'North-East', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}

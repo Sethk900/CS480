@@ -1,0 +1,1 @@
+{'word': 'Kingdom', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.28868946}

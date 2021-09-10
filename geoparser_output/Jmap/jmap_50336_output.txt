@@ -1,0 +1,3 @@
+{'word': 'Britzki', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BLR', 'country_conf': 0.9528109, 'geo': {'admin1': 'Grodnenskaya', 'lat': '53.0304', 'lon': '24.1109', 'country_code3': 'BLR', 'geonameid': '8029113', 'place_name': 'Prypynachny Punkt Hrytski', 'feature_class': 'S', 'feature_code': 'RSTP'}}
+{'word': 'Paran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
+{'word': 'Britzki', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BLR', 'country_conf': 0.9528109, 'geo': {'admin1': 'Grodnenskaya', 'lat': '53.0304', 'lon': '24.1109', 'country_code3': 'BLR', 'geonameid': '8029113', 'place_name': 'Prypynachny Punkt Hrytski', 'feature_class': 'S', 'feature_code': 'RSTP'}}

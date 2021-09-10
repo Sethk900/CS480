@@ -1,0 +1,2 @@
+{'word': 'isselianum', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
+{'word': 'Stummer', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'DEU', 'country_conf': 0.9528109, 'geo': {'admin1': 'Bavaria', 'lat': '48.17384', 'lon': '12.61003', 'country_code3': 'DEU', 'geonameid': '2825397', 'place_name': 'Stummer', 'feature_class': 'S', 'feature_code': 'FRM'}}

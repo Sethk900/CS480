@@ -1,0 +1,2 @@
+{'word': 'England', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
+{'word': 'Burghfield', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.9528109, 'geo': {'admin1': 'England', 'lat': '51.41131', 'lon': '-1.04241', 'country_code3': 'GBR', 'geonameid': '2654301', 'place_name': 'Burghfield', 'feature_class': 'P', 'feature_code': 'PPL'}}
