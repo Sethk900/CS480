@@ -1,9 +1,0 @@
-{'word': 'Paulo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.7178229, 'geo': {'admin1': 'So Paulo', 'lat': '-22', 'lon': '-49', 'country_code3': 'BRA', 'geonameid': '3448433', 'place_name': 'So Paulo', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'anuran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'Plateau', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.28868946}
-{'word': 'anuran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'Paulo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.7178229, 'geo': {'admin1': 'So Paulo', 'lat': '-22', 'lon': '-49', 'country_code3': 'BRA', 'geonameid': '3448433', 'place_name': 'So Paulo', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'anuran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'Morro', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Abruzzo', 'lat': '42.66305', 'lon': '13.9205', 'country_code3': 'ITA', 'geonameid': '6541700', 'place_name': "Morro d'Oro", 'feature_class': 'A', 'feature_code': 'ADM3'}}
-{'word': 'Parque', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'HTI', 'country_conf': 0.28868946}
-{'word': 'Jurupar', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'BRA', 'country_conf': 0.9528109, 'geo': {'admin1': 'So Paulo', 'lat': '-23.64939', 'lon': '-47.49347', 'country_code3': 'BRA', 'geonameid': '7601603', 'place_name': 'Ribeiro Jurupar', 'feature_class': 'H', 'feature_code': 'STM'}}

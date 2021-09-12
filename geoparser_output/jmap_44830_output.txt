@@ -1,1 +1,0 @@
-{'word': 'Cajamarca', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'PER', 'country_conf': 0.957188, 'geo': {'admin1': 'Cajamarca', 'lat': '-6.25', 'lon': '-78.83333', 'country_code3': 'PER', 'geonameid': '3699087', 'place_name': 'Cajamarca', 'feature_class': 'A', 'feature_code': 'ADM1'}}

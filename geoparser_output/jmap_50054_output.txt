@@ -1,1 +1,0 @@
-{'word': 'PAPUA', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IDN', 'country_conf': 0.28365934}

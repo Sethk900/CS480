@@ -1,2 +1,0 @@
-{'word': 'Pakistan', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'PAK', 'country_conf': 0.68758196, 'geo': {'admin1': 'NA', 'lat': '30', 'lon': '70', 'country_code3': 'PAK', 'geonameid': '1168579', 'place_name': 'Islamic Republic of Pakistan', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Hafizabad', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'PAK', 'country_conf': 0.5339668}

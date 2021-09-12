@@ -1,1 +1,0 @@
-{'word': 'Patagonia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Arizona', 'lat': '31.54358', 'lon': '-110.74769', 'country_code3': 'USA', 'geonameid': '7175524', 'place_name': 'Town of Patagonia', 'feature_class': 'A', 'feature_code': 'ADMD'}}

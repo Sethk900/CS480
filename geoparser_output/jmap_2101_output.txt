@@ -1,3 +1,0 @@
-{'word': 'pines', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
-{'word': 'P</em><0.050', 'spans': [{'start': 4, 'end': 16}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'P</em>=0.061', 'spans': [{'start': 5, 'end': 17}], 'country_predicted': '', 'country_conf': 0}

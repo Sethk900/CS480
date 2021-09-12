@@ -1,2 +1,0 @@
-{'word': 'Alps', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'JPN', 'country_conf': 0.28365934}
-{'word': 'Deutsch', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'AUT', 'country_conf': 0.87992215, 'geo': {'admin1': 'Lower Austria', 'lat': '48.29972', 'lon': '16.56667', 'country_code3': 'AUT', 'geonameid': '2781017', 'place_name': 'Deutsch-Wagram', 'feature_class': 'P', 'feature_code': 'PPLA3'}}

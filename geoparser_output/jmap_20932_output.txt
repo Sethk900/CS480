@@ -1,3 +1,0 @@
-{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'Kingdom', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.28868946}
-{'word': 'Arabia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.28365934}

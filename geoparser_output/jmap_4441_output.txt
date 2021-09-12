@@ -1,6 +1,0 @@
-{'word': 'Nigeria', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NGA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '10', 'lon': '8', 'country_code3': 'NGA', 'geonameid': '2328926', 'place_name': 'Federal Republic of Nigeria', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Mg(m', 'spans': [{'start': 1, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.5339668}
-{'word': 'Mg(m', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.5339668}
-{'word': 'Mg(o', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.5714737}
-{'word': 'Mg(m', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.5339668}
-{'word': 'Mg(m', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'AUS', 'country_conf': 0.5339668}

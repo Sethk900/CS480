@@ -1,1 +1,0 @@
-{'word': 'strip', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PSE', 'country_conf': 0.87992215, 'geo': {'admin1': 'Gaza Strip', 'lat': '31.41667', 'lon': '34.33333', 'country_code3': 'PSE', 'geonameid': '281132', 'place_name': 'Gaza Strip', 'feature_class': 'A', 'feature_code': 'ADM1'}}

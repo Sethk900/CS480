@@ -1,1 +1,0 @@
-{'word': 'Canterbury', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.6353264, 'geo': {'admin1': 'England', 'lat': '51.27958', 'lon': '1.08078', 'country_code3': 'GBR', 'geonameid': '6945807', 'place_name': 'City of Canterbury', 'feature_class': 'A', 'feature_code': 'ADM3'}}

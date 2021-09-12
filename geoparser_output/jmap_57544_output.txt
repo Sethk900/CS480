@@ -1,1 +1,0 @@
-{'word': 'Cincinnati', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Ohio', 'lat': '39.12711', 'lon': '-84.51439', 'country_code3': 'USA', 'geonameid': '4508722', 'place_name': 'Cincinnati', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

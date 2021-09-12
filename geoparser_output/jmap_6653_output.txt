@@ -1,1 +1,0 @@
-{'word': 'Kiev', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'UKR', 'country_conf': 0.957188, 'geo': {'admin1': 'Kyiv City', 'lat': '50.4429', 'lon': '30.54896', 'country_code3': 'UKR', 'geonameid': '703447', 'place_name': 'Misto Kyiv', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,1 +1,0 @@
-{'word': 'Pangzhuang', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'CHN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Jiangsu', 'lat': '32.42673', 'lon': '120.30023', 'country_code3': 'CHN', 'geonameid': '7527186', 'place_name': 'Pangzhuang Sanzu', 'feature_class': 'P', 'feature_code': 'PPLF'}}

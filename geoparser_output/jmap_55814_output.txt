@@ -1,1 +1,0 @@
-{'word': 'Zambia', 'spans': [{'start': 1, 'end': 7}], 'country_predicted': 'ZMB', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-14.33333', 'lon': '28.5', 'country_code3': 'ZMB', 'geonameid': '895949', 'place_name': 'Republic of Zambia', 'feature_class': 'A', 'feature_code': 'PCLI'}}

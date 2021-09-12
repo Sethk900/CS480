@@ -1,1 +1,0 @@
-{'word': 'Palmiet', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Western Cape', 'lat': '-33.09693', 'lon': '20.7085', 'country_code3': 'ZAF', 'geonameid': '966453', 'place_name': 'Palmiet Fontein Vlakte', 'feature_class': 'S', 'feature_code': 'FRM'}}

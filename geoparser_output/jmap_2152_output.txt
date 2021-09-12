@@ -1,2 +1,0 @@
-{'word': 'Montreal', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CAN', 'country_conf': 0.87992215, 'geo': {'admin1': 'Quebec', 'lat': '45.50008', 'lon': '-73.68248', 'country_code3': 'CAN', 'geonameid': '6077246', 'place_name': 'Montral', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Scotland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}

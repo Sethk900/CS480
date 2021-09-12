@@ -1,5 +1,0 @@
-{'word': 'Desde', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AZE', 'country_conf': 0.28365934}
-{'word': 'costa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'Piedmont', 'lat': '44.61758', 'lon': '8.63968', 'country_code3': 'ITA', 'geonameid': '8953792', 'place_name': 'Costa', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'citaes', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'indicaes', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Basommatophora', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}

@@ -1,1 +1,0 @@
-{'word': 'Fukushima', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'JPN', 'country_conf': 0.96374094, 'geo': {'admin1': 'Fukushima', 'lat': '37.38158', 'lon': '140.22199', 'country_code3': 'JPN', 'geonameid': '2112922', 'place_name': 'Fukushima-ken', 'feature_class': 'A', 'feature_code': 'ADM1'}}

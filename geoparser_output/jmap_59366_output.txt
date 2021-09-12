@@ -1,1 +1,0 @@
-{'word': 'Barcelona', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ESP', 'country_conf': 0.957188, 'geo': {'admin1': 'Catalonia', 'lat': '41.66667', 'lon': '2', 'country_code3': 'ESP', 'geonameid': '3128759', 'place_name': 'Provncia de Barcelona', 'feature_class': 'A', 'feature_code': 'ADM2'}}

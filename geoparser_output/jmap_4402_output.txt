@@ -1,1 +1,0 @@
-{'word': 'Pietermaritzburg', 'spans': [{'start': 0, 'end': 16}], 'country_predicted': 'ZAF', 'country_conf': 0.9048774, 'geo': {'admin1': 'KwaZulu-Natal', 'lat': '-29.61679', 'lon': '30.39278', 'country_code3': 'ZAF', 'geonameid': '965301', 'place_name': 'Pietermaritzburg', 'feature_class': 'P', 'feature_code': 'PPLA'}}

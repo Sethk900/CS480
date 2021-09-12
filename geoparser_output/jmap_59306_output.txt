@@ -1,4 +1,0 @@
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'Colorado', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CRI', 'country_conf': 0.19161284}
-{'word': 'totoaba', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MEX', 'country_conf': 0.9528109, 'geo': {'admin1': 'Veracruz', 'lat': '20.558', 'lon': '-97.47636', 'country_code3': 'MEX', 'geonameid': '3824523', 'place_name': 'Totolapa', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'totoaba', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MEX', 'country_conf': 0.9528109, 'geo': {'admin1': 'Veracruz', 'lat': '20.558', 'lon': '-97.47636', 'country_code3': 'MEX', 'geonameid': '3824523', 'place_name': 'Totolapa', 'feature_class': 'P', 'feature_code': 'PPL'}}

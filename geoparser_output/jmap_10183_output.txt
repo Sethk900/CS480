@@ -1,4 +1,0 @@
-{'word': 'anuran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'anuran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'anuran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'anuran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}

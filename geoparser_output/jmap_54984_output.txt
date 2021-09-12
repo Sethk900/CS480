@@ -1,3 +1,0 @@
-{'word': 'Siyang', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'CHN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Jiangsu', 'lat': '33.70389', 'lon': '118.67917', 'country_code3': 'CHN', 'geonameid': '1784253', 'place_name': 'Zhongxing', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Jiangsu', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.96374094, 'geo': {'admin1': 'Jiangsu', 'lat': '33', 'lon': '119.83333', 'country_code3': 'CHN', 'geonameid': '1806260', 'place_name': 'Jiangsu Sheng', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Province', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AGO', 'country_conf': 0.28365934}

@@ -1,7 +1,0 @@
-{'word': 'Guam', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'GUM', 'country_conf': 0.3105929}
-{'word': 'Saipan', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MNP', 'country_conf': 0.9048774, 'geo': {'admin1': 'Saipan', 'lat': '15.19434', 'lon': '145.74829', 'country_code3': 'MNP', 'geonameid': '4041550', 'place_name': 'Saipan Island', 'feature_class': 'T', 'feature_code': 'ISL'}}
-{'word': 'Honolulu', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Hawaii', 'lat': '21.45543', 'lon': '-157.96138', 'country_code3': 'USA', 'geonameid': '5856194', 'place_name': 'Honolulu County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Lititz', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
-{'word': 'PA', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'MLI', 'country_conf': 0.28868946}
-{'word': 'Tallahassee', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Florida', 'lat': '30.43826', 'lon': '-84.28073', 'country_code3': 'USA', 'geonameid': '4174715', 'place_name': 'Tallahassee', 'feature_class': 'P', 'feature_code': 'PPLA'}}
-{'word': 'FL', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'FRA', 'country_conf': 0.9048774, 'geo': {'admin1': 'le-de-France', 'lat': '48.85877', 'lon': '2.28409', 'country_code3': 'FRA', 'geonameid': '10100427', 'place_name': 'Mansion Fl', 'feature_class': 'S', 'feature_code': 'HTL'}}

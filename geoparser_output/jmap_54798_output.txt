@@ -1,1 +1,0 @@
-{'word': 'Germany', 'spans': [{'start': 1, 'end': 8}], 'country_predicted': 'DEU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '51.5', 'lon': '10.5', 'country_code3': 'DEU', 'geonameid': '2921044', 'place_name': 'Federal Republic of Germany', 'feature_class': 'A', 'feature_code': 'PCLI'}}

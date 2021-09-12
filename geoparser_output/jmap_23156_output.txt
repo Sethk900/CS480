@@ -1,3 +1,0 @@
-{'word': 'Chiapas', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'MEX', 'country_conf': 0.9048774, 'geo': {'admin1': 'Chiapas', 'lat': '16.5', 'lon': '-92.5', 'country_code3': 'MEX', 'geonameid': '3531011', 'place_name': 'Estado de Chiapas', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'bondi', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'AUS', 'country_conf': 0.87992215, 'geo': {'admin1': 'New South Wales', 'lat': '-33.89079', 'lon': '151.27852', 'country_code3': 'AUS', 'geonameid': '9972618', 'place_name': 'Bondi Beach', 'feature_class': 'P', 'feature_code': 'PPLX'}}
-{'word': 'Mxico', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'MEX', 'country_conf': 0.28365934}

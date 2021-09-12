@@ -1,1 +1,0 @@
-{'word': 'cyanea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.92213035, 'geo': {'admin1': 'Saxony', 'lat': '50.72724', 'lon': '12.48839', 'country_code3': 'DEU', 'geonameid': '2803560', 'place_name': 'Zwickau', 'feature_class': 'P', 'feature_code': 'PPLA3'}}

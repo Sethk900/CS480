@@ -1,5 +1,0 @@
-{'word': 'Paran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
-{'word': 'Zooplankton', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Paran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
-{'word': 'Santa', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
-{'word': 'Zooplankton', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}

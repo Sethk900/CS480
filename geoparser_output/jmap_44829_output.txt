@@ -1,1 +1,0 @@
-{'word': 'preliminar', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'JOR', 'country_conf': 0.9528109, 'geo': {'admin1': 'Zarqa', 'lat': '32.02741', 'lon': '36.05854', 'country_code3': 'JOR', 'geonameid': '11544594', 'place_name': 'Al Markaz a i al Awwal - Iskn alal', 'feature_class': 'S', 'feature_code': 'HSP'}}

@@ -1,3 +1,0 @@
-{'word': 'Adriatic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HRV', 'country_conf': 0.957188, 'geo': {'admin1': 'Dubrovako-Neretvanska', 'lat': '42.64125', 'lon': '18.10909', 'country_code3': 'HRV', 'geonameid': '3201047', 'place_name': 'Dubrovnik', 'feature_class': 'P', 'feature_code': 'PPLA'}}
-{'word': 'Tortonian', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Cenozoic', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'MYT', 'country_conf': 0.24821267}

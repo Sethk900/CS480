@@ -1,1 +1,0 @@
-{'word': 'Paz', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'HND', 'country_conf': 0.87992215, 'geo': {'admin1': 'La Paz', 'lat': '14.08333', 'lon': '-87.91667', 'country_code3': 'HND', 'geonameid': '3607251', 'place_name': 'Departamento de La Paz', 'feature_class': 'A', 'feature_code': 'ADM1'}}

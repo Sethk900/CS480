@@ -5,10 +5,16 @@ import re
 import os
 
 xmlfile = re.compile('.*\.xml')
+
+# Regular expressions for filters
 capital = re.compile('.*[A-Z]*.*')
+allLowercase = re.compile('^[a-z]+$')
+twoLetter = re.compile('[a-zA-Z][a-zA-Z]$')
+specialChars = re.compile('.*[^a-zA-Z ].*')
+
 geo = Geoparser()
 
-for inputfile in os.listdir("../processed_files/jmap"): # Only processing jmap right now
+for inputfile in os.listdir("../processed_files/Jmap"): # Only processing jmap right now
 	name, extension = os.path.splitext(inputfile)
 	outfilename = name + "_output.txt"
 	inputfile = "../processed_files/jmap/" + inputfile
@@ -43,7 +49,7 @@ for inputfile in os.listdir("../processed_files/jmap"): # Only processing jmap r
 						To implement one, you should build a regular expression that matches an attribute that you want to exclude from the geoparser output. 
 						Then, use the if statement below to filter out geonames that possess that attribute.
 						'''
-						if capital.match(line['word']): # Filter out place names that don't contain any capital later (Comment out to remove filter)
+						if capital.match(line['word']) and not(specialCharacters.match(line['word']) or allLowercase.match(line['word']) or twoLetter.match(line['word'])): # Filter out place names that don't contain any capital later (Comment out to remove filter)
 							try:
 								outfile.write(str(line))
 								outfile.write("\n")

@@ -1,3 +1,0 @@
-{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
-{'word': 'Acacia', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'AUS', 'country_conf': 0.28365934}
-{'word': 'territories', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'PSE', 'country_conf': 0.7178229, 'geo': {'admin1': 'NA', 'lat': '31.92157', 'lon': '35.20329', 'country_code3': 'PSE', 'geonameid': '6254930', 'place_name': 'Palestine', 'feature_class': 'A', 'feature_code': 'PCLS'}}

@@ -1,1 +1,0 @@
-{'word': 'Walp', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IDN', 'country_conf': 0.9528109, 'geo': {'admin1': 'East Kalimantan', 'lat': '1.70375', 'lon': '114.97046', 'country_code3': 'IDN', 'geonameid': '7731237', 'place_name': 'Long Apung Airport', 'feature_class': 'S', 'feature_code': 'AIRP'}}

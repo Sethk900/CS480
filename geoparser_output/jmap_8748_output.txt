@@ -1,1 +1,0 @@
-{'word': 'lycid', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'TUR', 'country_conf': 0.9528109, 'geo': {'admin1': 'orum', 'lat': '40.77792', 'lon': '34.90625', 'country_code3': 'TUR', 'geonameid': '8632021', 'place_name': 'Lain lesi', 'feature_class': 'A', 'feature_code': 'ADM2'}}

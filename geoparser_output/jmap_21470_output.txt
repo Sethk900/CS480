@@ -1,3 +1,0 @@
-{'word': 'Peru', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PER', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-75.25', 'country_code3': 'PER', 'geonameid': '3932488', 'place_name': 'Republic of Peru', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Arcadia', 'spans': [{'start': 1, 'end': 8}], 'country_predicted': 'JAM', 'country_conf': 0.28868946}
-{'word': 'Loreto', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ITA', 'country_conf': 0.9048774, 'geo': {'admin1': 'The Marches', 'lat': '43.43536', 'lon': '13.60978', 'country_code3': 'ITA', 'geonameid': '6539726', 'place_name': 'Loreto', 'feature_class': 'A', 'feature_code': 'ADM3'}}

@@ -1,3 +1,0 @@
-{'word': 'Chamaecyparis', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'U.S.A.Sustained', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'cedar', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'JAM', 'country_conf': 0.28365934}

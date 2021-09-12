@@ -1,4 +1,0 @@
-{'word': 'coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
-{'word': 'Beach', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.7178229, 'geo': {'admin1': 'California', 'lat': '33.6603', 'lon': '-117.99923', 'country_code3': 'USA', 'geonameid': '5358705', 'place_name': 'Huntington Beach', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Oregon', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.9634983, 'geo': {'admin1': 'Oregon', 'lat': '44.00013', 'lon': '-120.50139', 'country_code3': 'USA', 'geonameid': '5744337', 'place_name': 'Oregon', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}

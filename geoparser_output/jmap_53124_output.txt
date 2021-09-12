@@ -1,7 +1,0 @@
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'Shasta', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '40.76377', 'lon': '-122.04052', 'country_code3': 'USA', 'geonameid': '5571096', 'place_name': 'Shasta County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'Shasta', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '40.76377', 'lon': '-122.04052', 'country_code3': 'USA', 'geonameid': '5571096', 'place_name': 'Shasta County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Klamath', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Oregon', 'lat': '42.68634', 'lon': '-121.65013', 'country_code3': 'USA', 'geonameid': '5735237', 'place_name': 'Klamath County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Shasta', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '40.76377', 'lon': '-122.04052', 'country_code3': 'USA', 'geonameid': '5571096', 'place_name': 'Shasta County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

@@ -1,1 +1,0 @@
-{'word': 'Hecq', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Hauts-de-France', 'lat': '50.18167', 'lon': '3.65139', 'country_code3': 'FRA', 'geonameid': '6438286', 'place_name': 'Hecq', 'feature_class': 'A', 'feature_code': 'ADM4'}}

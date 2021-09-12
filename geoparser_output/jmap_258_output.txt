@@ -1,1 +1,0 @@
-{'word': 'Fuerteventura', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': 'ESP', 'country_conf': 0.96374094, 'geo': {'admin1': 'Canary Islands', 'lat': '28.38113', 'lon': '-14.03074', 'country_code3': 'ESP', 'geonameid': '2517481', 'place_name': 'Fuerteventura', 'feature_class': 'T', 'feature_code': 'ISL'}}

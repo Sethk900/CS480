@@ -1,7 +1,0 @@
-{'word': 'distinguenda', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'distinguenda', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Zyras', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IRN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Isfahan', 'lat': '31.11818', 'lon': '51.41844', 'country_code3': 'IRN', 'geonameid': '7509836', 'place_name': 'Darreh-ye Zrs', 'feature_class': 'T', 'feature_code': 'VAL'}}
-{'word': 'lat.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ETH', 'country_conf': 0.28868946}
-{'word': 'Zyras', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'IRN', 'country_conf': 0.9528109, 'geo': {'admin1': 'Isfahan', 'lat': '31.11818', 'lon': '51.41844', 'country_code3': 'IRN', 'geonameid': '7509836', 'place_name': 'Darreh-ye Zrs', 'feature_class': 'T', 'feature_code': 'VAL'}}
-{'word': 'lat.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ETH', 'country_conf': 0.28868946}
-{'word': 'al.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IRQ', 'country_conf': 0.28365934}

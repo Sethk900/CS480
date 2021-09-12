@@ -1,3 +1,0 @@
-{'word': 'mid-Atlantic', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'USA', 'country_conf': 0.6840588, 'geo': {'admin1': 'NA', 'lat': '40.58629', 'lon': '-76.28807', 'country_code3': 'USA', 'geonameid': '12110846', 'place_name': 'Mid-Atlantic', 'feature_class': 'L', 'feature_code': 'RGN'}}
-{'word': 'landforms', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ATA', 'country_conf': 0.24821267}
-{'word': 'Hagerstown', 'spans': [{'start': 1, 'end': 11}], 'country_predicted': 'USA', 'country_conf': 0.96374094, 'geo': {'admin1': 'Maryland', 'lat': '39.64176', 'lon': '-77.71999', 'country_code3': 'USA', 'geonameid': '4357141', 'place_name': 'Hagerstown', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

@@ -1,1 +1,0 @@
-{'word': 'Tuscany', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ITA', 'country_conf': 0.957188, 'geo': {'admin1': 'Tuscany', 'lat': '43.41667', 'lon': '11', 'country_code3': 'ITA', 'geonameid': '3165361', 'place_name': 'Toscana', 'feature_class': 'A', 'feature_code': 'ADM1'}}

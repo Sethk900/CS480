@@ -1,2 +1,0 @@
-{'word': 'County', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'GBR', 'country_conf': 0.28868946}
-{'word': 'Wyoming', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'AUS', 'country_conf': 0.8529637, 'geo': {'admin1': 'New South Wales', 'lat': '-33.40387', 'lon': '151.36254', 'country_code3': 'AUS', 'geonameid': '8348757', 'place_name': 'Wyoming', 'feature_class': 'P', 'feature_code': 'PPLX'}}

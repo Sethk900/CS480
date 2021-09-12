@@ -1,1 +1,0 @@
-{'word': 'W-Europe', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'BGR', 'country_conf': 0.28868946}

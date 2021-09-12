@@ -1,1 +1,0 @@
-{'word': 'Wanganella', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'AUS', 'country_conf': 0.9528109, 'geo': {'admin1': 'New South Wales', 'lat': '-35.21207', 'lon': '144.81939', 'country_code3': 'AUS', 'geonameid': '2144767', 'place_name': 'Wanganella', 'feature_class': 'P', 'feature_code': 'PPL'}}

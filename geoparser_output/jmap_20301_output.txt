@@ -1,3 +1,0 @@
-{'word': 'Earth', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'NA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '0', 'lon': '0', 'country_code3': 'NA', 'geonameid': '6295630', 'place_name': 'Earth', 'feature_class': 'L', 'feature_code': 'AREA'}}
-{'word': 'Scotland', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GBR', 'country_conf': 0.3105929}
-{'word': 'Nia', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'COL', 'country_conf': 0.6353264, 'geo': {'admin1': 'Caquet', 'lat': '1.5541', 'lon': '-75.11098', 'country_code3': 'COL', 'geonameid': '6979224', 'place_name': 'Centro Educativo Nia del Carmen Sede La Mariposa', 'feature_class': 'S', 'feature_code': 'SCH'}}

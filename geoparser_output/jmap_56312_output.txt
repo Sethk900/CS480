@@ -1,4 +1,0 @@
-{'word': 'choropleth', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COM', 'country_conf': 0.24821267}
-{'word': 'mobile', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'Alabama', 'lat': '30.68515', 'lon': '-88.19753', 'country_code3': 'USA', 'geonameid': '4076607', 'place_name': 'Mobile County', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'choropleth', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COM', 'country_conf': 0.24821267}
-{'word': 'Belgium', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BEL', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '50.75', 'lon': '4.5', 'country_code3': 'BEL', 'geonameid': '2802361', 'place_name': 'Kingdom of Belgium', 'feature_class': 'A', 'feature_code': 'PCLI'}}

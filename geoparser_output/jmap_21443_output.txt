@@ -1,4 +1,0 @@
-{'word': 'Mesibov', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Mesibov', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Tasmania', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.957188, 'geo': {'admin1': 'Tasmania', 'lat': '-42', 'lon': '147', 'country_code3': 'AUS', 'geonameid': '2147291', 'place_name': 'State of Tasmania', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Tasmania', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.957188, 'geo': {'admin1': 'Tasmania', 'lat': '-42', 'lon': '147', 'country_code3': 'AUS', 'geonameid': '2147291', 'place_name': 'State of Tasmania', 'feature_class': 'A', 'feature_code': 'ADM1'}}
