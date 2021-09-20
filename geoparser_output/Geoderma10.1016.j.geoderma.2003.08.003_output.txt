@@ -1,1 +1,0 @@
-{'word': 'K2', 'spans': [{'start': 1519, 'end': 1521}], 'country_predicted': 'IRQ', 'country_conf': 0.28868946}

@@ -1,2 +1,0 @@
-{'word': 'Turkey', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'TUR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '39', 'lon': '35', 'country_code3': 'TUR', 'geonameid': '298795', 'place_name': 'Republic of Turkey', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Iran', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IRN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '32', 'lon': '53', 'country_code3': 'IRN', 'geonameid': '130758', 'place_name': 'Islamic Republic of Iran', 'feature_class': 'A', 'feature_code': 'PCLI'}}

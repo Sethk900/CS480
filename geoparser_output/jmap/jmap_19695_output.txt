@@ -1,3 +1,0 @@
-{'word': 'Virginia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.19161284}
-{'word': 'Dallas', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Texas', 'lat': '32.78306', 'lon': '-96.80667', 'country_code3': 'USA', 'geonameid': '4684888', 'place_name': 'Dallas', 'feature_class': 'P', 'feature_code': 'PPLA2'}}
-{'word': 'Tex.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ARM', 'country_conf': 0.87992215, 'geo': {'admin1': 'Syunik Province', 'lat': '39.55826', 'lon': '46.48054', 'country_code3': 'ARM', 'geonameid': '174743', 'place_name': 'Tegh', 'feature_class': 'P', 'feature_code': 'PPL'}}

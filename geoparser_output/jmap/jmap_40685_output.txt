@@ -1,2 +1,0 @@
-{'word': 'Planaltina', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'BRA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Federal District', 'lat': '-15.61791', 'lon': '-47.64874', 'country_code3': 'BRA', 'geonameid': '11184422', 'place_name': 'Planaltina', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Paran', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}

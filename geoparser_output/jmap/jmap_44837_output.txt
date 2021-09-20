@@ -1,1 +1,0 @@
-{'word': 'los', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MEX', 'country_conf': 0.7178229, 'geo': {'admin1': 'Jalisco', 'lat': '20.42278', 'lon': '-103.18306', 'country_code3': 'MEX', 'geonameid': '8860783', 'place_name': 'Los Freseros (Los Sabinos)', 'feature_class': 'P', 'feature_code': 'PPL'}}

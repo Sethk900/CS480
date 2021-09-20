@@ -1,1 +1,0 @@
-{'word': 'cicada', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'FRA', 'country_conf': 0.87992215, 'geo': {'admin1': "Provence-Alpes-Cte d'Azur", 'lat': '43.87183', 'lon': '6.96431', 'country_code3': 'FRA', 'geonameid': '2974594', 'place_name': 'Sigale', 'feature_class': 'P', 'feature_code': 'PPL'}}

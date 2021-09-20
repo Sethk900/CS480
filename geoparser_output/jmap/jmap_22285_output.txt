@@ -1,1 +1,0 @@
-{'word': 'Caucasus', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'GEO', 'country_conf': 0.6617832, 'geo': {'admin1': 'NA', 'lat': '42.5', 'lon': '45', 'country_code3': 'GEO', 'geonameid': '573081', 'place_name': 'Caucasus Mountains', 'feature_class': 'T', 'feature_code': 'MTS'}}

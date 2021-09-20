@@ -1,1 +1,0 @@
-{'word': 'Pieris', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ITA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Friuli Venezia Giulia', 'lat': '45.81243', 'lon': '13.44917', 'country_code3': 'ITA', 'geonameid': '3170827', 'place_name': 'Pieris', 'feature_class': 'P', 'feature_code': 'PPLA3'}}

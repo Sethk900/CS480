@@ -1,4 +1,0 @@
-{'word': 'Baldwin', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'New York', 'lat': '40.65649', 'lon': '-73.6093', 'country_code3': 'USA', 'geonameid': '5107760', 'place_name': 'Baldwin', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'meristematic', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Zealand', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'NA', 'country_conf': 0.28365934}
-{'word': 'P.D.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'RUS', 'country_conf': 0.28868946}

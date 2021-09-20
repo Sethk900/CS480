@@ -1,2 +1,0 @@
-{'word': 'PANAMA', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PAN', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '9', 'lon': '-80', 'country_code3': 'PAN', 'geonameid': '3703430', 'place_name': 'Republic of Panama', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'INDO', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'IND', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '22', 'lon': '79', 'country_code3': 'IND', 'geonameid': '1269750', 'place_name': 'Republic of India', 'feature_class': 'A', 'feature_code': 'PCLI'}}

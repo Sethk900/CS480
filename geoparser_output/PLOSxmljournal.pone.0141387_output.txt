@@ -1,2 +1,0 @@
-{'word': 'Madrid', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ESP', 'country_conf': 0.957188, 'geo': {'admin1': 'Madrid', 'lat': '40.40225', 'lon': '-3.71029', 'country_code3': 'ESP', 'geonameid': '6355233', 'place_name': 'Provincia de Madrid', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Caba', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}

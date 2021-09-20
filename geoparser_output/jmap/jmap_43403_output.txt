@@ -1,1 +1,0 @@
-{'word': 'Serpentes', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'BRA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Paran', 'lat': '-24.95583', 'lon': '-53.45528', 'country_code3': 'BRA', 'geonameid': '3466779', 'place_name': 'Cascavel', 'feature_class': 'P', 'feature_code': 'PPL'}}

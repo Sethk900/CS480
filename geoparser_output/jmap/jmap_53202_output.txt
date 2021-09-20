@@ -1,8 +1,0 @@
-{'word': 'Protura', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'Romania', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ROU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '25', 'country_code3': 'ROU', 'geonameid': '798549', 'place_name': 'Romnia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Protura', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'Romania', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ROU', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '46', 'lon': '25', 'country_code3': 'ROU', 'geonameid': '798549', 'place_name': 'Romnia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Protura', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'Bucharest', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'ROU', 'country_conf': 0.96374094, 'geo': {'admin1': 'Bucureti', 'lat': '44.43225', 'lon': '26.10626', 'country_code3': 'ROU', 'geonameid': '683506', 'place_name': 'Bucharest', 'feature_class': 'P', 'feature_code': 'PPLC'}}
-{'word': 'Protura', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'Protura', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}

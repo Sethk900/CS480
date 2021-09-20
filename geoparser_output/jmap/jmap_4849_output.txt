@@ -1,3 +1,0 @@
-{'word': 'Janeiro', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'BRA', 'country_conf': 0.957188, 'geo': {'admin1': 'Rio de Janeiro', 'lat': '-22.25', 'lon': '-42.5', 'country_code3': 'BRA', 'geonameid': '3451189', 'place_name': 'Rio de Janeiro', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Brazil', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'BRA', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-10', 'lon': '-55', 'country_code3': 'BRA', 'geonameid': '3469034', 'place_name': 'Federative Republic of Brazil', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Parque', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'HTI', 'country_conf': 0.28868946}

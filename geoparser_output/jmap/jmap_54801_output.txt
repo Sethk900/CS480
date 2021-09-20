@@ -1,2 +1,0 @@
-{'word': '10', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'ITA', 'country_conf': 0.5339668}
-{'word': '10', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'ITA', 'country_conf': 0.5339668}

@@ -1,3 +1,0 @@
-{'word': 'laophontid', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Kenya', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'KEN', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '1', 'lon': '38', 'country_code3': 'KEN', 'geonameid': '192950', 'place_name': 'Republic of Kenya', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Comoros', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'COM', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-12.23333', 'lon': '44.44553', 'country_code3': 'COM', 'geonameid': '921929', 'place_name': 'Union of the Comoros', 'feature_class': 'A', 'feature_code': 'PCLI'}}

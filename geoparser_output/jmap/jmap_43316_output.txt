@@ -1,1 +1,0 @@
-{'word': 'AUSTRALIA', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.957188, 'geo': {'admin1': 'NA', 'lat': '-25', 'lon': '135', 'country_code3': 'AUS', 'geonameid': '2077456', 'place_name': 'Commonwealth of Australia', 'feature_class': 'A', 'feature_code': 'PCLI'}}

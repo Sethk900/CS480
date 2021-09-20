@@ -1,3 +1,0 @@
-{'word': 'Labroctonus', 'spans': [{'start': 1, 'end': 12}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Jilin', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Jilin', 'lat': '43.58333', 'lon': '126.16667', 'country_code3': 'CHN', 'geonameid': '2036500', 'place_name': 'Jilin Sheng', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'rugulosus', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}

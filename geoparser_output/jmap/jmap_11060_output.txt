@@ -1,1 +1,0 @@
-{'word': 'WestEast', 'spans': [{'start': 1, 'end': 10}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}

@@ -1,2 +1,0 @@
-{'word': 'EUROPE', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'NA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '48.69096', 'lon': '9.14062', 'country_code3': 'NA', 'geonameid': '6255148', 'place_name': 'Europe', 'feature_class': 'L', 'feature_code': 'CONT'}}
-{'word': 'greenhouse.<br><br', 'spans': [{'start': 0, 'end': 18}], 'country_predicted': '', 'country_conf': 0}

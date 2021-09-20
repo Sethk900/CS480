@@ -1,4 +1,0 @@
-{'word': 'Solano', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'PHL', 'country_conf': 0.28365934}
-{'word': 'MICROTUBULE', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Kamiyoshihara', 'spans': [{'start': 0, 'end': 13}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'LeNR', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'FRA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Hauts-de-France', 'lat': '50.43241', 'lon': '2.84445', 'country_code3': 'FRA', 'geonameid': '3003091', 'place_name': 'Arrondissement de Lens', 'feature_class': 'A', 'feature_code': 'ADM3'}}

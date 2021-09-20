@@ -1,4 +1,0 @@
-{'word': 'verband', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}
-{'word': 'betekenisvolle', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Verliese', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'ZAF', 'country_conf': 0.9528109, 'geo': {'admin1': 'Northern Cape', 'lat': '-30.71203', 'lon': '19.61546', 'country_code3': 'ZAF', 'geonameid': '3360086', 'place_name': 'Van Eden se Puts', 'feature_class': 'S', 'feature_code': 'FRM'}}
-{'word': 'Daarna', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'SWE', 'country_conf': 0.87992215, 'geo': {'admin1': 'Dalarna', 'lat': '61', 'lon': '14.5', 'country_code3': 'SWE', 'geonameid': '2699767', 'place_name': 'Dalarna County', 'feature_class': 'A', 'feature_code': 'ADM1'}}

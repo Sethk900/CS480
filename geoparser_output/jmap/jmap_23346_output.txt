@@ -1,1 +1,0 @@
-{'word': 'Pa.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'MLI', 'country_conf': 0.28868946}

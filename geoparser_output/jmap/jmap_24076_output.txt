@@ -1,3 +1,0 @@
-{'word': 'Warwick', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Rhode Island', 'lat': '41.7001', 'lon': '-71.41617', 'country_code3': 'USA', 'geonameid': '5225507', 'place_name': 'Warwick', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Warwick', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Rhode Island', 'lat': '41.7001', 'lon': '-71.41617', 'country_code3': 'USA', 'geonameid': '5225507', 'place_name': 'Warwick', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'macroecological', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}

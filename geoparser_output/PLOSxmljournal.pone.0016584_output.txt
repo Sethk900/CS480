@@ -1,1 +1,0 @@
-{'word': 'n.s.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}

@@ -1,2 +1,0 @@
-{'word': 'Poecilostomatoidea', 'spans': [{'start': 0, 'end': 18}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Oncaea', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ESP', 'country_conf': 0.5714737}

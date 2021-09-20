@@ -1,1 +1,0 @@
-{'word': 'south-Wales', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'AUS', 'country_conf': 0.87992215, 'geo': {'admin1': 'New South Wales', 'lat': '-33', 'lon': '146', 'country_code3': 'AUS', 'geonameid': '2155400', 'place_name': 'State of New South Wales', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,3 +1,0 @@
-{'word': 'Congo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
-{'word': 'congo', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'BRA', 'country_conf': 0.28365934}
-{'word': 'annuli', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ITA', 'country_conf': 0.5714737}

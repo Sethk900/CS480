@@ -1,4 +1,0 @@
-{'word': 'Palau', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PLW', 'country_conf': 0.3105929}
-{'word': 'Micronesia', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'FSM', 'country_conf': 0.3105929}
-{'word': 'Palau', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PLW', 'country_conf': 0.3105929}
-{'word': 'Palau', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'PLW', 'country_conf': 0.3105929}

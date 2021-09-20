@@ -1,3 +1,0 @@
-{'word': 'Koutstaal', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Netherlands', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'NLD', 'country_conf': 0.6948644, 'geo': {'admin1': 'NA', 'lat': '52.25', 'lon': '5.75', 'country_code3': 'NLD', 'geonameid': '2750405', 'place_name': 'Kingdom of the Netherlands', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Netherlands', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'NLD', 'country_conf': 0.6948644, 'geo': {'admin1': 'NA', 'lat': '52.25', 'lon': '5.75', 'country_code3': 'NLD', 'geonameid': '2750405', 'place_name': 'Kingdom of the Netherlands', 'feature_class': 'A', 'feature_code': 'PCLI'}}

@@ -1,3 +1,0 @@
-{'word': 'Crozet', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.28365934}
-{'word': 'Amsterdam', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NLD', 'country_conf': 0.957188, 'geo': {'admin1': 'North Holland', 'lat': '52.37302', 'lon': '4.89856', 'country_code3': 'NLD', 'geonameid': '2759793', 'place_name': 'Gemeente Amsterdam', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'Subantarctic', 'spans': [{'start': 0, 'end': 12}], 'country_predicted': 'NA', 'country_conf': 0.9528109, 'geo': {'admin1': 'NA', 'lat': '-51', 'lon': '177.91667', 'country_code3': 'NA', 'geonameid': '2208337', 'place_name': 'Campbell Escarpment', 'feature_class': 'U', 'feature_code': 'ESCU'}}

@@ -1,8 +1,0 @@
-{'word': 'Berlin', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.957188, 'geo': {'admin1': 'Berlin', 'lat': '52.5233', 'lon': '13.41377', 'country_code3': 'DEU', 'geonameid': '6547383', 'place_name': 'Berlin, Stadt', 'feature_class': 'A', 'feature_code': 'ADM3'}}
-{'word': 'pp.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
-{'word': 'pp.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
-{'word': 'mo', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'SWE', 'country_conf': 0.28365934}
-{'word': 'Australia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '-25', 'lon': '135', 'country_code3': 'AUS', 'geonameid': '2077456', 'place_name': 'Commonwealth of Australia', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Canberra', 'spans': [{'start': 1, 'end': 9}], 'country_predicted': 'AUS', 'country_conf': 0.957188, 'geo': {'admin1': 'Australian Capital Territory', 'lat': '-35.5', 'lon': '149', 'country_code3': 'AUS', 'geonameid': '2177478', 'place_name': 'Australian Capital Territory', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Paris', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'FRA', 'country_conf': 0.957188, 'geo': {'admin1': 'le-de-France', 'lat': '48.85339', 'lon': '2.34864', 'country_code3': 'FRA', 'geonameid': '2988506', 'place_name': 'Paris', 'feature_class': 'A', 'feature_code': 'ADM3'}}
-{'word': 'particuli', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}

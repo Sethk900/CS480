@@ -1,7 +1,0 @@
-{'word': 'Protura', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'Khabarovsk', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'RUS', 'country_conf': 0.9048774, 'geo': {'admin1': 'Khabarovsk Krai', 'lat': '55', 'lon': '134', 'country_code3': 'RUS', 'geonameid': '2022888', 'place_name': 'Khabarovskiy Kray', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Krai', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'RUS', 'country_conf': 0.87992215, 'geo': {'admin1': 'Krasnodarskiy', 'lat': '44.98811', 'lon': '38.97675', 'country_code3': 'RUS', 'geonameid': '542415', 'place_name': 'Krasnodarskiy Kray', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Krai', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'RUS', 'country_conf': 0.87992215, 'geo': {'admin1': 'Krasnodarskiy', 'lat': '44.98811', 'lon': '38.97675', 'country_code3': 'RUS', 'geonameid': '542415', 'place_name': 'Krasnodarskiy Kray', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Protura', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'Protura', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}
-{'word': 'Protura', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'FRA', 'country_conf': 0.5339668}

@@ -1,1 +1,0 @@
-{'word': 'Macedonia', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'MKD', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '41.66667', 'lon': '21.75', 'country_code3': 'MKD', 'geonameid': '718075', 'place_name': 'North Macedonia', 'feature_class': 'A', 'feature_code': 'PCLI'}}

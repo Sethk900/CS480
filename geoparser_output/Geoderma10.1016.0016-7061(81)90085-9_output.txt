@@ -1,9 +1,0 @@
-{'word': 'Sweden', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'SWE', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '62', 'lon': '15', 'country_code3': 'SWE', 'geonameid': '2661886', 'place_name': 'Kingdom of Sweden', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Va.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'CAF', 'country_conf': 0.28868946}
-{'word': 'York', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}
-{'word': 'Berlin', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.957188, 'geo': {'admin1': 'Berlin', 'lat': '52.5233', 'lon': '13.41377', 'country_code3': 'DEU', 'geonameid': '6547383', 'place_name': 'Berlin, Stadt', 'feature_class': 'A', 'feature_code': 'ADM3'}}
-{'word': 'pp.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
-{'word': 'Hampshire', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.6353264, 'geo': {'admin1': 'New Hampshire', 'lat': '43.66702', 'lon': '-71.4998', 'country_code3': 'USA', 'geonameid': '5090174', 'place_name': 'New Hampshire', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'U.S.A.', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'NA', 'lat': '39.76', 'lon': '-98.5', 'country_code3': 'USA', 'geonameid': '6252001', 'place_name': 'United States', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'pa', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'MLI', 'country_conf': 0.28868946}
-{'word': 'Ore.', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'NGA', 'country_conf': 0.5339668}

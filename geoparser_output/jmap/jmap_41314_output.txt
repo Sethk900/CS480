@@ -1,1 +1,0 @@
-{'word': 'york', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'CAN', 'country_conf': 0.28868946}

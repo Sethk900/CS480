@@ -1,1 +1,0 @@
-{'word': 'Teruel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ESP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Aragon', 'lat': '40.66667', 'lon': '-0.66667', 'country_code3': 'ESP', 'geonameid': '3108125', 'place_name': 'Provincia de Teruel', 'feature_class': 'A', 'feature_code': 'ADM2'}}

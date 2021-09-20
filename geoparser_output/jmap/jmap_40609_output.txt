@@ -1,1 +1,0 @@
-{'word': 'Maui', 'spans': [{'start': 0, 'end': 4}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Hawaii', 'lat': '20.86774', 'lon': '-156.61706', 'country_code3': 'USA', 'geonameid': '5850871', 'place_name': 'Maui County', 'feature_class': 'A', 'feature_code': 'ADM2'}}

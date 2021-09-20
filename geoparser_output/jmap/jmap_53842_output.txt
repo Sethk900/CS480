@@ -1,5 +1,0 @@
-{'word': 'Boviguard', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Henderson', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'Nevada', 'lat': '36.0397', 'lon': '-114.98194', 'country_code3': 'USA', 'geonameid': '5505411', 'place_name': 'Henderson', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Gloucester', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'GBR', 'country_conf': 0.9048774, 'geo': {'admin1': 'England', 'lat': '51.83333', 'lon': '-2.16667', 'country_code3': 'GBR', 'geonameid': '2648402', 'place_name': 'Gloucestershire', 'feature_class': 'A', 'feature_code': 'ADM2'}}
-{'word': 'UK', 'spans': [{'start': 0, 'end': 2}], 'country_predicted': 'GBR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '54.75844', 'lon': '-2.69531', 'country_code3': 'GBR', 'geonameid': '2635167', 'place_name': 'United Kingdom of Great Britain and Northern Ireland', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Boviguard', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': '', 'country_conf': 0}

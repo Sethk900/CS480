@@ -1,8 +1,0 @@
-{'word': 'KCH', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IND', 'country_conf': 0.28365934}
-{'word': 'KCH', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IND', 'country_conf': 0.28365934}
-{'word': 'Sabah', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MYS', 'country_conf': 0.28365934}
-{'word': 'Sabah', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MYS', 'country_conf': 0.28365934}
-{'word': 'Sabah', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MYS', 'country_conf': 0.28365934}
-{'word': 'Sabah', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MYS', 'country_conf': 0.28365934}
-{'word': 'Sabah', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MYS', 'country_conf': 0.28365934}
-{'word': 'Sabah', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'MYS', 'country_conf': 0.28365934}

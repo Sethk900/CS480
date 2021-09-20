@@ -1,1 +1,0 @@
-{'word': 'Yongchang', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'CHN', 'country_conf': 0.92213035, 'geo': {'admin1': 'Chongqing', 'lat': '29.35376', 'lon': '105.89392', 'country_code3': 'CHN', 'geonameid': '1786378', 'place_name': 'Yongchuan', 'feature_class': 'P', 'feature_code': 'PPL'}}

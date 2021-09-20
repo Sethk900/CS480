@@ -1,1 +1,0 @@
-{'word': 'Fremont', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.957188, 'geo': {'admin1': 'California', 'lat': '37.54827', 'lon': '-121.98857', 'country_code3': 'USA', 'geonameid': '5350734', 'place_name': 'Fremont', 'feature_class': 'P', 'feature_code': 'PPL'}}

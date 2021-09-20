@@ -1,2 +1,0 @@
-{'word': 'coast', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'GMB', 'country_conf': 0.28365934}
-{'word': 'Amsterdam', 'spans': [{'start': 0, 'end': 9}], 'country_predicted': 'NLD', 'country_conf': 0.957188, 'geo': {'admin1': 'North Holland', 'lat': '52.37302', 'lon': '4.89856', 'country_code3': 'NLD', 'geonameid': '2759793', 'place_name': 'Gemeente Amsterdam', 'feature_class': 'A', 'feature_code': 'ADM2'}}

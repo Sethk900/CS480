@@ -1,3 +1,0 @@
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}
-{'word': 'Dimas', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'USA', 'country_conf': 0.87992215, 'geo': {'admin1': 'California', 'lat': '34.10668', 'lon': '-117.80673', 'country_code3': 'USA', 'geonameid': '5391891', 'place_name': 'San Dimas', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

@@ -1,2 +1,0 @@
-{'word': 'Pseudorhombila', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'h.', 'spans': [{'start': 13, 'end': 15}], 'country_predicted': 'ITA', 'country_conf': 0.28868946}

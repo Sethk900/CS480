@@ -1,2 +1,0 @@
-{'word': 'Qinghai', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Qinghai', 'lat': '36', 'lon': '96', 'country_code3': 'CHN', 'geonameid': '1280239', 'place_name': 'Qinghai Sheng', 'feature_class': 'A', 'feature_code': 'ADM1'}}
-{'word': 'Qinghai', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CHN', 'country_conf': 0.9048774, 'geo': {'admin1': 'Qinghai', 'lat': '36', 'lon': '96', 'country_code3': 'CHN', 'geonameid': '1280239', 'place_name': 'Qinghai Sheng', 'feature_class': 'A', 'feature_code': 'ADM1'}}

@@ -1,1 +1,0 @@
-{'word': 'Trinidad', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'CUB', 'country_conf': 0.87992215, 'geo': {'admin1': 'Sancti Spritus', 'lat': '21.80224', 'lon': '-79.98467', 'country_code3': 'CUB', 'geonameid': '3534915', 'place_name': 'Trinidad', 'feature_class': 'P', 'feature_code': 'PPLA2'}}

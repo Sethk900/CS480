@@ -1,1 +1,0 @@
-{'word': 'Brisbane', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'AUS', 'country_conf': 0.96374094, 'geo': {'admin1': 'Queensland', 'lat': '-27.46794', 'lon': '153.02809', 'country_code3': 'AUS', 'geonameid': '2174003', 'place_name': 'Brisbane', 'feature_class': 'P', 'feature_code': 'PPLA'}}

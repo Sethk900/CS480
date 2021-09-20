@@ -1,1 +1,0 @@
-{'word': 'Nepal-Himalaya', 'spans': [{'start': 0, 'end': 14}], 'country_predicted': 'NPL', 'country_conf': 0.24821267}
