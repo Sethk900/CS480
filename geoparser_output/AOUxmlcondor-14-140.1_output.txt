@@ -1,6 +1,0 @@
-{'word': 'Antonio', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'CUB', 'country_conf': 0.28868946}
-{'word': 'Knape', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'SVN', 'country_conf': 0.28868946}
-{'word': 'Maggini', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.9528109, 'geo': {'admin1': 'Nevada', 'lat': '39.84743', 'lon': '-115.87117', 'country_code3': 'USA', 'geonameid': '5507702', 'place_name': 'Maggini Ranch', 'feature_class': 'S', 'feature_code': ''}}
-{'word': 'Salinas', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'ECU', 'country_conf': 0.87992215, 'geo': {'admin1': 'Santa Elena', 'lat': '-2.21452', 'lon': '-80.95151', 'country_code3': 'ECU', 'geonameid': '3652100', 'place_name': 'Salinas', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Tingley', 'spans': [{'start': 0, 'end': 7}], 'country_predicted': 'USA', 'country_conf': 0.92213035, 'geo': {'admin1': 'Iowa', 'lat': '40.85275', 'lon': '-94.1958', 'country_code3': 'USA', 'geonameid': '7164985', 'place_name': 'City of Tingley', 'feature_class': 'A', 'feature_code': 'ADMD'}}
-{'word': 'Virginia', 'spans': [{'start': 0, 'end': 8}], 'country_predicted': 'HND', 'country_conf': 0.19161284}

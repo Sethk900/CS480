@@ -1,5 +1,0 @@
-{'word': 'Mountain,&rdquo', 'spans': [{'start': 0, 'end': 15}], 'country_predicted': '', 'country_conf': 0}
-{'word': 'Israel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'Eilat', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ISR', 'country_conf': 0.96374094, 'geo': {'admin1': 'Southern District', 'lat': '29.55805', 'lon': '34.94821', 'country_code3': 'ISR', 'geonameid': '295277', 'place_name': 'Eilat', 'feature_class': 'P', 'feature_code': 'PPL'}}
-{'word': 'Israel', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'ISR', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '31.5', 'lon': '34.75', 'country_code3': 'ISR', 'geonameid': '294640', 'place_name': 'State of Israel', 'feature_class': 'A', 'feature_code': 'PCLI'}}
-{'word': 'California', 'spans': [{'start': 0, 'end': 10}], 'country_predicted': 'COL', 'country_conf': 0.19161284}

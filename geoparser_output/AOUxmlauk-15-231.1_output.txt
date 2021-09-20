@@ -1,1 +1,0 @@
-{'word': 'Islas', 'spans': [{'start': 0, 'end': 5}], 'country_predicted': 'ESP', 'country_conf': 0.87992215, 'geo': {'admin1': 'Canary Islands', 'lat': '28', 'lon': '-15.5', 'country_code3': 'ESP', 'geonameid': '2520308', 'place_name': 'Canary Islands', 'feature_class': 'T', 'feature_code': 'ISLS'}}

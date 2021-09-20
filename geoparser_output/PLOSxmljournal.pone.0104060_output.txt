@@ -1,1 +1,0 @@
-{'word': 'Switzerland', 'spans': [{'start': 0, 'end': 11}], 'country_predicted': 'CHE', 'country_conf': 0.9516948, 'geo': {'admin1': 'NA', 'lat': '47.00016', 'lon': '8.01427', 'country_code3': 'CHE', 'geonameid': '2658434', 'place_name': 'Switzerland', 'feature_class': 'A', 'feature_code': 'PCLI'}}

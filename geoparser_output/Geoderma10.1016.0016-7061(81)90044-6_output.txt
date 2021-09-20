@@ -1,3 +1,0 @@
-{'word': 'Berlin', 'spans': [{'start': 0, 'end': 6}], 'country_predicted': 'DEU', 'country_conf': 0.957188, 'geo': {'admin1': 'Berlin', 'lat': '52.5233', 'lon': '13.41377', 'country_code3': 'DEU', 'geonameid': '6547383', 'place_name': 'Berlin, Stadt', 'feature_class': 'A', 'feature_code': 'ADM3'}}
-{'word': 'pp.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
-{'word': 'pp.', 'spans': [{'start': 0, 'end': 3}], 'country_predicted': 'IND', 'country_conf': 0.28868946}
