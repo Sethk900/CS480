@@ -6,3 +6,5 @@ RSE
 wget_log.txt
 geonames_index
 jmap
+geoparser_output
+processed_files

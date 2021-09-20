@@ -1,58 +1,78 @@
 #!/usr/bin/python3
 # This script iterates through geoparser output and determines which place name is mentioned the most times
 
-import json, ast, os
+import json, ast, os, re
 
-#infile = input("Enter the name of a file you'd like to analyze: ")
-#infile = "../geoparser_output/" + infile
+geoderma = re.compile('.*Geoderma.*')
+
+AOU = re.compile('.*AOU.*')
+
+#if filters is not empty then the script only processes files that pass a filter
+filters = [
+#	geoderma,
+#	AOU
+]
+
+#checkes all files in these folders
+folders = [
+	"/JournalMap/CS480/geoparser_output/",
+	"/JournalMap/CS480/geoparser_output/jmap/"
+]
+
+
+#use this if you want to check single files
+files = [
+#	"/JournalMap/CS480/geoparser_output/singlefile.txt"
+]
+
 outfile = "countnames_output.txt"
-
-checked_names = []
-
-#max_count = 0
-#top_name = ""
-#second_name = ""
 
 output = open(outfile, "w");
 
-for file in os.listdir("/JournalMap/CS480/geoparser_output/"):
-	infile = "../geoparser_output/" + file
-	max_count = 0
-	top_name = ""
-	second_name = ""
-	with open(infile, "r") as input:
+#after this loop, the files list has all the files that are going to be processed
+for inputfolder in folders:
+	for inputfile in os.listdir(inputfolder):
+		if(os.path.isdir(inputfile)):
+			continue
+		if(filters):
+			for filtr in filters:
+				if(filtr.match(inputfile)==None):
+					continue
+				else:
+					files.append(inputfolder + inputfile)
+					break
+		else:
+			files.append(inputfolder + inputfile)
+
+#counts up the number of times each word is found
+for file in files:
+	checked_names = {}
+	
+	try:
+		with open(file, "r") as Finput:
+			lines = Finput.readlines()
+	except:
+		continue
+	for line in lines:
+#		print(line)
 		try:
-			lines = input.readlines()
+			word = ast.literal_eval(line)
 		except:
 			continue
-		for line in lines:
-#			print(line)
-			try:
-				word = ast.literal_eval(line)
-			except:
-				continue
-			placename = word['word']
-			if placename not in checked_names:
-				count = 0
-				checked_names.append(placename)
-				test = open(infile, "r")
-				for line1 in test.readlines():
-					try:
-						checkword = ast.literal_eval(line1)
-					except:
-						continue
-					if checkword['word'] == placename:
-						count = count + 1
-				if count > max_count:
-					max_count = count
-					second_name = top_name
-					top_name = placename
-				# Count the number of times that the name was referenced in the file
-			else:
-				continue
-
-		input.close()
-	output.write("FILE: " + str(file) + " TOP NAME: "+ top_name + "(appears " + str(max_count) + " times)" + " SECOND NAME: " + second_name)
-	output.write("\n")
+		placename = word['word']
+		if placename not in checked_names:
+			checked_names[placename] = 1
+		else:
+			checked_names[placename] = checked_names[placename] + 1
+			
+	if(checked_names):
+		top_name = max(checked_names, key=checked_names.get)
+		max_count = checked_names[top_name]
+		checked_names[top_name] = 0
+		second_name = max(checked_names, key=checked_names.get)
+		output.write("FILE: " + str(file) + " TOP NAME: "+ top_name + "(appears " + str(max_count) + " times)" + " SECOND NAME: " + second_name)
+		output.write("\n")
+	Finput.close()
+	
 
 output.close()
