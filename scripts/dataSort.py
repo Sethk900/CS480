@@ -23,9 +23,11 @@ for line in namesFile:
             break
         if(character == '|' and flag == False):
             flag = True
+    parse = geo.geoparse(workingString)
     #Check to see if it's a place name.  If true, add it.  Otherwise, ignore.
-    if (len(str(geo.geoparse(workingString))) > 0):
-        presortArray.append(workingString)   #Add the entry to the array
+    if (len(str(parse)) > 0):
+        word = parse['word']                        #Take the literal match from mordecai
+        presortArray.append((word,workingString))   #Add the entry to the array with our full species name
 
 namesFile.close()          #Close the vernaculars file
 presortArray.sort()        #Sort the array of names

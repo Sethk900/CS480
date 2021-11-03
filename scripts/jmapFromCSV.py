@@ -5,6 +5,8 @@ import sys
 import os
 import csv
 import json
+import reverse_geocoder as rg
+import pycountry
 
 os.chdir('../')
 
@@ -15,7 +17,7 @@ input_files = (
     ('jmap_locations.csv','location')
 )
 output_folder = 'processed_files/jmap'
-output_file = 'jmap_data.json'
+output_file = 'tests/jmap_data.json'
 
 os.chdir('./'+input_folder)
 
@@ -46,7 +48,10 @@ for file in input_files:
         last_id = 0
         for article in articles:
             try:
-                a_id = int(article['id'])
+                if('article_id' in article):
+                    a_id = int(article['article_id'])
+                else:
+                    a_id = int(article['id'])
             except ValueError:
                 print('Bad id: ' + article['id'])
                 continue
@@ -71,6 +76,22 @@ for i in data:
     data2[i]['state_id']=data[i][input_files[1][1]]['state_id']
     data2[i]['latitude']=data[i][input_files[1][1]]['latitude']
     data2[i]['longitude']=data[i][input_files[1][1]]['longitude']
+
+print("Doing counntry code lookup")
+latlonglist = []
+indexlist = []
+for i in data2:
+    latlonglist.append((float(data2[i]['latitude']),float(data2[i]['longitude'])))
+    indexlist.append(i)
+country2_codes = rg.search(latlonglist)
+for i in range(len(country2_codes)):
+    try:
+        temp = country2_codes[i]['cc']
+        data2[indexlist[i]]['alpha3_country'] = pycountry.countries.get(alpha_2=temp).alpha_3
+    except:
+        print("Article :" + data2[indexlist[i]]['title'] + "\nNo alpha3 country")
+        data2[indexlist[i]]['alpha3_country'] = ''
+    
 
 os.chdir('../')
 

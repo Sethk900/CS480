@@ -38,9 +38,11 @@ stats2 = [0] * len(input_dirs)
 xml_tags = re.compile('<.*?>')
 
 
+
 #Open test files
+# :obj folder: Two-tuple representing name of the folder and list of tuples representing the desired XML tags
 for idx, folder in enumerate(input_dirs):
-    directory = r'./' + folder[0]
+    directory = r'./' + folder[0] # i.e. Geoderma
     directory2 = r'./' + output_folder
     
     for root, dirs, filenames in os.walk(directory):
@@ -54,8 +56,8 @@ for idx, folder in enumerate(input_dirs):
                 line = file.read()
                 print(filename)
                 f = open(directory2 + '/' + folder[0] + filename,"w")
-                for tags in folder[1]:
-                    results = re.findall(tags[0] + '.*' + tags[1],line)
+                for tags in folder[1]: # List of tuples representing the desired tags
+                    results = re.findall(tags[0] + '.*' + tags[1],line) # Pull out the text between desired tags
                     for result in results:
                         #Send output to test file
                         if result:
