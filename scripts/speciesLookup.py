@@ -18,7 +18,8 @@ def speciesLookup(inputString,lookup_key):
             if(name in inputString):
                 return True   #We FOUND a species name
     except:
-        print("Key error... " + lookup_key + " does not seem to exist within the lookup dictionary.\n")
+        pass
+        #print("Key error... " + lookup_key + " does not seem to exist within the lookup dictionary.\n")
 
     return False          #We did NOT FIND a species name
     
